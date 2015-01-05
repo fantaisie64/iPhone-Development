@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		681CF4A713AF79BE001FBA0F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 681CF4A613AF79BE001FBA0F /* UIKit.framework */; };
+		681CF4A913AF79BE001FBA0F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 681CF4A813AF79BE001FBA0F /* Foundation.framework */; };
+		681CF4AB13AF79BE001FBA0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 681CF4AA13AF79BE001FBA0F /* CoreGraphics.framework */; };
+		681CF4B113AF79BE001FBA0F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 681CF4AF13AF79BE001FBA0F /* InfoPlist.strings */; };
+		681CF4B413AF79BE001FBA0F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 681CF4B313AF79BE001FBA0F /* main.m */; };
+		681CF4B713AF79BE001FBA0F /* SimpleSearchAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 681CF4B613AF79BE001FBA0F /* SimpleSearchAppDelegate.m */; };
+		681CF4BA13AF79BE001FBA0F /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 681CF4B813AF79BE001FBA0F /* MainWindow.xib */; };
+		681CF4BD13AF79BE001FBA0F /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 681CF4BC13AF79BE001FBA0F /* RootViewController.m */; };
+		681CF4C013AF79BE001FBA0F /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 681CF4BE13AF79BE001FBA0F /* RootViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		681CF4A213AF79BE001FBA0F /* SimpleSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		681CF4A613AF79BE001FBA0F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		681CF4A813AF79BE001FBA0F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		681CF4AA13AF79BE001FBA0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		681CF4AE13AF79BE001FBA0F /* SimpleSearch-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SimpleSearch-Info.plist"; sourceTree = "<group>"; };
+		681CF4B013AF79BE001FBA0F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		681CF4B213AF79BE001FBA0F /* SimpleSearch-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SimpleSearch-Prefix.pch"; sourceTree = "<group>"; };
+		681CF4B313AF79BE001FBA0F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		681CF4B513AF79BE001FBA0F /* SimpleSearchAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimpleSearchAppDelegate.h; sourceTree = "<group>"; };
+		681CF4B613AF79BE001FBA0F /* SimpleSearchAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleSearchAppDelegate.m; sourceTree = "<group>"; };
+		681CF4B913AF79BE001FBA0F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		681CF4BB13AF79BE001FBA0F /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		681CF4BC13AF79BE001FBA0F /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		681CF4BF13AF79BE001FBA0F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		681CF49F13AF79BE001FBA0F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				681CF4A713AF79BE001FBA0F /* UIKit.framework in Frameworks */,
+				681CF4A913AF79BE001FBA0F /* Foundation.framework in Frameworks */,
+				681CF4AB13AF79BE001FBA0F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		681CF49713AF79BE001FBA0F = {
+			isa = PBXGroup;
+			children = (
+				681CF4AC13AF79BE001FBA0F /* SimpleSearch */,
+				681CF4A513AF79BE001FBA0F /* Frameworks */,
+				681CF4A313AF79BE001FBA0F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		681CF4A313AF79BE001FBA0F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				681CF4A213AF79BE001FBA0F /* SimpleSearch.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		681CF4A513AF79BE001FBA0F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				681CF4A613AF79BE001FBA0F /* UIKit.framework */,
+				681CF4A813AF79BE001FBA0F /* Foundation.framework */,
+				681CF4AA13AF79BE001FBA0F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		681CF4AC13AF79BE001FBA0F /* SimpleSearch */ = {
+			isa = PBXGroup;
+			children = (
+				681CF4B513AF79BE001FBA0F /* SimpleSearchAppDelegate.h */,
+				681CF4B613AF79BE001FBA0F /* SimpleSearchAppDelegate.m */,
+				681CF4B813AF79BE001FBA0F /* MainWindow.xib */,
+				681CF4BB13AF79BE001FBA0F /* RootViewController.h */,
+				681CF4BC13AF79BE001FBA0F /* RootViewController.m */,
+				681CF4BE13AF79BE001FBA0F /* RootViewController.xib */,
+				681CF4AD13AF79BE001FBA0F /* Supporting Files */,
+			);
+			path = SimpleSearch;
+			sourceTree = "<group>";
+		};
+		681CF4AD13AF79BE001FBA0F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				681CF4AE13AF79BE001FBA0F /* SimpleSearch-Info.plist */,
+				681CF4AF13AF79BE001FBA0F /* InfoPlist.strings */,
+				681CF4B213AF79BE001FBA0F /* SimpleSearch-Prefix.pch */,
+				681CF4B313AF79BE001FBA0F /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		681CF4A113AF79BE001FBA0F /* SimpleSearch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 681CF4C313AF79BE001FBA0F /* Build configuration list for PBXNativeTarget "SimpleSearch" */;
+			buildPhases = (
+				681CF49E13AF79BE001FBA0F /* Sources */,
+				681CF49F13AF79BE001FBA0F /* Frameworks */,
+				681CF4A013AF79BE001FBA0F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SimpleSearch;
+			productName = SimpleSearch;
+			productReference = 681CF4A213AF79BE001FBA0F /* SimpleSearch.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		681CF49913AF79BE001FBA0F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 681CF49C13AF79BE001FBA0F /* Build configuration list for PBXProject "SimpleSearch" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 681CF49713AF79BE001FBA0F;
+			productRefGroup = 681CF4A313AF79BE001FBA0F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				681CF4A113AF79BE001FBA0F /* SimpleSearch */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		681CF4A013AF79BE001FBA0F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				681CF4B113AF79BE001FBA0F /* InfoPlist.strings in Resources */,
+				681CF4BA13AF79BE001FBA0F /* MainWindow.xib in Resources */,
+				681CF4C013AF79BE001FBA0F /* RootViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		681CF49E13AF79BE001FBA0F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				681CF4B413AF79BE001FBA0F /* main.m in Sources */,
+				681CF4B713AF79BE001FBA0F /* SimpleSearchAppDelegate.m in Sources */,
+				681CF4BD13AF79BE001FBA0F /* RootViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		681CF4AF13AF79BE001FBA0F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				681CF4B013AF79BE001FBA0F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		681CF4B813AF79BE001FBA0F /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				681CF4B913AF79BE001FBA0F /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		681CF4BE13AF79BE001FBA0F /* RootViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				681CF4BF13AF79BE001FBA0F /* en */,
+			);
+			name = RootViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		681CF4C113AF79BE001FBA0F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		681CF4C213AF79BE001FBA0F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		681CF4C413AF79BE001FBA0F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimpleSearch/SimpleSearch-Prefix.pch";
+				INFOPLIST_FILE = "SimpleSearch/SimpleSearch-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		681CF4C513AF79BE001FBA0F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimpleSearch/SimpleSearch-Prefix.pch";
+				INFOPLIST_FILE = "SimpleSearch/SimpleSearch-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		681CF49C13AF79BE001FBA0F /* Build configuration list for PBXProject "SimpleSearch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				681CF4C113AF79BE001FBA0F /* Debug */,
+				681CF4C213AF79BE001FBA0F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		681CF4C313AF79BE001FBA0F /* Build configuration list for PBXNativeTarget "SimpleSearch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				681CF4C413AF79BE001FBA0F /* Debug */,
+				681CF4C513AF79BE001FBA0F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 681CF49913AF79BE001FBA0F /* Project object */;
+}

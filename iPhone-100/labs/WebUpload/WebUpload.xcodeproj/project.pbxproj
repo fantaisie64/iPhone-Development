@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68DA6C42140A36D2001294E4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68DA6C41140A36D2001294E4 /* UIKit.framework */; };
+		68DA6C44140A36D2001294E4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68DA6C43140A36D2001294E4 /* Foundation.framework */; };
+		68DA6C46140A36D2001294E4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68DA6C45140A36D2001294E4 /* CoreGraphics.framework */; };
+		68DA6C4C140A36D2001294E4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68DA6C4A140A36D2001294E4 /* InfoPlist.strings */; };
+		68DA6C4E140A36D2001294E4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68DA6C4D140A36D2001294E4 /* main.m */; };
+		68DA6C52140A36D2001294E4 /* WebUploadAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68DA6C51140A36D2001294E4 /* WebUploadAppDelegate.m */; };
+		68DA6C55140A36D2001294E4 /* WebUploadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68DA6C54140A36D2001294E4 /* WebUploadViewController.m */; };
+		68DA6C58140A36D2001294E4 /* WebUploadViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68DA6C56140A36D2001294E4 /* WebUploadViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		68DA6C3D140A36D1001294E4 /* WebUpload.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebUpload.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68DA6C41140A36D2001294E4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68DA6C43140A36D2001294E4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68DA6C45140A36D2001294E4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		68DA6C49140A36D2001294E4 /* WebUpload-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WebUpload-Info.plist"; sourceTree = "<group>"; };
+		68DA6C4B140A36D2001294E4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		68DA6C4D140A36D2001294E4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68DA6C4F140A36D2001294E4 /* WebUpload-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WebUpload-Prefix.pch"; sourceTree = "<group>"; };
+		68DA6C50140A36D2001294E4 /* WebUploadAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebUploadAppDelegate.h; sourceTree = "<group>"; };
+		68DA6C51140A36D2001294E4 /* WebUploadAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebUploadAppDelegate.m; sourceTree = "<group>"; };
+		68DA6C53140A36D2001294E4 /* WebUploadViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebUploadViewController.h; sourceTree = "<group>"; };
+		68DA6C54140A36D2001294E4 /* WebUploadViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebUploadViewController.m; sourceTree = "<group>"; };
+		68DA6C57140A36D2001294E4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/WebUploadViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68DA6C3A140A36D1001294E4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68DA6C42140A36D2001294E4 /* UIKit.framework in Frameworks */,
+				68DA6C44140A36D2001294E4 /* Foundation.framework in Frameworks */,
+				68DA6C46140A36D2001294E4 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68DA6C32140A36D1001294E4 = {
+			isa = PBXGroup;
+			children = (
+				68DA6C47140A36D2001294E4 /* WebUpload */,
+				68DA6C40140A36D2001294E4 /* Frameworks */,
+				68DA6C3E140A36D1001294E4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68DA6C3E140A36D1001294E4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68DA6C3D140A36D1001294E4 /* WebUpload.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68DA6C40140A36D2001294E4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68DA6C41140A36D2001294E4 /* UIKit.framework */,
+				68DA6C43140A36D2001294E4 /* Foundation.framework */,
+				68DA6C45140A36D2001294E4 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68DA6C47140A36D2001294E4 /* WebUpload */ = {
+			isa = PBXGroup;
+			children = (
+				68DA6C50140A36D2001294E4 /* WebUploadAppDelegate.h */,
+				68DA6C51140A36D2001294E4 /* WebUploadAppDelegate.m */,
+				68DA6C53140A36D2001294E4 /* WebUploadViewController.h */,
+				68DA6C54140A36D2001294E4 /* WebUploadViewController.m */,
+				68DA6C56140A36D2001294E4 /* WebUploadViewController.xib */,
+				68DA6C48140A36D2001294E4 /* Supporting Files */,
+			);
+			path = WebUpload;
+			sourceTree = "<group>";
+		};
+		68DA6C48140A36D2001294E4 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68DA6C49140A36D2001294E4 /* WebUpload-Info.plist */,
+				68DA6C4A140A36D2001294E4 /* InfoPlist.strings */,
+				68DA6C4D140A36D2001294E4 /* main.m */,
+				68DA6C4F140A36D2001294E4 /* WebUpload-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68DA6C3C140A36D1001294E4 /* WebUpload */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68DA6C5B140A36D2001294E4 /* Build configuration list for PBXNativeTarget "WebUpload" */;
+			buildPhases = (
+				68DA6C39140A36D1001294E4 /* Sources */,
+				68DA6C3A140A36D1001294E4 /* Frameworks */,
+				68DA6C3B140A36D1001294E4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WebUpload;
+			productName = WebUpload;
+			productReference = 68DA6C3D140A36D1001294E4 /* WebUpload.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68DA6C34140A36D1001294E4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68DA6C37140A36D1001294E4 /* Build configuration list for PBXProject "WebUpload" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68DA6C32140A36D1001294E4;
+			productRefGroup = 68DA6C3E140A36D1001294E4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68DA6C3C140A36D1001294E4 /* WebUpload */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68DA6C3B140A36D1001294E4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68DA6C4C140A36D2001294E4 /* InfoPlist.strings in Resources */,
+				68DA6C58140A36D2001294E4 /* WebUploadViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68DA6C39140A36D1001294E4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68DA6C4E140A36D2001294E4 /* main.m in Sources */,
+				68DA6C52140A36D2001294E4 /* WebUploadAppDelegate.m in Sources */,
+				68DA6C55140A36D2001294E4 /* WebUploadViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		68DA6C4A140A36D2001294E4 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68DA6C4B140A36D2001294E4 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68DA6C56140A36D2001294E4 /* WebUploadViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68DA6C57140A36D2001294E4 /* en */,
+			);
+			name = WebUploadViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		68DA6C59140A36D2001294E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		68DA6C5A140A36D2001294E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		68DA6C5C140A36D2001294E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WebUpload/WebUpload-Prefix.pch";
+				INFOPLIST_FILE = "WebUpload/WebUpload-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68DA6C5D140A36D2001294E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WebUpload/WebUpload-Prefix.pch";
+				INFOPLIST_FILE = "WebUpload/WebUpload-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68DA6C37140A36D1001294E4 /* Build configuration list for PBXProject "WebUpload" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68DA6C59140A36D2001294E4 /* Debug */,
+				68DA6C5A140A36D2001294E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68DA6C5B140A36D2001294E4 /* Build configuration list for PBXNativeTarget "WebUpload" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68DA6C5C140A36D2001294E4 /* Debug */,
+				68DA6C5D140A36D2001294E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68DA6C34140A36D1001294E4 /* Project object */;
+}

@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68A10F5213010FD100B68645 /* TestTimer */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* TestTimer */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* TestTimer */,
+		);
+		codeSenseManager = 68A10F5E13010FD600B68645 /* Code sense */;
+		executables = (
+			68A10F5213010FD100B68645 /* TestTimer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					788,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318836689;
+			PBXWorkspaceStateSaveDate = 318836689;
+		};
+		perUserProjectItems = {
+			68A10F651301158300B68645 /* PBXTextBookmark */ = 68A10F651301158300B68645 /* PBXTextBookmark */;
+			68A10F661301158300B68645 /* PBXTextBookmark */ = 68A10F661301158300B68645 /* PBXTextBookmark */;
+			68A10F671301158300B68645 /* PBXBookmark */ = 68A10F671301158300B68645 /* PBXBookmark */;
+			68A10F681301158300B68645 /* PBXTextBookmark */ = 68A10F681301158300B68645 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68A10F5D13010FD600B68645 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* TestTimer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {966, 464}}";
+			sepNavSelRange = "{521, 0}";
+			sepNavVisRange = "{0, 584}";
+		};
+	};
+	68A10F5213010FD100B68645 /* TestTimer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TestTimer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68A10F5D13010FD600B68645 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68A10F5E13010FD600B68645 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68A10F601301103D00B68645 /* DatePrinter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {966, 464}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 206}";
+		};
+	};
+	68A10F611301103D00B68645 /* DatePrinter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {966, 464}}";
+			sepNavSelRange = "{125, 290}";
+			sepNavVisRange = "{0, 415}";
+		};
+	};
+	68A10F651301158300B68645 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68A10F601301103D00B68645 /* DatePrinter.h */;
+		name = "DatePrinter.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 206;
+		vrLoc = 0;
+	};
+	68A10F661301158300B68645 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68A10F611301103D00B68645 /* DatePrinter.m */;
+		name = "DatePrinter.m: 9";
+		rLen = 290;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 0;
+	};
+	68A10F671301158300B68645 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* TestTimer.m */;
+	};
+	68A10F681301158300B68645 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* TestTimer.m */;
+		name = "TestTimer.m: 17";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 584;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* TestTimer */ = {
+		activeExec = 0;
+		executables = (
+			68A10F5213010FD100B68645 /* TestTimer */,
+		);
+	};
+}

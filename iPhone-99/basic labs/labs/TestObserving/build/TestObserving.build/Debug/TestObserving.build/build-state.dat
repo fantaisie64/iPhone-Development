@@ -1,0 +1,155 @@
+TTestObserving
+v7
+r0
+t318833472.823710
+cCheck dependencies
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestObserving_Prefix-dtotiirvxibhyxabkeejgddbhmeu/TestObserving_Prefix.pch.gch TestObserving_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/TestObserving.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/TestObserving.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/Engine.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Engine.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/Observer.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Observer.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug/TestObserving" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Engine.h
+c000000004D50C45100000000000000FB
+t1297138769
+s251
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Engine.m
+c000000004D50C45100000000000000C1
+t1297138769
+s193
+i"Engine.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Observer.h
+c000000004D50C21100000000000000CC
+t1297138193
+s204
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Observer.m
+c000000004D50C6D200000000000001AC
+t1297139410
+s428
+i"Observer.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/TestObserving.m
+c000000004D50C44F000000000000029A
+t1297138767
+s666
+i<Foundation/Foundation.h>
+i"Engine.h"
+i"Observer.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/TestObserving_Prefix.pch
+c000000004D50BFC000000000000000A8
+t1297137600
+s168
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug/TestObserving
+t1297139417
+s11472
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/Engine.o
+t1297138774
+s7876
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/Observer.o
+t1297139417
+s7912
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/TestObserving.LinkFileList
+c000000004D50C45100000000000001F8
+t1297138769
+s504
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/TestObserving.o
+t1297138774
+s8480
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestObserving_Prefix-dtotiirvxibhyxabkeejgddbhmeu/TestObserving_Prefix.pch.gch
+t1297138773
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318833472#318833472#0(0"0(0#1#0"8600813472#0"0#
+
+CCompileC build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/Engine.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Engine.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318831574.243377
+e318831574.515238
+r1
+xCompileC
+xbuild/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/Engine.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Engine.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Engine.m318831574#318831574#0(0"0(0#0#90"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Engine.m8615986016#2069"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestObserving_Prefix-dtotiirvxibhyxabkeejgddbhmeu/TestObserving_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Engine.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/Engine.o"0#
+
+CCompileC build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/Observer.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Observer.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318832216.871862
+e318832217.505082
+r1
+xCompileC
+xbuild/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/Observer.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Observer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Observer.m318832216#318832217#0(0"0(0#0#92"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Observer.m8616557056#2073"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestObserving_Prefix-dtotiirvxibhyxabkeejgddbhmeu/TestObserving_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/Observer.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/Observer.o"0#
+
+CCompileC build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/TestObserving.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/TestObserving.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318831574.241118
+e318831574.525990
+r1
+xCompileC
+xbuild/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/TestObserving.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/TestObserving.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/TestObserving.m318831574#318831574#0(0"0(0#0#97"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/TestObserving.m8610777536#2083"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestObserving_Prefix-dtotiirvxibhyxabkeejgddbhmeu/TestObserving_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/TestObserving.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/TestObserving.o"0#
+
+CLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug/TestObserving" normal x86_64
+s318832217.505338
+e318832217.551531
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug/TestObserving
+xnormal
+xx86_64
+lSLF07#2@112"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug/TestObserving318832217#318832217#0(0"0(0#0#0"8616945728#769"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug" -filelist "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/Objects-normal/x86_64/TestObserving.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug/TestObserving"0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestObserving_Prefix-dtotiirvxibhyxabkeejgddbhmeu/TestObserving_Prefix.pch.gch TestObserving_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318831569.321227
+e318831574.240811
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestObserving_Prefix-dtotiirvxibhyxabkeejgddbhmeu/TestObserving_Prefix.pch.gch
+xTestObserving_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile TestObserving_Prefix.pch318831569#318831574#0(0"0(0#0#106"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/TestObserving_Prefix.pch8616535424#1920"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/TestObserving-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/build/TestObserving.build/Debug/TestObserving.build/DerivedSources" -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestObserving/TestObserving_Prefix.pch" -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestObserving_Prefix-dtotiirvxibhyxabkeejgddbhmeu/TestObserving_Prefix.pch.gch0#
+

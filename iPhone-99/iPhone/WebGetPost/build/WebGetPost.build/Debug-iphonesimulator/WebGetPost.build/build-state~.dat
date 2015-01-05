@@ -1,0 +1,259 @@
+TWebGetPost
+v7
+r0
+t309886186.535530
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/Info.plist WebGetPost-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/WebGetPostViewController.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebGetPost_Prefix-bjucypnyqfsbdcbqbzvzpdnigiiw/WebGetPost_Prefix.pch.gch WebGetPost_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPostAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPostViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost
+cTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostAppDelegate.h
+c000000004CC83F2400000000000001E3
+t1288191780
+s483
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostAppDelegate.m
+c000000004CC83F240000000000000A8C
+t1288191780
+s2700
+i"WebGetPostAppDelegate.h"
+i"WebGetPostViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostViewController.h
+c000000004CC83F620000000000000154
+t1288191842
+s340
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostViewController.m
+c000000004CC845670000000000000B27
+t1288193383
+s2855
+i"WebGetPostViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/MainWindow.xib
+c000000004CC83F240000000000004E4D
+t1288191780
+s20045
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/WebGetPostViewController.xib
+c000000004CC8437E0000000000005A4D
+t1288192894
+s23117
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/WebGetPost_Prefix.pch
+c000000004CC83F2400000000000000BD
+t1288191780
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app
+t1288193386
+s238
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app.dSYM
+t1288193386
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/Info.plist
+t1288193383
+s603
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/MainWindow.nib
+t1288193384
+s1129
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/PkgInfo
+t1288193383
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost
+t1288193386
+s18752
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPostViewController.nib
+t1288193384
+s1897
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPost.LinkFileList
+c000000004CC8456700000000000001CF
+t1288193383
+s463
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPostAppDelegate.o
+t1288193386
+s49860
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPostViewController.o
+t1288193386
+s46832
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/main.o
+t1288193386
+s6332
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/main.m
+c000000004CC83F24000000000000015E
+t1288191780
+s350
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebGetPost_Prefix-bjucypnyqfsbdcbqbzvzpdnigiiw/WebGetPost_Prefix.pch.gch
+t1288193385
+s15232016
+
+NWebGetPost-Info.plist
+c000000004CC83F24000000000000038D
+t1288191780
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309886183#309886183#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPostAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309886185.953530
+e309886186.064638
+r1
+xCompileC
+xbuild/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPostAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostAppDelegate.m309886185#309886186#0(0"0(0#0#84"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostAppDelegate.m8598766144#2157"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebGetPost_Prefix-bjucypnyqfsbdcbqbzvzpdnigiiw/WebGetPost_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPostAppDelegate.o0#
+
+CCompileC build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPostViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309886186.021394
+e309886186.108235
+r1
+xCompileC
+xbuild/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPostViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostViewController.m309886186#309886186#0(0"0(0#0#87"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostViewController.m8606621984#2163"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebGetPost_Prefix-bjucypnyqfsbdcbqbzvzpdnigiiw/WebGetPost_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/Classes/WebGetPostViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPostViewController.o0#
+
+CCompileC build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309886185.951697
+e309886186.021260
+r1
+xCompileC
+xbuild/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/main.m309886185#309886186#0(0"0(0#0#59"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/main.m8606839232#2115"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebGetPost_Prefix-bjucypnyqfsbdcbqbzvzpdnigiiw/WebGetPost_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/MainWindow.xib
+s309886183.981626
+e309886184.570293
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib309886183#309886184#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#67"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/MainWindow.xib8607570912#615"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/WebGetPostViewController.xib
+s309886184.016756
+e309886184.628014
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/WebGetPostViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@39"CompileXIB WebGetPostViewController.xib309886184#309886184#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#81"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/WebGetPostViewController.xib8607477696#643"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPostViewController.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/WebGetPostViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost
+s309886186.418211
+e309886186.508793
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/WebGetPost.app.dSYM build/Debug-iphonesimulator/WebGetPost.app/WebGetPost309886186#309886186#0(0"0(0#0#106"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost8607676000#434"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app.dSYM0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost normal i386
+s309886186.108355
+e309886186.418093
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost
+xnormal
+xi386
+lSLF07#2@111"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost309886186#309886186#0(0"0(0#0#0"8600662496#985"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/Objects-normal/i386/WebGetPost.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/WebGetPost0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/Info.plist WebGetPost-Info.plist
+s309886183.938351
+e309886183.981505
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/Info.plist
+xWebGetPost-Info.plist
+lSLF07#2@29"Process WebGetPost-Info.plist309886183#309886183#0(0"0(0#0#74"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/WebGetPost-Info.plist32651531094786144#530"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WebGetPost-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebGetPost_Prefix-bjucypnyqfsbdcbqbzvzpdnigiiw/WebGetPost_Prefix.pch.gch WebGetPost_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309886184.628192
+e309886185.951212
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebGetPost_Prefix-bjucypnyqfsbdcbqbzvzpdnigiiw/WebGetPost_Prefix.pch.gch
+xWebGetPost_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile WebGetPost_Prefix.pch309886184#309886185#0(0"0(0#0#74"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/WebGetPost_Prefix.pch8602980384#1990"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/WebGetPost-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/WebGetPost.build/Debug-iphonesimulator/WebGetPost.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/WebGetPost_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebGetPost_Prefix-bjucypnyqfsbdcbqbzvzpdnigiiw/WebGetPost_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app
+s309886186.509263
+e309886186.535460
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app
+lSLF07#2@101"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app309886186#309886186#0(0"0(0#0#0"8605751040#309"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebGetPost/build/Debug-iphonesimulator/WebGetPost.app0#
+

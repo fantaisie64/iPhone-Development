@@ -1,0 +1,256 @@
+Tlab_IBViewController
+v7
+r0
+t302806287.420348
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/Info.plist lab_IBViewController-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyView.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_IBViewController_Prefix-hjjfarvkqgqrqvhharegchbaocsi/lab_IBViewController_Prefix.pch.gch lab_IBViewController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/lab_IBViewControllerAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/Classes/lab_IBViewControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/MyViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController
+cTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/Classes/lab_IBViewControllerAppDelegate.h
+c000000004C5C31C6000000000000015E
+t1281110470
+s350
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/Classes/lab_IBViewControllerAppDelegate.m
+c000000004C5C3D8E0000000000000A8A
+t1281113486
+s2698
+i"lab_IBViewControllerAppDelegate.h"
+i"MyViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MainWindow.xib
+c000000004C5C31C60000000000002149
+t1281110470
+s8521
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyView.xib
+c000000004C5C3D830000000000004092
+t1281113475
+s16530
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyViewController.h
+c000000004C5C32BD00000000000000E1
+t1281110717
+s225
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyViewController.m
+c000000004C5C32BD0000000000000611
+t1281110717
+s1553
+i"MyViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app
+t1281113487
+s238
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app.dSYM
+t1281113487
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/Info.plist
+t1281113447
+s649
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/MainWindow.nib
+t1281113447
+s997
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/MyView.nib
+t1281113487
+s1185
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/PkgInfo
+t1281113447
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController
+t1281113487
+s17276
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/MyViewController.o
+t1281113448
+s34524
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/lab_IBViewController.LinkFileList
+c000000004C5C3D66000000000000022B
+t1281113446
+s555
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/lab_IBViewControllerAppDelegate.o
+t1281113487
+s48060
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/main.o
+t1281113448
+s6352
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/lab_IBViewController_Prefix.pch
+c000000004C5C31C600000000000000D1
+t1281110470
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/main.m
+c000000004C5C31C60000000000000166
+t1281110470
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_IBViewController_Prefix-hjjfarvkqgqrqvhharegchbaocsi/lab_IBViewController_Prefix.pch.gch
+t1281113448
+s15232016
+
+Nlab_IBViewController-Info.plist
+c000000004C5C31C6000000000000038D
+t1281110470
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302806286#302806286#0(0"0(0#1#0"8607004608#0"0#
+
+CCompileC build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/MyViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302806248.815722
+e302806248.902662
+r1
+xCompileC
+xbuild/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/MyViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyViewController.m302806248#302806248#0(0"0(0#0#81"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyViewController.m8594538080#2449"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_IBViewController_Prefix-hjjfarvkqgqrqvhharegchbaocsi/lab_IBViewController_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/lab_IBViewControllerAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/Classes/lab_IBViewControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302806287.261956
+e302806287.357252
+r1
+xCompileC
+xbuild/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/lab_IBViewControllerAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/Classes/lab_IBViewControllerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/Classes/lab_IBViewControllerAppDelegate.m302806287#302806287#0(0"0(0#0#104"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/Classes/lab_IBViewControllerAppDelegate.m8609344160#2487"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_IBViewController_Prefix-hjjfarvkqgqrqvhharegchbaocsi/lab_IBViewController_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/Classes/lab_IBViewControllerAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/lab_IBViewControllerAppDelegate.o0#
+
+CCompileC build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302806248.586471
+e302806248.815589
+r1
+xCompileC
+xbuild/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/main.m302806248#302806248#0(0"0(0#0#69"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/main.m8596708608#2425"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_IBViewController_Prefix-hjjfarvkqgqrqvhharegchbaocsi/lab_IBViewController_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MainWindow.xib
+s302806247.011416
+e302806247.606909
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302806247#302806247#0(0"0(0#0#77"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MainWindow.xib8595231232#655"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyView.xib
+s302806286.730508
+e302806287.261575
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyView.xib
+lSLF07#2@21"CompileXIB MyView.xib302806286#302806287#0(0"0(0#0#73"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyView.xib8595701280#647"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/MyView.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/MyView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController
+s302806287.387757
+e302806287.414742
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController
+lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/lab_IBViewController.app.dSYM build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController302806287#302806287#0(0"0(0#0#136"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController8609356608#494"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app.dSYM0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController normal i386
+s302806287.357369
+e302806287.387626
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController
+xnormal
+xi386
+lSLF07#2@141"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController302806287#302806287#0(0"0(0#0#0"8609376672#1085"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/Objects-normal/i386/lab_IBViewController.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/lab_IBViewController0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/Info.plist lab_IBViewController-Info.plist
+s302806246.964301
+e302806247.011283
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/Info.plist
+xlab_IBViewController-Info.plist
+lSLF07#2@39"Process lab_IBViewController-Info.plist302806247#302806247#0(0"0(0#0#94"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/lab_IBViewController-Info.plist27303536605069420#590"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility lab_IBViewController-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_IBViewController_Prefix-hjjfarvkqgqrqvhharegchbaocsi/lab_IBViewController_Prefix.pch.gch lab_IBViewController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302806247.607106
+e302806248.586205
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_IBViewController_Prefix-hjjfarvkqgqrqvhharegchbaocsi/lab_IBViewController_Prefix.pch.gch
+xlab_IBViewController_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile lab_IBViewController_Prefix.pch302806247#302806248#0(0"0(0#0#94"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/lab_IBViewController_Prefix.pch8595117024#2280"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/lab_IBViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/lab_IBViewController.build/Debug-iphonesimulator/lab_IBViewController.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/lab_IBViewController_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_IBViewController_Prefix-hjjfarvkqgqrqvhharegchbaocsi/lab_IBViewController_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app
+s302806287.414845
+e302806287.420277
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app
+lSLF07#2@121"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app302806287#302806287#0(0"0(0#0#0"8609159200#339"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_IBViewController/build/Debug-iphonesimulator/lab_IBViewController.app0#
+

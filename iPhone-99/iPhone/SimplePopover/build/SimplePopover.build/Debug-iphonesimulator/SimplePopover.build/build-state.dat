@@ -1,0 +1,327 @@
+TSimplePopover
+v7
+r0
+t309074854.603157
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/Info.plist SimplePopover-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/SimplePopoverViewController.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimplePopover_Prefix-bekubewjvtdcisayagligtgugzhr/SimplePopover_Prefix.pch.gch SimplePopover_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopoverAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopoverViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/RootController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover
+cTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C56F5520000000000000110
+t1280767314
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootController.h
+c000000004CBBCDD500000000000000DD
+t1287376341
+s221
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootController.m
+c000000004CBBDFF7000000000000136E
+t1287380983
+s4974
+i"RootController.h"
+i"SimplePopoverAppDelegate.h"
+i"SimplePopoverViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootList.h
+c000000004CBBCC3700000000000000D1
+t1287375927
+s209
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootList.m
+c000000004CBBCC37000000000000123E
+t1287375927
+s4670
+i"RootList.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverAppDelegate.h
+c000000004CBBCB6500000000000001F5
+t1287375717
+s501
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverAppDelegate.m
+c000000004CBBCB6500000000000007BA
+t1287375717
+s1978
+i"SimplePopoverAppDelegate.h"
+i"SimplePopoverViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverViewController.h
+c000000004CBBD08A0000000000000230
+t1287377034
+s560
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverViewController.m
+c000000004CBBDCD30000000000000AC2
+t1287380179
+s2754
+i"SimplePopoverViewController.h"
+i"RootController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/untitled.h
+c000000004CBBCC7D00000000000000D1
+t1287375997
+s209
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/untitled.m
+c000000004CBBCC7D0000000000001261
+t1287375997
+s4705
+i"untitled.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/MainWindow.xib
+c000000004CBBCB650000000000004D45
+t1287375717
+s19781
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/SimplePopoverViewController.xib
+c000000004CBBD4580000000000005946
+t1287378008
+s22854
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/SimplePopover_Prefix.pch
+c000000004CBBCB6500000000000000C3
+t1287375717
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app
+t1287380989
+s238
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app.dSYM
+t1287380989
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/Info.plist
+t1287380984
+s822
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/MainWindow.nib
+t1287380986
+s1135
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/PkgInfo
+t1287380984
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover
+t1287380989
+s26020
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopoverViewController.nib
+t1287380986
+s1470
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/RootController.o
+t1287380989
+s43696
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/RootList.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopover.LinkFileList
+c000000004CBBDFF80000000000000291
+t1287380984
+s657
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopoverAppDelegate.o
+t1287380988
+s46140
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopoverViewController.o
+t1287380988
+s45152
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/main.o
+t1287380988
+s6336
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/main.m
+c000000004CBBCB650000000000000161
+t1287375717
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimplePopover_Prefix-bekubewjvtdcisayagligtgugzhr/SimplePopover_Prefix.pch.gch
+t1287380988
+s13825936
+
+NSimplePopover-Info.plist
+c000000004CBBCB6500000000000004D6
+t1287375717
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309074854#309074854#0(0"0(0#1#0"8606451040#0"0#
+
+CCompileC build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/RootController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309073788.907348
+e309073789.034232
+r1
+xCompileC
+xbuild/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/RootController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootController.m309073788#309073789#0(0"0(0#0#80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootController.m8616524000#2236"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimplePopover_Prefix-bekubewjvtdcisayagligtgugzhr/SimplePopover_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/RootController.o0#
+
+CCompileC build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/RootList.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/RootList.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopoverAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309073788.672297
+e309073788.907209
+r1
+xCompileC
+xbuild/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopoverAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverAppDelegate.m309073788#309073788#0(0"0(0#0#90"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverAppDelegate.m8604694272#2256"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimplePopover_Prefix-bekubewjvtdcisayagligtgugzhr/SimplePopover_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopoverAppDelegate.o0#
+
+CCompileC build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopoverViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309073788.799164
+e309073788.994719
+r1
+xCompileC
+xbuild/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopoverViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverViewController.m309073788#309073788#0(0"0(0#0#93"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverViewController.m8618105568#2262"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimplePopover_Prefix-bekubewjvtdcisayagligtgugzhr/SimplePopover_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/SimplePopoverViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopoverViewController.o0#
+
+CCompileC build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309073788.670927
+e309073788.799038
+r1
+xCompileC
+xbuild/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/main.m309073788#309073788#0(0"0(0#0#62"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/main.m8598493088#2208"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimplePopover_Prefix-bekubewjvtdcisayagligtgugzhr/SimplePopover_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/main.o0#
+
+CCompileC build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/untitled.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/Classes/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/MainWindow.xib
+s309073784.474349
+e309073786.365957
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309073784#309073786#0(0"0(0#0#70"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/MainWindow.xib8617964512#627"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/SimplePopoverViewController.xib
+s309073784.475873
+e309073786.556843
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/SimplePopoverViewController.xib
+lSLF07#2@42"CompileXIB SimplePopoverViewController.xib309073784#309073786#0(0"0(0#0#87"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/SimplePopoverViewController.xib8617785088#661"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopoverViewController.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/SimplePopoverViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover
+s309073789.179076
+e309073789.279232
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/SimplePopover.app.dSYM build/Debug-iphonesimulator/SimplePopover.app/SimplePopover309073789#309073789#0(0"0(0#0#115"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover8618352032#452"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app.dSYM0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover normal i386
+s309073789.034352
+e309073789.178937
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover
+xnormal
+xi386
+lSLF07#2@120"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover309073789#309073789#0(0"0(0#0#0"8601602176#1015"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/Objects-normal/i386/SimplePopover.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/SimplePopover0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/Info.plist SimplePopover-Info.plist
+s309073784.454919
+e309073784.474198
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/Info.plist
+xSimplePopover-Info.plist
+lSLF07#2@32"Process SimplePopover-Info.plist309073784#309073784#0(0"0(0#0#80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/SimplePopover-Info.plist8618630976#548"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimplePopover-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimplePopover_Prefix-bekubewjvtdcisayagligtgugzhr/SimplePopover_Prefix.pch.gch SimplePopover_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309073786.557032
+e309073788.670755
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimplePopover_Prefix-bekubewjvtdcisayagligtgugzhr/SimplePopover_Prefix.pch.gch
+xSimplePopover_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile SimplePopover_Prefix.pch309073786#309073788#0(0"0(0#0#80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/SimplePopover_Prefix.pch8617849184#2077"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/SimplePopover-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/SimplePopover.build/Debug-iphonesimulator/SimplePopover.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/SimplePopover_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimplePopover_Prefix-bekubewjvtdcisayagligtgugzhr/SimplePopover_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app
+s309073789.279536
+e309073789.285726
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app
+lSLF07#2@107"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app309073789#309073789#0(0"0(0#0#0"8619675584#318"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimplePopover/build/Debug-iphonesimulator/SimplePopover.app0#
+

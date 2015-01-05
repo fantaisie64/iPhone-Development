@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'lab_PicScrollView' target in the 'lab_PicScrollView' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

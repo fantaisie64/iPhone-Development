@@ -1,0 +1,93 @@
+TTestPredicate
+v7
+r0
+t318835566.031802
+cCheck dependencies
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPredicate_Prefix-fkxxnaiorqqdbkazudnehudqrbzw/TestPredicate_Prefix.pch.gch TestPredicate_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestPredicate.build/Debug/TestPredicate.build/Objects-normal/x86_64/TestPredicate.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/TestPredicate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug/TestPredicate" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/TestPredicate.m
+c000000004D50D3E800000000000004B3
+t1297142760
+s1203
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/TestPredicate_Prefix.pch
+c000000004D50D27000000000000000A8
+t1297142384
+s168
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug/TestPredicate
+t1297142766
+s9664
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/Objects-normal/x86_64/TestPredicate.LinkFileList
+c000000004D50D3E800000000000000AC
+t1297142760
+s172
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/Objects-normal/x86_64/TestPredicate.o
+t1297142765
+s10056
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPredicate_Prefix-fkxxnaiorqqdbkazudnehudqrbzw/TestPredicate_Prefix.pch.gch
+t1297142765
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318835560#318835560#0(0"0(0#1#0"8610290048#0"0#
+
+CCompileC build/TestPredicate.build/Debug/TestPredicate.build/Objects-normal/x86_64/TestPredicate.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/TestPredicate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318835565.768357
+e318835565.986561
+r1
+xCompileC
+xbuild/TestPredicate.build/Debug/TestPredicate.build/Objects-normal/x86_64/TestPredicate.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/TestPredicate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/TestPredicate.m318835565#318835565#0(0"0(0#0#97"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/TestPredicate.m8602415424#2083"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/TestPredicate-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/TestPredicate-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/TestPredicate-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/TestPredicate-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPredicate_Prefix-fkxxnaiorqqdbkazudnehudqrbzw/TestPredicate_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/TestPredicate.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/Objects-normal/x86_64/TestPredicate.o"0#
+
+CLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug/TestPredicate" normal x86_64
+s318835565.986758
+e318835566.031718
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug/TestPredicate
+xnormal
+xx86_64
+lSLF07#2@112"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug/TestPredicate318835565#318835566#0(0"0(0#0#0"8601378688#769"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug" -filelist "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/Objects-normal/x86_64/TestPredicate.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug/TestPredicate"0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPredicate_Prefix-fkxxnaiorqqdbkazudnehudqrbzw/TestPredicate_Prefix.pch.gch TestPredicate_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318835560.384772
+e318835565.768054
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPredicate_Prefix-fkxxnaiorqqdbkazudnehudqrbzw/TestPredicate_Prefix.pch.gch
+xTestPredicate_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile TestPredicate_Prefix.pch318835560#318835565#0(0"0(0#0#106"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/TestPredicate_Prefix.pch8609343712#1920"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/TestPredicate-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/TestPredicate-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/TestPredicate-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/TestPredicate-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/build/TestPredicate.build/Debug/TestPredicate.build/DerivedSources" -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestPredicate/TestPredicate_Prefix.pch" -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestPredicate_Prefix-fkxxnaiorqqdbkazudnehudqrbzw/TestPredicate_Prefix.pch.gch0#
+

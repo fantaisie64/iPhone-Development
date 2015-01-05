@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68AE75CF133D9EAA00B65CB9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68AE75CE133D9EAA00B65CB9 /* UIKit.framework */; };
+		68AE75D1133D9EAA00B65CB9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68AE75D0133D9EAA00B65CB9 /* Foundation.framework */; };
+		68AE75D3133D9EAA00B65CB9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68AE75D2133D9EAA00B65CB9 /* CoreGraphics.framework */; };
+		68AE75D9133D9EAB00B65CB9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68AE75D7133D9EAB00B65CB9 /* InfoPlist.strings */; };
+		68AE75DC133D9EAB00B65CB9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68AE75DB133D9EAB00B65CB9 /* main.m */; };
+		68AE75DF133D9EAB00B65CB9 /* SimplePopoverAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68AE75DE133D9EAB00B65CB9 /* SimplePopoverAppDelegate.m */; };
+		68AE75E2133D9EAB00B65CB9 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68AE75E0133D9EAB00B65CB9 /* MainWindow.xib */; };
+		68AE75E5133D9EAB00B65CB9 /* SimplePopoverViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68AE75E4133D9EAB00B65CB9 /* SimplePopoverViewController.m */; };
+		68AE75E8133D9EAB00B65CB9 /* SimplePopoverViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68AE75E6133D9EAB00B65CB9 /* SimplePopoverViewController.xib */; };
+		68AE75F8133DB2D500B65CB9 /* RootController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68AE75F7133DB2D400B65CB9 /* RootController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		68AE75CA133D9EAA00B65CB9 /* SimplePopover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimplePopover.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68AE75CE133D9EAA00B65CB9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68AE75D0133D9EAA00B65CB9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68AE75D2133D9EAA00B65CB9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		68AE75D6133D9EAB00B65CB9 /* SimplePopover-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SimplePopover-Info.plist"; sourceTree = "<group>"; };
+		68AE75D8133D9EAB00B65CB9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		68AE75DA133D9EAB00B65CB9 /* SimplePopover-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SimplePopover-Prefix.pch"; sourceTree = "<group>"; };
+		68AE75DB133D9EAB00B65CB9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68AE75DD133D9EAB00B65CB9 /* SimplePopoverAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimplePopoverAppDelegate.h; sourceTree = "<group>"; };
+		68AE75DE133D9EAB00B65CB9 /* SimplePopoverAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimplePopoverAppDelegate.m; sourceTree = "<group>"; };
+		68AE75E1133D9EAB00B65CB9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		68AE75E3133D9EAB00B65CB9 /* SimplePopoverViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimplePopoverViewController.h; sourceTree = "<group>"; };
+		68AE75E4133D9EAB00B65CB9 /* SimplePopoverViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimplePopoverViewController.m; sourceTree = "<group>"; };
+		68AE75E7133D9EAB00B65CB9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SimplePopoverViewController.xib; sourceTree = "<group>"; };
+		68AE75F6133DB2D400B65CB9 /* RootController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootController.h; sourceTree = "<group>"; };
+		68AE75F7133DB2D400B65CB9 /* RootController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68AE75C7133D9EAA00B65CB9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68AE75CF133D9EAA00B65CB9 /* UIKit.framework in Frameworks */,
+				68AE75D1133D9EAA00B65CB9 /* Foundation.framework in Frameworks */,
+				68AE75D3133D9EAA00B65CB9 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68AE75BF133D9EAA00B65CB9 = {
+			isa = PBXGroup;
+			children = (
+				68AE75D4133D9EAB00B65CB9 /* SimplePopover */,
+				68AE75CD133D9EAA00B65CB9 /* Frameworks */,
+				68AE75CB133D9EAA00B65CB9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68AE75CB133D9EAA00B65CB9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68AE75CA133D9EAA00B65CB9 /* SimplePopover.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68AE75CD133D9EAA00B65CB9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68AE75CE133D9EAA00B65CB9 /* UIKit.framework */,
+				68AE75D0133D9EAA00B65CB9 /* Foundation.framework */,
+				68AE75D2133D9EAA00B65CB9 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68AE75D4133D9EAB00B65CB9 /* SimplePopover */ = {
+			isa = PBXGroup;
+			children = (
+				68AE75DD133D9EAB00B65CB9 /* SimplePopoverAppDelegate.h */,
+				68AE75DE133D9EAB00B65CB9 /* SimplePopoverAppDelegate.m */,
+				68AE75E0133D9EAB00B65CB9 /* MainWindow.xib */,
+				68AE75F6133DB2D400B65CB9 /* RootController.h */,
+				68AE75F7133DB2D400B65CB9 /* RootController.m */,
+				68AE75E3133D9EAB00B65CB9 /* SimplePopoverViewController.h */,
+				68AE75E4133D9EAB00B65CB9 /* SimplePopoverViewController.m */,
+				68AE75E6133D9EAB00B65CB9 /* SimplePopoverViewController.xib */,
+				68AE75D5133D9EAB00B65CB9 /* Supporting Files */,
+			);
+			path = SimplePopover;
+			sourceTree = "<group>";
+		};
+		68AE75D5133D9EAB00B65CB9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68AE75D6133D9EAB00B65CB9 /* SimplePopover-Info.plist */,
+				68AE75D7133D9EAB00B65CB9 /* InfoPlist.strings */,
+				68AE75DA133D9EAB00B65CB9 /* SimplePopover-Prefix.pch */,
+				68AE75DB133D9EAB00B65CB9 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68AE75C9133D9EAA00B65CB9 /* SimplePopover */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68AE75EB133D9EAB00B65CB9 /* Build configuration list for PBXNativeTarget "SimplePopover" */;
+			buildPhases = (
+				68AE75C6133D9EAA00B65CB9 /* Sources */,
+				68AE75C7133D9EAA00B65CB9 /* Frameworks */,
+				68AE75C8133D9EAA00B65CB9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SimplePopover;
+			productName = SimplePopover;
+			productReference = 68AE75CA133D9EAA00B65CB9 /* SimplePopover.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68AE75C1133D9EAA00B65CB9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68AE75C4133D9EAA00B65CB9 /* Build configuration list for PBXProject "SimplePopover" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68AE75BF133D9EAA00B65CB9;
+			productRefGroup = 68AE75CB133D9EAA00B65CB9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68AE75C9133D9EAA00B65CB9 /* SimplePopover */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68AE75C8133D9EAA00B65CB9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68AE75D9133D9EAB00B65CB9 /* InfoPlist.strings in Resources */,
+				68AE75E2133D9EAB00B65CB9 /* MainWindow.xib in Resources */,
+				68AE75E8133D9EAB00B65CB9 /* SimplePopoverViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68AE75C6133D9EAA00B65CB9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68AE75DC133D9EAB00B65CB9 /* main.m in Sources */,
+				68AE75DF133D9EAB00B65CB9 /* SimplePopoverAppDelegate.m in Sources */,
+				68AE75E5133D9EAB00B65CB9 /* SimplePopoverViewController.m in Sources */,
+				68AE75F8133DB2D500B65CB9 /* RootController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		68AE75D7133D9EAB00B65CB9 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68AE75D8133D9EAB00B65CB9 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68AE75E0133D9EAB00B65CB9 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68AE75E1133D9EAB00B65CB9 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		68AE75E6133D9EAB00B65CB9 /* SimplePopoverViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68AE75E7133D9EAB00B65CB9 /* en */,
+			);
+			name = SimplePopoverViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		68AE75E9133D9EAB00B65CB9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		68AE75EA133D9EAB00B65CB9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+		68AE75EC133D9EAB00B65CB9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimplePopover/SimplePopover-Prefix.pch";
+				INFOPLIST_FILE = "SimplePopover/SimplePopover-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68AE75ED133D9EAB00B65CB9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimplePopover/SimplePopover-Prefix.pch";
+				INFOPLIST_FILE = "SimplePopover/SimplePopover-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68AE75C4133D9EAA00B65CB9 /* Build configuration list for PBXProject "SimplePopover" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68AE75E9133D9EAB00B65CB9 /* Debug */,
+				68AE75EA133D9EAB00B65CB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68AE75EB133D9EAB00B65CB9 /* Build configuration list for PBXNativeTarget "SimplePopover" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68AE75EC133D9EAB00B65CB9 /* Debug */,
+				68AE75ED133D9EAB00B65CB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68AE75C1133D9EAA00B65CB9 /* Project object */;
+}

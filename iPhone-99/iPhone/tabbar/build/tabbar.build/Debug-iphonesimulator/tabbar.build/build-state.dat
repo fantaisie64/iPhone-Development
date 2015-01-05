@@ -1,0 +1,614 @@
+Ttabbar
+v7
+r0
+t316772801.783255
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/Info.plist tabbar-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewB.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/OneForAll.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-erqtbtpbsmuntifycdyihbjvgufq/tabbar_Prefix.pch.gch tabbar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbarAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerA.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerB.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerC.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app.dSYM /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar
+cTouch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.h
+c000000004C5D640A00000000000000D5
+t1281188874
+s213
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m
+c000000004C5D640A0000000000000606
+t1281188874
+s1542
+i"myViewControllerC.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewB.xib
+c000000004C5D4343000000000000409C
+t1281180483
+s16540
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.h
+c000000004C5D3CF200000000000000FE
+t1281178866
+s254
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m
+c000000004C5D42CD00000000000009BD
+t1281180365
+s2493
+i"myViewControllerA.h"
+i"myViewControllerB.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.h
+c000000004C5D397200000000000000D9
+t1281177970
+s217
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m
+c000000004C5D3972000000000000060A
+t1281177970
+s1546
+i"myViewControllerB.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.h
+c000000004C5D5DD30000000000000134
+t1281187283
+s308
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m
+c000000004C5D713B0000000000000E2F
+t1281192251
+s3631
+i"tabbarAppDelegate.h"
+i"myViewControllerA.h"
+i"myViewControllerC.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/MainWindow.xib
+c000000004C5D5DD30000000000002103
+t1281187283
+s8451
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/OneForAll.xib
+c000000004C5D70E7000000000000408A
+t1281192167
+s16522
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app
+t1281192253
+s272
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app.dSYM
+t1281192253
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/Info.plist
+t1281192108
+s587
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/MainWindow.nib
+t1281192109
+s983
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/OneForAll.nib
+t1281192177
+s1191
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/PkgInfo
+t1281192108
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/myViewB.nib
+t1281192109
+s1192
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar
+t1281192253
+s23872
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/main.o
+t1281192113
+s6324
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerA.o
+t1281192113
+s41588
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerB.o
+t1281192113
+s34532
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerC.o
+t1281192113
+s34540
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbar.LinkFileList
+c000000004C5D70AC00000000000002BE
+t1281192108
+s702
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbarAppDelegate.o
+t1281192253
+s52688
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/main.m
+c000000004C5D5DD30000000000000158
+t1281187283
+s344
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/myViewControllerC.h
+c000000004C5D640A00000000000000D5
+t1281188874
+s213
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/myViewControllerC.m
+c000000004C5D640A0000000000000606
+t1281188874
+s1542
+i"myViewControllerC.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/tabbar_Prefix.pch
+c000000004C5D5DD300000000000000B5
+t1281187283
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.h
+c000000004C5D640A00000000000000D5
+t1281188874
+s213
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m
+c000000004C5D640A0000000000000606
+t1281188874
+s1542
+i"myViewControllerC.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewB.xib
+c000000004C5D4343000000000000409C
+t1281180483
+s16540
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.h
+c000000004C5D3CF200000000000000FE
+t1281178866
+s254
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m
+c000000004C5D42CD00000000000009BD
+t1281180365
+s2493
+i"myViewControllerA.h"
+i"myViewControllerB.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.h
+c000000004C5D397200000000000000D9
+t1281177970
+s217
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m
+c000000004C5D3972000000000000060A
+t1281177970
+s1546
+i"myViewControllerB.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.h
+c000000004C5D5DD30000000000000134
+t1281187283
+s308
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m
+c000000004C5D713B0000000000000E2F
+t1281192251
+s3631
+i"tabbarAppDelegate.h"
+i"myViewControllerA.h"
+i"myViewControllerC.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/MainWindow.xib
+c000000004C5D5DD30000000000002103
+t1281187283
+s8451
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/OneForAll.xib
+c000000004C5D70E7000000000000408A
+t1281192167
+s16522
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app
+t1295080001
+s272
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app.dSYM
+t1295080001
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/Info.plist
+t1281192108
+s587
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/MainWindow.nib
+t1281192109
+s983
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/OneForAll.nib
+t1281192177
+s1191
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/PkgInfo
+t1281192108
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/myViewB.nib
+t1281192109
+s1192
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar
+t1295080001
+s24044
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/main.o
+t1295080001
+s6356
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerA.o
+t1295080001
+s41620
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerB.o
+t1295080001
+s34568
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerC.o
+t1295080001
+s34572
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbar.LinkFileList
+c000000004D315A3E0000000000000313
+t1295079998
+s787
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbarAppDelegate.o
+t1295080001
+s52740
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/main.m
+c000000004C5D5DD30000000000000158
+t1281187283
+s344
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/myViewControllerC.h
+c000000004C5D640A00000000000000D5
+t1281188874
+s213
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/tabbar_Prefix.pch
+c000000004C5D5DD300000000000000B5
+t1281187283
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-bafsffbvmxahedcpcqeyrfgmnext/tabbar_Prefix.pch.gch
+t1281192112
+s15232016
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-erqtbtpbsmuntifycdyihbjvgufq/tabbar_Prefix.pch.gch
+t1295080000
+s15232016
+
+Ntabbar-Info.plist
+c000000004C5D5DD3000000000000038D
+t1281187283
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316772798#316772799#0(0"0(0#1#0"8600829184#0"0#
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302884912.874712
+e302884913.207201
+r1
+xCompileC
+xbuild/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/main.m302884912#302884913#0(0"0(0#0#55"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/main.m8615519392#1991"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-bafsffbvmxahedcpcqeyrfgmnext/tabbar_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/main.o0#
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316772801.283531
+e316772801.398783
+r1
+xCompileC
+xbuild/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/main.m316772801#316772801#0(0"0(0#0#72"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/main.m8602929856#2178"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-erqtbtpbsmuntifycdyihbjvgufq/tabbar_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/main.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/main.o0#
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerA.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302884913.207326
+e302884913.611939
+r1
+xCompileC
+xbuild/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerA.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m302884913#302884913#0(0"0(0#0#76"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m8613642656#2025"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-bafsffbvmxahedcpcqeyrfgmnext/tabbar_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerA.o0#
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerA.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316772801.398914
+e316772801.544104
+r1
+xCompileC
+xbuild/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerA.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m316772801#316772801#0(0"0(0#0#93"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m8610521920#2212"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-erqtbtpbsmuntifycdyihbjvgufq/tabbar_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerA.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerA.o0#
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerB.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302884913.209384
+e302884913.377397
+r1
+xCompileC
+xbuild/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerB.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m302884913#302884913#0(0"0(0#0#76"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m8615223168#2025"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-bafsffbvmxahedcpcqeyrfgmnext/tabbar_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerB.o0#
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerB.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316772801.458088
+e316772801.607754
+r1
+xCompileC
+xbuild/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerB.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m316772801#316772801#0(0"0(0#0#93"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m8608634848#2212"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-erqtbtpbsmuntifycdyihbjvgufq/tabbar_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewControllerB.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerB.o0#
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerC.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302884913.377525
+e302884913.918167
+r1
+xCompileC
+xbuild/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerC.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m302884913#302884913#0(0"0(0#0#79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m8616872480#2028"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-bafsffbvmxahedcpcqeyrfgmnext/tabbar_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerC.o0#
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerC.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/myViewControllerC.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerC.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316772801.544234
+e316772801.661692
+r1
+xCompileC
+xbuild/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerC.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m316772801#316772801#0(0"0(0#0#96"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m8608427424#2215"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-erqtbtpbsmuntifycdyihbjvgufq/tabbar_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/../myViewControllerC.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/myViewControllerC.o0#
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbarAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302885052.833106
+e302885053.010432
+r1
+xCompileC
+xbuild/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbarAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m302885052#302885053#0(0"0(0#0#76"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m8614895808#2025"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-bafsffbvmxahedcpcqeyrfgmnext/tabbar_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbarAppDelegate.o0#
+
+CCompileC build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbarAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316772801.285446
+e316772801.457921
+r1
+xCompileC
+xbuild/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbarAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m316772801#316772801#0(0"0(0#0#93"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m8611246080#2212"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-erqtbtpbsmuntifycdyihbjvgufq/tabbar_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/tabbarAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbarAppDelegate.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewB.xib
+s302884908.633675
+e302884909.319432
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewB.xib
+lSLF07#2@30"CompileXIB Classes/myViewB.xib302884908#302884909#0(0"0(0#0#68"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewB.xib8615098880#601"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/myViewB.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/Classes/myViewB.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/MainWindow.xib
+s302884908.622416
+e302884909.301339
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302884908#302884909#0(0"0(0#0#63"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/MainWindow.xib8614944384#599"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/OneForAll.xib
+s302884977.062508
+e302884977.611883
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/OneForAll.xib
+lSLF07#2@24"CompileXIB OneForAll.xib302884977#302884977#0(0"0(0#0#62"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/OneForAll.xib8614102176#597"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/OneForAll.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/OneForAll.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/Classes/myViewB.xib
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/MainWindow.xib
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/OneForAll.xib
+r0
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar
+s302885053.043384
+e302885053.070186
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/tabbar.app.dSYM build/Debug-iphonesimulator/tabbar.app/tabbar302885053#302885053#0(0"0(0#0#94"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar8615407328#410"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app.dSYM0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app.dSYM /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar
+s316772801.716511
+e316772801.779227
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/tabbar.app.dSYM build/Debug-iphonesimulator/tabbar.app/tabbar316772801#316772801#0(0"0(0#0#111"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar8606470176#461"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app.dSYM0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar normal i386
+s302885053.010548
+e302885053.043260
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar
+xnormal
+xi386
+lSLF07#2@99"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar302885053#302885053#0(0"0(0#0#0"8615524992#945"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbar.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar normal i386
+s316772801.661829
+e316772801.716393
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar
+xnormal
+xi386
+lSLF07#2@116"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar316772801#316772801#0(0"0(0#0#0"8607210848#1030"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/Objects-normal/i386/tabbar.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/tabbar0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/Info.plist tabbar-Info.plist
+s302884908.569506
+e302884908.622273
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/Info.plist
+xtabbar-Info.plist
+lSLF07#2@25"Process tabbar-Info.plist302884908#302884908#0(0"0(0#0#66"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/tabbar-Info.plist13229753409208424#506"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility tabbar-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app/Info.plist tabbar-Info.plist
+r0
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-bafsffbvmxahedcpcqeyrfgmnext/tabbar_Prefix.pch.gch tabbar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302884909.803925
+e302884912.874360
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-bafsffbvmxahedcpcqeyrfgmnext/tabbar_Prefix.pch.gch
+xtabbar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile tabbar_Prefix.pch302884909#302884912#0(0"0(0#0#66"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/tabbar_Prefix.pch8617078592#1874"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/tabbar_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-bafsffbvmxahedcpcqeyrfgmnext/tabbar_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-erqtbtpbsmuntifycdyihbjvgufq/tabbar_Prefix.pch.gch tabbar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316772799.431313
+e316772801.283357
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-erqtbtpbsmuntifycdyihbjvgufq/tabbar_Prefix.pch.gch
+xtabbar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile tabbar_Prefix.pch316772799#316772801#0(0"0(0#0#83"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/tabbar_Prefix.pch7309993516046836736#2044"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/tabbar-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/tabbar.build/Debug-iphonesimulator/tabbar.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/tabbar_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tabbar_Prefix-erqtbtpbsmuntifycdyihbjvgufq/tabbar_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app
+s302885053.070307
+e302885053.075331
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app
+lSLF07#2@93"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app302885053#302885053#0(0"0(0#0#0"8615333248#297"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app
+s316772801.779351
+e316772801.783185
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app
+lSLF07#2@110"Touch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app316772801#316772801#0(0"0(0#0#0"8606391488#331"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/tabbar/build/Debug-iphonesimulator/tabbar.app0#
+

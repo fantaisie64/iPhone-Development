@@ -1,0 +1,352 @@
+TcodeUIViewController
+v7
+r0
+t302860919.248788
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/Info.plist codeUIViewController-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch.gch codeUIViewController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewControllerAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/MyViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.h
+c000000004C5D0F14000000000000015E
+t1281167124
+s350
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m
+c000000004C5D12EF0000000000000A50
+t1281168111
+s2640
+i"codeUIViewControllerAppDelegate.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib
+c000000004C5D0F140000000000002149
+t1281167124
+s8521
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.h
+c000000004C5D0FAD000000000000011A
+t1281167277
+s282
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m
+c000000004C5D12A30000000000000908
+t1281168035
+s2312
+i"MyViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app.dSYM
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/Info.plist
+t1281168116
+s649
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/MainWindow.nib
+t1281168117
+s997
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/PkgInfo
+t1281168116
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/MyViewController.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewController.LinkFileList
+c000000004C5D12F4000000000000022B
+t1281168116
+s555
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewControllerAppDelegate.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/main.o
+t1281168119
+s6352
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/codeUIViewController_Prefix.pch
+c000000004C5D0F1400000000000000D1
+t1281167124
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m
+c000000004C5D0F140000000000000166
+t1281167124
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch.gch
+t1281168118
+s15232016
+
+NcodeUIViewController-Info.plist
+c000000004C5D0F14000000000000038D
+t1281167124
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302860916#302860916#0(0"0(0#1#0"7813589722905658368#0"0#
+
+CCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/MyViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302860919.158140
+e302860919.248686
+r0
+xCompileC
+xbuild/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/MyViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m:84: error: redefinition of '-[MyViewController dealloc]'
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m:33: error: previous definition of '-[MyViewController dealloc]' was here
+o{standard input}:553:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000006$pb"
+o{standard input}:553:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:549:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000006$pb"
+o{standard input}:549:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:520:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"
+o{standard input}:520:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:516:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000005$pb"
+o{standard input}:516:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:450:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000004$pb"
+o{standard input}:450:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:441:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000004$pb"
+o{standard input}:441:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:433:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:433:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:427:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:427:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:418:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:412:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:412:symbol: "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:401:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000004$pb"
+o{standard input}:401:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:398:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000004$pb"
+o{standard input}:398:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:392:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:392:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:384:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000004$pb"
+o{standard input}:384:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:377:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:377:symbol: "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:368:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000004$pb"
+o{standard input}:368:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:361:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:361:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:345:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"
+o{standard input}:345:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:339:non-relocatable subtraction expression, "LC3" minus "L00000000004$pb"
+o{standard input}:339:symbol: "LC3" can't be undefined in a subtraction expression
+o{standard input}:336:non-relocatable subtraction expression, "LC3" minus "L00000000004$pb"
+o{standard input}:336:symbol: "LC3" can't be undefined in a subtraction expression
+o{standard input}:333:non-relocatable subtraction expression, "LC6" minus "L00000000004$pb"
+o{standard input}:333:symbol: "LC6" can't be undefined in a subtraction expression
+o{standard input}:330:non-relocatable subtraction expression, "LC2" minus "L00000000004$pb"
+o{standard input}:330:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:323:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000004$pb"
+o{standard input}:323:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:320:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000004$pb"
+o{standard input}:320:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:315:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:315:symbol: "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:300:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000004$pb"
+o{standard input}:300:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:294:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:294:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:287:non-relocatable subtraction expression, "LC5" minus "L00000000004$pb"
+o{standard input}:287:symbol: "LC5" can't be undefined in a subtraction expression
+o{standard input}:284:non-relocatable subtraction expression, "LC4" minus "L00000000004$pb"
+o{standard input}:284:symbol: "LC4" can't be undefined in a subtraction expression
+o{standard input}:281:non-relocatable subtraction expression, "LC3" minus "L00000000004$pb"
+o{standard input}:281:symbol: "LC3" can't be undefined in a subtraction expression
+o{standard input}:278:non-relocatable subtraction expression, "LC2" minus "L00000000004$pb"
+o{standard input}:278:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:269:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000004$pb"
+o{standard input}:269:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:266:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000004$pb"
+o{standard input}:266:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:261:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:261:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:245:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"
+o{standard input}:245:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:237:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000004$pb"
+o{standard input}:237:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:231:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000004$pb"
+o{standard input}:231:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:228:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000004$pb"
+o{standard input}:228:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:222:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000004$pb"
+o{standard input}:222:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:219:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000004$pb"
+o{standard input}:219:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:167:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000003$pb"
+o{standard input}:167:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:163:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000003$pb"
+o{standard input}:163:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:155:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"
+o{standard input}:155:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:149:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:149:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"
+o{standard input}:142:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:136:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:136:symbol: "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:107:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:107:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:100:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:100:symbol: "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:53:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:53:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol LC2
+o{standard input}:unknown:Undefined local symbol LC3
+o{standard input}:unknown:Undefined local symbol LC4
+o{standard input}:unknown:Undefined local symbol LC5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+o{standard input}:unknown:Undefined local symbol LC6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+lSLF07#2@89"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m302860919#302860919#0(13781"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m:84: error: redefinition of '-[MyViewController dealloc]'/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m:33: error: previous definition of '-[MyViewController dealloc]' was here{standard input}:553:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000006$pb"{standard input}:553:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:549:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000006$pb"{standard input}:549:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:520:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"{standard input}:520:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:516:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000005$pb"{standard input}:516:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:450:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000004$pb"{standard input}:450:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:441:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000004$pb"{standard input}:441:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:433:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:433:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:427:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000004$pb"{standard input}:427:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:418:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:412:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" minus "L00000000004$pb"{standard input}:412:symbol: "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:401:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000004$pb"{standard input}:401:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:398:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000004$pb"{standard input}:398:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:392:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000004$pb"{standard input}:392:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:384:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000004$pb"{standard input}:384:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:377:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" minus "L00000000004$pb"{standard input}:377:symbol: "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:368:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000004$pb"{standard input}:368:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:361:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000004$pb"{standard input}:361:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:345:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"{standard input}:345:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:339:non-relocatable subtraction expression, "LC3" minus "L00000000004$pb"{standard input}:339:symbol: "LC3" can't be undefined in a subtraction expression{standard input}:336:non-relocatable subtraction expression, "LC3" minus "L00000000004$pb"{standard input}:336:symbol: "LC3" can't be undefined in a subtraction expression{standard input}:333:non-relocatable subtraction expression, "LC6" minus "L00000000004$pb"{standard input}:333:symbol: "LC6" can't be undefined in a subtraction expression{standard input}:330:non-relocatable subtraction expression, "LC2" minus "L00000000004$pb"{standard input}:330:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:323:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000004$pb"{standard input}:323:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:320:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000004$pb"{standard input}:320:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:315:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" minus "L00000000004$pb"{standard input}:315:symbol: "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:300:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000004$pb"{standard input}:300:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:294:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000004$pb"{standard input}:294:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:287:non-relocatable subtraction expression, "LC5" minus "L00000000004$pb"{standard input}:287:symbol: "LC5" can't be undefined in a subtraction expression{standard input}:284:non-relocatable subtraction expression, "LC4" minus "L00000000004$pb"{standard input}:284:symbol: "LC4" can't be undefined in a subtraction expression{standard input}:281:non-relocatable subtraction expression, "LC3" minus "L00000000004$pb"{standard input}:281:symbol: "LC3" can't be undefined in a subtraction expression{standard input}:278:non-relocatable subtraction expression, "LC2" minus "L00000000004$pb"{standard input}:278:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:269:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000004$pb"{standard input}:269:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:266:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000004$pb"{standard input}:266:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:261:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000004$pb"{standard input}:261:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:245:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"{standard input}:245:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:237:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000004$pb"{standard input}:237:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:231:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000004$pb"{standard input}:231:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:228:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000004$pb"{standard input}:228:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:222:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000004$pb"{standard input}:222:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:219:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000004$pb"{standard input}:219:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:167:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000003$pb"{standard input}:167:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:163:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000003$pb"{standard input}:163:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:155:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"{standard input}:155:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:149:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" minus "L00000000003$pb"{standard input}:149:symbol: "L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"{standard input}:142:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:136:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" minus "L00000000003$pb"{standard input}:136:symbol: "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:107:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"{standard input}:107:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:100:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" minus "L00000000002$pb"{standard input}:100:symbol: "L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:53:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:53:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewController.myLabel$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MyViewController.myButton$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol LC2{standard input}:unknown:Undefined local symbol LC3{standard input}:unknown:Undefined local symbol LC4{standard input}:unknown:Undefined local symbol LC5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4{standard input}:unknown:Undefined local symbol LC6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_162(4@45"Redefinition of '-[MyViewController dealloc]'302860919#0#139#0(6@81"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m302860835#84#0#84#0#19"redefinition of '*'0(13@61"Previous definition of '-[MyViewController dealloc]' was here302860919#139#155#0(6@81"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m302860835#33#0#33#0#35"previous definition of '*' was here0(0#0#81"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m4861465825863357440#2449"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/MyViewController.o1#
+
+CCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewControllerAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302860918.938177
+e302860919.158009
+r0
+xCompileC
+xbuild/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewControllerAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m: In function '-[codeUIViewControllerAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m:22: error: 'MyViewController' undeclared (first use in this function)
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m:22: error: (Each undeclared identifier is reported only once
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m:22: error: for each function it appears in.)
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m:22: error: 'myViewController' undeclared (first use in this function)
+lSLF07#2@112"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m302860918#302860919#0(865"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m: In function '-[codeUIViewControllerAppDelegate application:didFinishLaunchingWithOptions:]':/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m:22: error: 'MyViewController' undeclared (first use in this function)/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m:22: error: (Each undeclared identifier is reported only once/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m:22: error: for each function it appears in.)/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m:22: error: 'myViewController' undeclared (first use in this function)2(4@58"'MyViewController' undeclared (first use in this function)302860919#199#175#0(6@104"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m302860911#22#0#22#0#43"'*' undeclared (first use in this function)0(4@58"'myViewController' undeclared (first use in this function)302860919#690#175#0(6@104"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m302860911#22#0#22#0#43"'*' undeclared (first use in this function)0(0#0#104"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m8618324960#2487"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewControllerAppDelegate.o1#
+
+CCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302860918.936167
+e302860919.180748
+r1
+xCompileC
+xbuild/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m302860918#302860919#0(0"0(0#0#69"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m8616811936#2425"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib
+s302860916.585133
+e302860917.264723
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302860916#302860917#0(0"0(0#0#77"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib8617915872#655"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController
+r0
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController normal i386
+r0
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/Info.plist codeUIViewController-Info.plist
+s302860916.539728
+e302860916.585001
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/Info.plist
+xcodeUIViewController-Info.plist
+lSLF07#2@39"Process codeUIViewController-Info.plist302860916#302860916#0(0"0(0#0#94"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/codeUIViewController-Info.plist27303536605069420#590"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility codeUIViewController-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch.gch codeUIViewController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302860917.265029
+e302860918.935851
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch.gch
+xcodeUIViewController_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile codeUIViewController_Prefix.pch302860917#302860918#0(0"0(0#0#94"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/codeUIViewController_Prefix.pch8617945312#2280"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/codeUIViewController_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app
+r0
+

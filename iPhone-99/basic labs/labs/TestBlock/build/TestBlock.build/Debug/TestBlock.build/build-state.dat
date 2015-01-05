@@ -1,0 +1,93 @@
+TTestBlock
+v7
+r0
+t318840397.064703
+cCheck dependencies
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestBlock_Prefix-dfvihdahxzaflzdavczzaqvedpmm/TestBlock_Prefix.pch.gch TestBlock_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestBlock.build/Debug/TestBlock.build/Objects-normal/x86_64/TestBlock.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/TestBlock.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug/TestBlock" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/TestBlock.m
+c000000004D50E6CB00000000000002A8
+t1297147595
+s680
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/TestBlock_Prefix.pch
+c000000004D50E41500000000000000A0
+t1297146901
+s160
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug/TestBlock
+t1297147597
+s10064
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/Objects-normal/x86_64/TestBlock.LinkFileList
+c000000004D50E5B7000000000000009C
+t1297147319
+s156
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/Objects-normal/x86_64/TestBlock.o
+t1297147597
+s10696
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestBlock_Prefix-dfvihdahxzaflzdavczzaqvedpmm/TestBlock_Prefix.pch.gch
+t1297147324
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318840396#318840396#0(0"0(0#1#0"8618765280#0"0#
+
+CCompileC build/TestBlock.build/Debug/TestBlock.build/Objects-normal/x86_64/TestBlock.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/TestBlock.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318840396.369347
+e318840397.018694
+r1
+xCompileC
+xbuild/TestBlock.build/Debug/TestBlock.build/Objects-normal/x86_64/TestBlock.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/TestBlock.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/TestBlock.m318840396#318840397#0(0"0(0#0#89"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/TestBlock.m8622368832#1951"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/TestBlock-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/TestBlock-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/TestBlock-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/TestBlock-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestBlock_Prefix-dfvihdahxzaflzdavczzaqvedpmm/TestBlock_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/TestBlock.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/Objects-normal/x86_64/TestBlock.o"0#
+
+CLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug/TestBlock" normal x86_64
+s318840397.018930
+e318840397.064611
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug/TestBlock
+xnormal
+xx86_64
+lSLF07#2@104"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug/TestBlock318840397#318840397#0(0"0(0#0#0"8617812416#733"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug" -filelist "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/Objects-normal/x86_64/TestBlock.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug/TestBlock"0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestBlock_Prefix-dfvihdahxzaflzdavczzaqvedpmm/TestBlock_Prefix.pch.gch TestBlock_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318840119.424477
+e318840124.545196
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestBlock_Prefix-dfvihdahxzaflzdavczzaqvedpmm/TestBlock_Prefix.pch.gch
+xTestBlock_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TestBlock_Prefix.pch318840119#318840124#0(0"0(0#0#98"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/TestBlock_Prefix.pch8617959072#1804"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/TestBlock-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/TestBlock-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/TestBlock-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/TestBlock-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/build/TestBlock.build/Debug/TestBlock.build/DerivedSources" -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestBlock/TestBlock_Prefix.pch" -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestBlock_Prefix-dfvihdahxzaflzdavczzaqvedpmm/TestBlock_Prefix.pch.gch0#
+

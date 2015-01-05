@@ -1,0 +1,68 @@
+TSimpleModalView
+v7
+r1
+cCheck dependencies
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/Classes/MyModalView.xib
+c000000004CDF503A0000000000005372
+t1289703482
+s21362
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/MainWindow.xib
+c000000004C5E14050000000000004E89
+t1281233925
+s20105
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/SimpleModalViewViewController.xib
+c000000004C5E1EAE0000000000005089
+t1281236654
+s20617
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/build/Debug/SimpleModalView.app
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/build/Debug/SimpleModalView.app/Contents/Info.plist
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/build/Debug/SimpleModalView.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/build/Debug/SimpleModalView.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/build/Debug/SimpleModalView.app/Contents/Resources/MyModalView.nib
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/build/Debug/SimpleModalView.app/Contents/Resources/SimpleModalViewViewController.nib
+t2
+s0
+
+NSimpleModalView-Info.plist
+c000000004C5E1405000000000000038D
+t1281233925
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318708487#318708487#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'318708487#18446744073709551615#0#0(1@0"0(0#1#0"8616482432#0"0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/Classes/MyModalView.xib
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/MainWindow.xib
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/SimpleModalViewViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/build/Debug/SimpleModalView.app/Contents/Info.plist SimpleModalView-Info.plist
+r0
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimpleModalView/build/Debug/SimpleModalView.app
+r0
+

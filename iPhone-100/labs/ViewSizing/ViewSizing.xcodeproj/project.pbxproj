@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68182A4A13364B6D00C7EA1F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68182A4913364B6D00C7EA1F /* UIKit.framework */; };
+		68182A4C13364B6D00C7EA1F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68182A4B13364B6D00C7EA1F /* Foundation.framework */; };
+		68182A4E13364B6D00C7EA1F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68182A4D13364B6D00C7EA1F /* CoreGraphics.framework */; };
+		68182A5413364B6D00C7EA1F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68182A5213364B6D00C7EA1F /* InfoPlist.strings */; };
+		68182A5713364B6D00C7EA1F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182A5613364B6D00C7EA1F /* main.m */; };
+		68182A5A13364B6E00C7EA1F /* ViewSizingAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182A5913364B6E00C7EA1F /* ViewSizingAppDelegate.m */; };
+		68182A5D13364B6E00C7EA1F /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68182A5B13364B6E00C7EA1F /* MainWindow.xib */; };
+		68182A6013364B6E00C7EA1F /* ViewSizingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182A5F13364B6E00C7EA1F /* ViewSizingViewController.m */; };
+		68182A6313364B6E00C7EA1F /* ViewSizingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68182A6113364B6E00C7EA1F /* ViewSizingViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		68182A4513364B6D00C7EA1F /* ViewSizing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewSizing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68182A4913364B6D00C7EA1F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68182A4B13364B6D00C7EA1F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68182A4D13364B6D00C7EA1F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		68182A5113364B6D00C7EA1F /* ViewSizing-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ViewSizing-Info.plist"; sourceTree = "<group>"; };
+		68182A5313364B6D00C7EA1F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		68182A5513364B6D00C7EA1F /* ViewSizing-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ViewSizing-Prefix.pch"; sourceTree = "<group>"; };
+		68182A5613364B6D00C7EA1F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68182A5813364B6D00C7EA1F /* ViewSizingAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewSizingAppDelegate.h; sourceTree = "<group>"; };
+		68182A5913364B6E00C7EA1F /* ViewSizingAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewSizingAppDelegate.m; sourceTree = "<group>"; };
+		68182A5C13364B6E00C7EA1F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		68182A5E13364B6E00C7EA1F /* ViewSizingViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewSizingViewController.h; sourceTree = "<group>"; };
+		68182A5F13364B6E00C7EA1F /* ViewSizingViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewSizingViewController.m; sourceTree = "<group>"; };
+		68182A6213364B6E00C7EA1F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewSizingViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68182A4213364B6D00C7EA1F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68182A4A13364B6D00C7EA1F /* UIKit.framework in Frameworks */,
+				68182A4C13364B6D00C7EA1F /* Foundation.framework in Frameworks */,
+				68182A4E13364B6D00C7EA1F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68182A3A13364B6D00C7EA1F = {
+			isa = PBXGroup;
+			children = (
+				68182A4F13364B6D00C7EA1F /* ViewSizing */,
+				68182A4813364B6D00C7EA1F /* Frameworks */,
+				68182A4613364B6D00C7EA1F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68182A4613364B6D00C7EA1F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68182A4513364B6D00C7EA1F /* ViewSizing.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68182A4813364B6D00C7EA1F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68182A4913364B6D00C7EA1F /* UIKit.framework */,
+				68182A4B13364B6D00C7EA1F /* Foundation.framework */,
+				68182A4D13364B6D00C7EA1F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68182A4F13364B6D00C7EA1F /* ViewSizing */ = {
+			isa = PBXGroup;
+			children = (
+				68182A5813364B6D00C7EA1F /* ViewSizingAppDelegate.h */,
+				68182A5913364B6E00C7EA1F /* ViewSizingAppDelegate.m */,
+				68182A5B13364B6E00C7EA1F /* MainWindow.xib */,
+				68182A5E13364B6E00C7EA1F /* ViewSizingViewController.h */,
+				68182A5F13364B6E00C7EA1F /* ViewSizingViewController.m */,
+				68182A6113364B6E00C7EA1F /* ViewSizingViewController.xib */,
+				68182A5013364B6D00C7EA1F /* Supporting Files */,
+			);
+			path = ViewSizing;
+			sourceTree = "<group>";
+		};
+		68182A5013364B6D00C7EA1F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68182A5113364B6D00C7EA1F /* ViewSizing-Info.plist */,
+				68182A5213364B6D00C7EA1F /* InfoPlist.strings */,
+				68182A5513364B6D00C7EA1F /* ViewSizing-Prefix.pch */,
+				68182A5613364B6D00C7EA1F /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68182A4413364B6D00C7EA1F /* ViewSizing */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68182A6613364B6E00C7EA1F /* Build configuration list for PBXNativeTarget "ViewSizing" */;
+			buildPhases = (
+				68182A4113364B6D00C7EA1F /* Sources */,
+				68182A4213364B6D00C7EA1F /* Frameworks */,
+				68182A4313364B6D00C7EA1F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ViewSizing;
+			productName = ViewSizing;
+			productReference = 68182A4513364B6D00C7EA1F /* ViewSizing.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68182A3C13364B6D00C7EA1F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68182A3F13364B6D00C7EA1F /* Build configuration list for PBXProject "ViewSizing" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68182A3A13364B6D00C7EA1F;
+			productRefGroup = 68182A4613364B6D00C7EA1F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68182A4413364B6D00C7EA1F /* ViewSizing */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68182A4313364B6D00C7EA1F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68182A5413364B6D00C7EA1F /* InfoPlist.strings in Resources */,
+				68182A5D13364B6E00C7EA1F /* MainWindow.xib in Resources */,
+				68182A6313364B6E00C7EA1F /* ViewSizingViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68182A4113364B6D00C7EA1F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68182A5713364B6D00C7EA1F /* main.m in Sources */,
+				68182A5A13364B6E00C7EA1F /* ViewSizingAppDelegate.m in Sources */,
+				68182A6013364B6E00C7EA1F /* ViewSizingViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		68182A5213364B6D00C7EA1F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68182A5313364B6D00C7EA1F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68182A5B13364B6E00C7EA1F /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68182A5C13364B6E00C7EA1F /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		68182A6113364B6E00C7EA1F /* ViewSizingViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68182A6213364B6E00C7EA1F /* en */,
+			);
+			name = ViewSizingViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		68182A6413364B6E00C7EA1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		68182A6513364B6E00C7EA1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		68182A6713364B6E00C7EA1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ViewSizing/ViewSizing-Prefix.pch";
+				INFOPLIST_FILE = "ViewSizing/ViewSizing-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68182A6813364B6E00C7EA1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ViewSizing/ViewSizing-Prefix.pch";
+				INFOPLIST_FILE = "ViewSizing/ViewSizing-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68182A3F13364B6D00C7EA1F /* Build configuration list for PBXProject "ViewSizing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68182A6413364B6E00C7EA1F /* Debug */,
+				68182A6513364B6E00C7EA1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68182A6613364B6E00C7EA1F /* Build configuration list for PBXNativeTarget "ViewSizing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68182A6713364B6E00C7EA1F /* Debug */,
+				68182A6813364B6E00C7EA1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68182A3C13364B6D00C7EA1F /* Project object */;
+}

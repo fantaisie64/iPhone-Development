@@ -1,0 +1,315 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68978254136597C1008D4EB0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68978253136597C1008D4EB0 /* UIKit.framework */; };
+		68978256136597C1008D4EB0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68978255136597C1008D4EB0 /* Foundation.framework */; };
+		68978258136597C1008D4EB0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68978257136597C1008D4EB0 /* CoreGraphics.framework */; };
+		6897825E136597C1008D4EB0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6897825C136597C1008D4EB0 /* InfoPlist.strings */; };
+		68978261136597C1008D4EB0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68978260136597C1008D4EB0 /* main.m */; };
+		68978264136597C1008D4EB0 /* XMLAndPredicateAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68978263136597C1008D4EB0 /* XMLAndPredicateAppDelegate.m */; };
+		68978267136597C2008D4EB0 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68978265136597C2008D4EB0 /* MainWindow.xib */; };
+		6897826A136597C2008D4EB0 /* XMLAndPredicateViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68978269136597C2008D4EB0 /* XMLAndPredicateViewController.m */; };
+		6897826D136597C2008D4EB0 /* XMLAndPredicateViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6897826B136597C2008D4EB0 /* XMLAndPredicateViewController.xib */; };
+		6897829613659F26008D4EB0 /* NSDataAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 6897829313659F26008D4EB0 /* NSDataAdditions.m */; };
+		6897829713659F26008D4EB0 /* TBXML.m in Sources */ = {isa = PBXBuildFile; fileRef = 6897829513659F26008D4EB0 /* TBXML.m */; };
+		6897829D1365A382008D4EB0 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 6897829C1365A382008D4EB0 /* libz.dylib */; };
+		6897829F1365A493008D4EB0 /* car.xml in Resources */ = {isa = PBXBuildFile; fileRef = 6897829E1365A493008D4EB0 /* car.xml */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6897824F136597C1008D4EB0 /* XMLAndPredicate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XMLAndPredicate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68978253136597C1008D4EB0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68978255136597C1008D4EB0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68978257136597C1008D4EB0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		6897825B136597C1008D4EB0 /* XMLAndPredicate-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "XMLAndPredicate-Info.plist"; sourceTree = "<group>"; };
+		6897825D136597C1008D4EB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6897825F136597C1008D4EB0 /* XMLAndPredicate-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "XMLAndPredicate-Prefix.pch"; sourceTree = "<group>"; };
+		68978260136597C1008D4EB0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68978262136597C1008D4EB0 /* XMLAndPredicateAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XMLAndPredicateAppDelegate.h; sourceTree = "<group>"; };
+		68978263136597C1008D4EB0 /* XMLAndPredicateAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XMLAndPredicateAppDelegate.m; sourceTree = "<group>"; };
+		68978266136597C2008D4EB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		68978268136597C2008D4EB0 /* XMLAndPredicateViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XMLAndPredicateViewController.h; sourceTree = "<group>"; };
+		68978269136597C2008D4EB0 /* XMLAndPredicateViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XMLAndPredicateViewController.m; sourceTree = "<group>"; };
+		6897826C136597C2008D4EB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/XMLAndPredicateViewController.xib; sourceTree = "<group>"; };
+		6897829213659F26008D4EB0 /* NSDataAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSDataAdditions.h; sourceTree = "<group>"; };
+		6897829313659F26008D4EB0 /* NSDataAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSDataAdditions.m; sourceTree = "<group>"; };
+		6897829413659F26008D4EB0 /* TBXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBXML.h; sourceTree = "<group>"; };
+		6897829513659F26008D4EB0 /* TBXML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TBXML.m; sourceTree = "<group>"; };
+		6897829C1365A382008D4EB0 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		6897829E1365A493008D4EB0 /* car.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = car.xml; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6897824C136597C1008D4EB0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6897829D1365A382008D4EB0 /* libz.dylib in Frameworks */,
+				68978254136597C1008D4EB0 /* UIKit.framework in Frameworks */,
+				68978256136597C1008D4EB0 /* Foundation.framework in Frameworks */,
+				68978258136597C1008D4EB0 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68978244136597C1008D4EB0 = {
+			isa = PBXGroup;
+			children = (
+				6897829E1365A493008D4EB0 /* car.xml */,
+				6897829C1365A382008D4EB0 /* libz.dylib */,
+				6897829113659F26008D4EB0 /* TBXML */,
+				68978259136597C1008D4EB0 /* XMLAndPredicate */,
+				68978252136597C1008D4EB0 /* Frameworks */,
+				68978250136597C1008D4EB0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68978250136597C1008D4EB0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6897824F136597C1008D4EB0 /* XMLAndPredicate.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68978252136597C1008D4EB0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68978253136597C1008D4EB0 /* UIKit.framework */,
+				68978255136597C1008D4EB0 /* Foundation.framework */,
+				68978257136597C1008D4EB0 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68978259136597C1008D4EB0 /* XMLAndPredicate */ = {
+			isa = PBXGroup;
+			children = (
+				68978262136597C1008D4EB0 /* XMLAndPredicateAppDelegate.h */,
+				68978263136597C1008D4EB0 /* XMLAndPredicateAppDelegate.m */,
+				68978265136597C2008D4EB0 /* MainWindow.xib */,
+				68978268136597C2008D4EB0 /* XMLAndPredicateViewController.h */,
+				68978269136597C2008D4EB0 /* XMLAndPredicateViewController.m */,
+				6897826B136597C2008D4EB0 /* XMLAndPredicateViewController.xib */,
+				6897825A136597C1008D4EB0 /* Supporting Files */,
+			);
+			path = XMLAndPredicate;
+			sourceTree = "<group>";
+		};
+		6897825A136597C1008D4EB0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6897825B136597C1008D4EB0 /* XMLAndPredicate-Info.plist */,
+				6897825C136597C1008D4EB0 /* InfoPlist.strings */,
+				6897825F136597C1008D4EB0 /* XMLAndPredicate-Prefix.pch */,
+				68978260136597C1008D4EB0 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6897829113659F26008D4EB0 /* TBXML */ = {
+			isa = PBXGroup;
+			children = (
+				6897829213659F26008D4EB0 /* NSDataAdditions.h */,
+				6897829313659F26008D4EB0 /* NSDataAdditions.m */,
+				6897829413659F26008D4EB0 /* TBXML.h */,
+				6897829513659F26008D4EB0 /* TBXML.m */,
+			);
+			path = TBXML;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6897824E136597C1008D4EB0 /* XMLAndPredicate */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68978270136597C2008D4EB0 /* Build configuration list for PBXNativeTarget "XMLAndPredicate" */;
+			buildPhases = (
+				6897824B136597C1008D4EB0 /* Sources */,
+				6897824C136597C1008D4EB0 /* Frameworks */,
+				6897824D136597C1008D4EB0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = XMLAndPredicate;
+			productName = XMLAndPredicate;
+			productReference = 6897824F136597C1008D4EB0 /* XMLAndPredicate.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68978246136597C1008D4EB0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68978249136597C1008D4EB0 /* Build configuration list for PBXProject "XMLAndPredicate" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68978244136597C1008D4EB0;
+			productRefGroup = 68978250136597C1008D4EB0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6897824E136597C1008D4EB0 /* XMLAndPredicate */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6897824D136597C1008D4EB0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6897825E136597C1008D4EB0 /* InfoPlist.strings in Resources */,
+				68978267136597C2008D4EB0 /* MainWindow.xib in Resources */,
+				6897826D136597C2008D4EB0 /* XMLAndPredicateViewController.xib in Resources */,
+				6897829F1365A493008D4EB0 /* car.xml in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6897824B136597C1008D4EB0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68978261136597C1008D4EB0 /* main.m in Sources */,
+				68978264136597C1008D4EB0 /* XMLAndPredicateAppDelegate.m in Sources */,
+				6897826A136597C2008D4EB0 /* XMLAndPredicateViewController.m in Sources */,
+				6897829613659F26008D4EB0 /* NSDataAdditions.m in Sources */,
+				6897829713659F26008D4EB0 /* TBXML.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6897825C136597C1008D4EB0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6897825D136597C1008D4EB0 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68978265136597C2008D4EB0 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68978266136597C2008D4EB0 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		6897826B136597C2008D4EB0 /* XMLAndPredicateViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6897826C136597C2008D4EB0 /* en */,
+			);
+			name = XMLAndPredicateViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6897826E136597C2008D4EB0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		6897826F136597C2008D4EB0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		68978271136597C2008D4EB0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "XMLAndPredicate/XMLAndPredicate-Prefix.pch";
+				INFOPLIST_FILE = "XMLAndPredicate/XMLAndPredicate-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68978272136597C2008D4EB0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "XMLAndPredicate/XMLAndPredicate-Prefix.pch";
+				INFOPLIST_FILE = "XMLAndPredicate/XMLAndPredicate-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68978249136597C1008D4EB0 /* Build configuration list for PBXProject "XMLAndPredicate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6897826E136597C2008D4EB0 /* Debug */,
+				6897826F136597C2008D4EB0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68978270136597C2008D4EB0 /* Build configuration list for PBXNativeTarget "XMLAndPredicate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68978271136597C2008D4EB0 /* Debug */,
+				68978272136597C2008D4EB0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68978246136597C1008D4EB0 /* Project object */;
+}

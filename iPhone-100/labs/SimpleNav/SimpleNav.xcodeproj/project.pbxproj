@@ -1,0 +1,284 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68182B081336580E00C7EA1F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68182B071336580E00C7EA1F /* UIKit.framework */; };
+		68182B0A1336580E00C7EA1F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68182B091336580E00C7EA1F /* Foundation.framework */; };
+		68182B0C1336580E00C7EA1F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68182B0B1336580E00C7EA1F /* CoreGraphics.framework */; };
+		68182B121336580E00C7EA1F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68182B101336580E00C7EA1F /* InfoPlist.strings */; };
+		68182B151336580E00C7EA1F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182B141336580E00C7EA1F /* main.m */; };
+		68182B181336580E00C7EA1F /* SimpleNavAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182B171336580E00C7EA1F /* SimpleNavAppDelegate.m */; };
+		68182B1B1336580E00C7EA1F /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68182B191336580E00C7EA1F /* MainWindow.xib */; };
+		68182B261336597F00C7EA1F /* MyViewControllerA.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182B251336597F00C7EA1F /* MyViewControllerA.m */; };
+		68182B2C133659AF00C7EA1F /* MyViewControllerB.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182B2B133659AF00C7EA1F /* MyViewControllerB.m */; };
+		68182B301336629100C7EA1F /* MyViewB.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68182B2F1336629100C7EA1F /* MyViewB.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		68182B031336580E00C7EA1F /* SimpleNav.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleNav.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68182B071336580E00C7EA1F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68182B091336580E00C7EA1F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68182B0B1336580E00C7EA1F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		68182B0F1336580E00C7EA1F /* SimpleNav-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SimpleNav-Info.plist"; sourceTree = "<group>"; };
+		68182B111336580E00C7EA1F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		68182B131336580E00C7EA1F /* SimpleNav-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SimpleNav-Prefix.pch"; sourceTree = "<group>"; };
+		68182B141336580E00C7EA1F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68182B161336580E00C7EA1F /* SimpleNavAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimpleNavAppDelegate.h; sourceTree = "<group>"; };
+		68182B171336580E00C7EA1F /* SimpleNavAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleNavAppDelegate.m; sourceTree = "<group>"; };
+		68182B1A1336580E00C7EA1F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		68182B241336597F00C7EA1F /* MyViewControllerA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewControllerA.h; sourceTree = "<group>"; };
+		68182B251336597F00C7EA1F /* MyViewControllerA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewControllerA.m; sourceTree = "<group>"; };
+		68182B2A133659AF00C7EA1F /* MyViewControllerB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewControllerB.h; sourceTree = "<group>"; };
+		68182B2B133659AF00C7EA1F /* MyViewControllerB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewControllerB.m; sourceTree = "<group>"; };
+		68182B2F1336629100C7EA1F /* MyViewB.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyViewB.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68182B001336580E00C7EA1F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68182B081336580E00C7EA1F /* UIKit.framework in Frameworks */,
+				68182B0A1336580E00C7EA1F /* Foundation.framework in Frameworks */,
+				68182B0C1336580E00C7EA1F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68182AF81336580E00C7EA1F = {
+			isa = PBXGroup;
+			children = (
+				68182B0D1336580E00C7EA1F /* SimpleNav */,
+				68182B061336580E00C7EA1F /* Frameworks */,
+				68182B041336580E00C7EA1F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68182B041336580E00C7EA1F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68182B031336580E00C7EA1F /* SimpleNav.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68182B061336580E00C7EA1F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68182B071336580E00C7EA1F /* UIKit.framework */,
+				68182B091336580E00C7EA1F /* Foundation.framework */,
+				68182B0B1336580E00C7EA1F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68182B0D1336580E00C7EA1F /* SimpleNav */ = {
+			isa = PBXGroup;
+			children = (
+				68182B161336580E00C7EA1F /* SimpleNavAppDelegate.h */,
+				68182B171336580E00C7EA1F /* SimpleNavAppDelegate.m */,
+				68182B191336580E00C7EA1F /* MainWindow.xib */,
+				68182B241336597F00C7EA1F /* MyViewControllerA.h */,
+				68182B251336597F00C7EA1F /* MyViewControllerA.m */,
+				68182B2A133659AF00C7EA1F /* MyViewControllerB.h */,
+				68182B2B133659AF00C7EA1F /* MyViewControllerB.m */,
+				68182B2F1336629100C7EA1F /* MyViewB.xib */,
+				68182B0E1336580E00C7EA1F /* Supporting Files */,
+			);
+			path = SimpleNav;
+			sourceTree = "<group>";
+		};
+		68182B0E1336580E00C7EA1F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68182B0F1336580E00C7EA1F /* SimpleNav-Info.plist */,
+				68182B101336580E00C7EA1F /* InfoPlist.strings */,
+				68182B131336580E00C7EA1F /* SimpleNav-Prefix.pch */,
+				68182B141336580E00C7EA1F /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68182B021336580E00C7EA1F /* SimpleNav */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68182B1E1336580E00C7EA1F /* Build configuration list for PBXNativeTarget "SimpleNav" */;
+			buildPhases = (
+				68182AFF1336580E00C7EA1F /* Sources */,
+				68182B001336580E00C7EA1F /* Frameworks */,
+				68182B011336580E00C7EA1F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SimpleNav;
+			productName = SimpleNav;
+			productReference = 68182B031336580E00C7EA1F /* SimpleNav.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68182AFA1336580E00C7EA1F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68182AFD1336580E00C7EA1F /* Build configuration list for PBXProject "SimpleNav" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68182AF81336580E00C7EA1F;
+			productRefGroup = 68182B041336580E00C7EA1F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68182B021336580E00C7EA1F /* SimpleNav */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68182B011336580E00C7EA1F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68182B121336580E00C7EA1F /* InfoPlist.strings in Resources */,
+				68182B1B1336580E00C7EA1F /* MainWindow.xib in Resources */,
+				68182B301336629100C7EA1F /* MyViewB.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68182AFF1336580E00C7EA1F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68182B151336580E00C7EA1F /* main.m in Sources */,
+				68182B181336580E00C7EA1F /* SimpleNavAppDelegate.m in Sources */,
+				68182B261336597F00C7EA1F /* MyViewControllerA.m in Sources */,
+				68182B2C133659AF00C7EA1F /* MyViewControllerB.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		68182B101336580E00C7EA1F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68182B111336580E00C7EA1F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68182B191336580E00C7EA1F /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68182B1A1336580E00C7EA1F /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		68182B1C1336580E00C7EA1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		68182B1D1336580E00C7EA1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		68182B1F1336580E00C7EA1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimpleNav/SimpleNav-Prefix.pch";
+				INFOPLIST_FILE = "SimpleNav/SimpleNav-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68182B201336580E00C7EA1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimpleNav/SimpleNav-Prefix.pch";
+				INFOPLIST_FILE = "SimpleNav/SimpleNav-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68182AFD1336580E00C7EA1F /* Build configuration list for PBXProject "SimpleNav" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68182B1C1336580E00C7EA1F /* Debug */,
+				68182B1D1336580E00C7EA1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68182B1E1336580E00C7EA1F /* Build configuration list for PBXNativeTarget "SimpleNav" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68182B1F1336580E00C7EA1F /* Debug */,
+				68182B201336580E00C7EA1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68182AFA1336580E00C7EA1F /* Project object */;
+}

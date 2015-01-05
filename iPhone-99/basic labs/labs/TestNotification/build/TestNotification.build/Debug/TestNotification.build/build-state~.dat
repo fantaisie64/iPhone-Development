@@ -1,0 +1,162 @@
+TTestNotification
+v7
+r0
+t318833857.862093
+cCheck dependencies
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNotification_Prefix-eomaxvuncrxfubgouyhavhnwuknm/TestNotification_Prefix.pch.gch TestNotification_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/TestNotification.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/TestNotification.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Engine.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Engine.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Observer.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Observer.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug/TestNotification" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Engine.h
+c000000004D50CB090000000000000120
+t1297140489
+s288
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Engine.m
+c000000004D50CD3C000000000000014B
+t1297141052
+s331
+i"Engine.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Observer.h
+c000000004D50CC130000000000000142
+t1297140755
+s322
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Observer.m
+c000000004D50CCA0000000000000021E
+t1297140896
+s542
+i"Observer.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/TestNotification.m
+c000000004D50CCF30000000000000215
+t1297140979
+s533
+i<Foundation/Foundation.h>
+i"Engine.h"
+i"Observer.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/TestNotification_Prefix.pch
+c000000004D50C96300000000000000AE
+t1297140067
+s174
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug/TestNotification
+t1297141057
+s11648
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Engine.o
+t1297141057
+s9072
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Observer-C07FE861353FB234.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Observer.o
+t1297141057
+s9564
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/TestNotification.LinkFileList
+c000000004D50CD3C0000000000000216
+t1297141052
+s534
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/TestNotification.o
+t1297141057
+s8156
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNotification_Prefix-eomaxvuncrxfubgouyhavhnwuknm/TestNotification_Prefix.pch.gch
+t1297141057
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318833852#318833852#0(0"0(0#1#0"8601220096#0"0#
+
+CCompileC build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Engine.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Engine.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318833857.322392
+e318833857.579365
+r1
+xCompileC
+xbuild/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Engine.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Engine.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Engine.m318833857#318833857#0(0"0(0#0#93"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Engine.m8609418528#2162"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNotification_Prefix-eomaxvuncrxfubgouyhavhnwuknm/TestNotification_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Engine.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Engine.o"0#
+
+CCompileC build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Observer-C07FE861353FB234.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Observer.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Observer.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Observer.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318833857.579581
+e318833857.814777
+r1
+xCompileC
+xbuild/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Observer.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Observer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Observer.m318833857#318833857#0(0"0(0#0#95"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Observer.m8602312192#2166"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNotification_Prefix-eomaxvuncrxfubgouyhavhnwuknm/TestNotification_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/Observer.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/Observer.o"0#
+
+CCompileC build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/TestNotification.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/TestNotification.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318833857.320025
+e318833857.589384
+r1
+xCompileC
+xbuild/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/TestNotification.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/TestNotification.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/TestNotification.m318833857#318833857#0(0"0(0#0#103"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/TestNotification.m8616126464#2182"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNotification_Prefix-eomaxvuncrxfubgouyhavhnwuknm/TestNotification_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/TestNotification.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/TestNotification.o"0#
+
+CLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug/TestNotification" normal x86_64
+s318833857.814974
+e318833857.862002
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug/TestNotification
+xnormal
+xx86_64
+lSLF07#2@118"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug/TestNotification318833857#318833857#0(0"0(0#0#0"8616414880#796"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug" -filelist "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/Objects-normal/x86_64/TestNotification.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug/TestNotification"0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNotification_Prefix-eomaxvuncrxfubgouyhavhnwuknm/TestNotification_Prefix.pch.gch TestNotification_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318833852.367077
+e318833857.319703
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNotification_Prefix-eomaxvuncrxfubgouyhavhnwuknm/TestNotification_Prefix.pch.gch
+xTestNotification_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile TestNotification_Prefix.pch318833852#318833857#0(0"0(0#0#112"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/TestNotification_Prefix.pch8609511488#2007"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/TestNotification-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/build/TestNotification.build/Debug/TestNotification.build/DerivedSources" -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestNotification/TestNotification_Prefix.pch" -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNotification_Prefix-eomaxvuncrxfubgouyhavhnwuknm/TestNotification_Prefix.pch.gch0#
+

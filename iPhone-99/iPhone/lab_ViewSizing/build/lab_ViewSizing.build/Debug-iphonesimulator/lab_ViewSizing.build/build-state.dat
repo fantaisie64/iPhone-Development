@@ -1,0 +1,534 @@
+Tlab_ViewSizing
+v7
+r0
+t317973567.058118
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/Info.plist lab_ViewSizing-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-fcopqznbylcgfpgqonbndspyufmp/lab_ViewSizing_Prefix.pch.gch lab_ViewSizing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingViewController.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing
+cTouch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.h
+c000000004C6A9C1400000000000001FA
+t1282055188
+s506
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m
+c000000004C6A9C140000000000000A9F
+t1282055188
+s2719
+i"lab_ViewSizingAppDelegate.h"
+i"lab_ViewSizingViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.h
+c000000004C6F9A00000000000000020F
+t1282382336
+s527
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m
+c000000004C6F9B89000000000000081F
+t1282382729
+s2079
+i"lab_ViewSizingViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/MainWindow.xib
+c000000004C6A9C140000000000004E7D
+t1282055188
+s20093
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app
+t1282382730
+s238
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM
+t1282382730
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/Info.plist
+t1282064004
+s619
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/MainWindow.nib
+t1282064004
+s1137
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/PkgInfo
+t1282064004
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing
+t1282382730
+s19412
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizingViewController.nib
+t1282382729
+s2551
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizing.LinkFileList
+c000000004C6ABE8400000000000001FB
+t1282064004
+s507
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingAppDelegate.o
+t1282382730
+s48336
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingViewController.o
+t1282382730
+s40256
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/main.o
+t1282064006
+s6340
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib
+c000000004C6F9AFA000000000000720B
+t1282382586
+s29195
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizing_Prefix.pch
+c000000004C6A9C1400000000000000C5
+t1282055188
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/main.m
+c000000004C6A9C140000000000000161
+t1282055188
+s353
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.h
+c000000004C6A9C1400000000000001FA
+t1282055188
+s506
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m
+c000000004D43AC970000000000000A9F
+t1296280727
+s2719
+i"lab_ViewSizingAppDelegate.h"
+i"lab_ViewSizingViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.h
+c000000004C6F9A00000000000000020F
+t1282382336
+s527
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m
+c000000004D3C112400000000000007FA
+t1295782180
+s2042
+i"lab_ViewSizingViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/test.h
+c000000004D43A85000000000000000BA
+t1296279632
+s186
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/test.m
+c000000004D43AC6D00000000000002F1
+t1296280685
+s753
+i"test.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/test.xib
+c000000004D43A67D0000000000001847
+t1296279165
+s6215
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/MainWindow.xib
+c000000004C6A9C140000000000004E7D
+t1282055188
+s20093
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app
+t1296280767
+s238
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM
+t1296280767
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/Info.plist
+t1282064004
+s619
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/MainWindow.nib
+t1282064004
+s1137
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/PkgInfo
+t1282064004
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing
+t1296280766
+s19516
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizingViewController.nib
+t1296280766
+s2588
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/test.nib
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizing.LinkFileList
+c000000004D43ACBD000000000000022E
+t1296280765
+s558
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingAppDelegate.o
+t1296280766
+s51496
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingViewController.o
+t1296044981
+s43200
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/main.o
+t1296044981
+s6372
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/test.o
+t1296280688
+s37796
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib
+c000000004D43ACAA0000000000007402
+t1296280746
+s29698
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizing_Prefix.pch
+c000000004C6A9C1400000000000000C5
+t1282055188
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/main.m
+c000000004C6A9C140000000000000161
+t1282055188
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-asicbxgbpdqzurbbfrboyeetqjet/lab_ViewSizing_Prefix.pch.gch
+t1295781523
+s15232016
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-fcopqznbylcgfpgqonbndspyufmp/lab_ViewSizing_Prefix.pch.gch
+t1296044980
+s15453392
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-gjmlyhfsdiiobvbjwdbdvenbwwln/lab_ViewSizing_Prefix.pch.gch
+t1282064005
+s15232016
+
+Nlab_ViewSizing-Info.plist
+c000000004C6A9C14000000000000038D
+t1282055188
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317973565#317973565#0(0"0(0#1#0"8622344896#0"0#
+
+CCompileC build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304075529.978661
+e304075530.096938
+r1
+xCompileC
+xbuild/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m304075529#304075530#0(0"0(0#0#92"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m8613720736#2289"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-gjmlyhfsdiiobvbjwdbdvenbwwln/lab_ViewSizing_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingAppDelegate.o0#
+
+CCompileC build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317973566.559005
+e317973566.934592
+r1
+xCompileC
+xbuild/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m317973566#317973566#0(0"0(0#0#109"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m8619588288#2489"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-fcopqznbylcgfpgqonbndspyufmp/lab_ViewSizing_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingAppDelegate.o0#
+
+CCompileC build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304075529.980318
+e304075530.174917
+r1
+xCompileC
+xbuild/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m304075529#304075530#0(0"0(0#0#95"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m8612610080#2295"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-gjmlyhfsdiiobvbjwdbdvenbwwln/lab_ViewSizing_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingViewController.o0#
+
+CCompileC build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingViewController.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317737781.024324
+e317737781.176045
+r1
+xCompileC
+xbuild/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m317737781#317737781#0(0"0(0#0#112"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m8606257344#2495"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-fcopqznbylcgfpgqonbndspyufmp/lab_ViewSizing_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/lab_ViewSizingViewController.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizingViewController.o0#
+
+CCompileC build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303756805.975267
+e303756806.073245
+r1
+xCompileC
+xbuild/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/main.m303756805#303756806#0(0"0(0#0#63"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/main.m8606290272#2239"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-gjmlyhfsdiiobvbjwdbdvenbwwln/lab_ViewSizing_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/main.o0#
+
+CCompileC build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317737780.443445
+e317737781.024111
+r1
+xCompileC
+xbuild/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/main.m317737780#317737781#0(0"0(0#0#80"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/main.m8609553728#2439"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-fcopqznbylcgfpgqonbndspyufmp/lab_ViewSizing_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/main.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/main.o0#
+
+CCompileC build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/test.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/test.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317973487.841358
+e317973488.249362
+r1
+xCompileC
+xbuild/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/test.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/test.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/test.m317973487#317973488#0(0"0(0#0#88"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/test.m8622243488#2447"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-fcopqznbylcgfpgqonbndspyufmp/lab_ViewSizing_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/test.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/test.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/MainWindow.xib
+s303756804.314711
+e303756804.902499
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib303756804#303756804#0(0"0(0#0#71"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/MainWindow.xib8603863232#631"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib
+s304075529.373754
+e304075529.978275
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib
+lSLF07#2@43"CompileXIB lab_ViewSizingViewController.xib304075529#304075529#0(0"0(0#0#89"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib8612851296#667"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizingViewController.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/Classes/test.xib
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/MainWindow.xib
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib
+s317973565.242746
+e317973566.558278
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib
+lSLF07#2@43"CompileXIB lab_ViewSizingViewController.xib317973565#317973566#0(0"0(0#0#106"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib8621686624#718"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizingViewController.nib /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing
+s304075530.224053
+e304075530.252615
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing304075530#304075530#0(0"0(0#0#118"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing8612917152#458"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing
+s317973567.004118
+e317973567.051873
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing317973567#317973567#0(0"0(0#0#135"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing8620991936#509"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app.dSYM0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing normal i386
+s304075530.175039
+e304075530.223923
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing
+xnormal
+xi386
+lSLF07#2@123"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing304075530#304075530#0(0"0(0#0#0"8613384256#1025"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizing.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing normal i386
+s317973566.934923
+e317973567.003909
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing
+xnormal
+xi386
+lSLF07#2@140"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing317973566#317973567#0(0"0(0#0#0"8621928128#1110"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/Objects-normal/i386/lab_ViewSizing.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/lab_ViewSizing0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/Info.plist lab_ViewSizing-Info.plist
+s303756804.305267
+e303756804.314598
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/Info.plist
+xlab_ViewSizing-Info.plist
+lSLF07#2@33"Process lab_ViewSizing-Info.plist303756804#303756804#0(0"0(0#0#82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizing-Info.plist8606961152#554"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility lab_ViewSizing-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app/Info.plist lab_ViewSizing-Info.plist
+r0
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-asicbxgbpdqzurbbfrboyeetqjet/lab_ViewSizing_Prefix.pch.gch lab_ViewSizing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317474322.596245
+e317474324.133635
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-asicbxgbpdqzurbbfrboyeetqjet/lab_ViewSizing_Prefix.pch.gch
+xlab_ViewSizing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile lab_ViewSizing_Prefix.pch317474322#317474324#0(0"0(0#0#99"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizing_Prefix.pch8603936896#2276"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizing_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-asicbxgbpdqzurbbfrboyeetqjet/lab_ViewSizing_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-fcopqznbylcgfpgqonbndspyufmp/lab_ViewSizing_Prefix.pch.gch lab_ViewSizing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317737779.089434
+e317737780.443314
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-fcopqznbylcgfpgqonbndspyufmp/lab_ViewSizing_Prefix.pch.gch
+xlab_ViewSizing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile lab_ViewSizing_Prefix.pch317737779#317737780#0(0"0(0#0#99"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizing_Prefix.pch8610022336#2289"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizing_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-fcopqznbylcgfpgqonbndspyufmp/lab_ViewSizing_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-gjmlyhfsdiiobvbjwdbdvenbwwln/lab_ViewSizing_Prefix.pch.gch lab_ViewSizing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303756804.902645
+e303756805.975087
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-gjmlyhfsdiiobvbjwdbdvenbwwln/lab_ViewSizing_Prefix.pch.gch
+xlab_ViewSizing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile lab_ViewSizing_Prefix.pch303756804#303756805#0(0"0(0#0#82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizing_Prefix.pch8602661280#2106"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/lab_ViewSizing-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/lab_ViewSizing.build/Debug-iphonesimulator/lab_ViewSizing.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizing_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_ViewSizing_Prefix-gjmlyhfsdiiobvbjwdbdvenbwwln/lab_ViewSizing_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app
+s304075530.252769
+e304075530.256638
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app
+lSLF07#2@109"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app304075530#304075530#0(0"0(0#0#0"8612792320#321"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app
+s317973567.052050
+e317973567.058012
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app
+lSLF07#2@126"Touch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app317973567#317973567#0(0"0(0#0#0"8613655136#355"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug-iphonesimulator/lab_ViewSizing.app0#
+

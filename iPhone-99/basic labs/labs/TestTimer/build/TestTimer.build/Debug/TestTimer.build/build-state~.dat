@@ -1,0 +1,124 @@
+TTestTimer
+v7
+r0
+t318837841.696577
+cCheck dependencies
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestTimer_Prefix-fmcjqisippdkwvgxmgevxekseazx/TestTimer_Prefix.pch.gch TestTimer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/TestTimer.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/TestTimer.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/DatePrinter.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/DatePrinter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug/TestTimer" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/DatePrinter.h
+c000000004D50D8BD00000000000000CE
+t1297143997
+s206
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/DatePrinter.m
+c000000004D50DCCC000000000000019F
+t1297145036
+s415
+i"DatePrinter.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/TestTimer.m
+c000000004D50DCCB0000000000000248
+t1297145035
+s584
+i<Foundation/Foundation.h>
+i"DatePrinter.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/TestTimer_Prefix.pch
+c000000004D50D85100000000000000A0
+t1297143889
+s160
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug/TestTimer
+t1297145041
+s10600
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/DatePrinter.o
+t1297145041
+s9084
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/TestTimer.LinkFileList
+c000000004D50DCCC000000000000013A
+t1297145036
+s314
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/TestTimer.o
+t1297145041
+s8316
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestTimer_Prefix-fmcjqisippdkwvgxmgevxekseazx/TestTimer_Prefix.pch.gch
+t1297145041
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318837836#318837836#0(0"0(0#1#0"8610356544#0"0#
+
+CCompileC build/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/DatePrinter.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/DatePrinter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318837841.388538
+e318837841.652451
+r1
+xCompileC
+xbuild/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/DatePrinter.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/DatePrinter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/DatePrinter.m318837841#318837841#0(0"0(0#0#91"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/DatePrinter.m8608437984#1955"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestTimer_Prefix-fmcjqisippdkwvgxmgevxekseazx/TestTimer_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/DatePrinter.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/DatePrinter.o"0#
+
+CCompileC build/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/TestTimer.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/TestTimer.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318837841.386202
+e318837841.644317
+r1
+xCompileC
+xbuild/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/TestTimer.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/TestTimer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/TestTimer.m318837841#318837841#0(0"0(0#0#89"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/TestTimer.m8602194400#1951"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestTimer_Prefix-fmcjqisippdkwvgxmgevxekseazx/TestTimer_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/TestTimer.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/TestTimer.o"0#
+
+CLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug/TestTimer" normal x86_64
+s318837841.652627
+e318837841.696470
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug/TestTimer
+xnormal
+xx86_64
+lSLF07#2@104"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug/TestTimer318837841#318837841#0(0"0(0#0#0"8616917600#733"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug" -filelist "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/Objects-normal/x86_64/TestTimer.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug/TestTimer"0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestTimer_Prefix-fmcjqisippdkwvgxmgevxekseazx/TestTimer_Prefix.pch.gch TestTimer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318837836.310812
+e318837841.385891
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestTimer_Prefix-fmcjqisippdkwvgxmgevxekseazx/TestTimer_Prefix.pch.gch
+xTestTimer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TestTimer_Prefix.pch318837836#318837841#0(0"0(0#0#98"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/TestTimer_Prefix.pch8617032864#1804"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/TestTimer-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/build/TestTimer.build/Debug/TestTimer.build/DerivedSources" -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestTimer/TestTimer_Prefix.pch" -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestTimer_Prefix-fmcjqisippdkwvgxmgevxekseazx/TestTimer_Prefix.pch.gch0#
+

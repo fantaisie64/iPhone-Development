@@ -1,0 +1,276 @@
+Tsimple_nav
+v7
+r0
+t302873086.380302
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/Info.plist simple_nav-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewB.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simple_nav_Prefix-cjxhrpudsesywgeaoftdhwhbzmfr/simple_nav_Prefix.pch.gch simple_nav_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/simple_navAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/simple_navAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/myViewControllerA.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/myViewControllerB.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerB.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewB.xib
+c000000004C5D41320000000000001643
+t1281179954
+s5699
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.h
+c000000004C5D3CF200000000000000FE
+t1281178866
+s254
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m
+c000000004C5D427600000000000009BB
+t1281180278
+s2491
+i"myViewControllerA.h"
+i"myViewControllerB.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerB.h
+c000000004C5D397200000000000000D9
+t1281177970
+s217
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerB.m
+c000000004C5D3972000000000000060A
+t1281177970
+s1546
+i"myViewControllerB.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/simple_navAppDelegate.h
+c000000004C5D42790000000000000141
+t1281180281
+s321
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/simple_navAppDelegate.m
+c000000004C5D3CC90000000000000ABB
+t1281178825
+s2747
+i"simple_navAppDelegate.h"
+i"myViewControllerA.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/MainWindow.xib
+c000000004C5D38CC0000000000002117
+t1281177804
+s8471
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app.dSYM
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/Info.plist
+t1281180282
+s603
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/MainWindow.nib
+t1281180283
+s987
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/PkgInfo
+t1281180282
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/myViewB.nib
+t1281180283
+s663
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/simple_nav
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/main.o
+t1281180286
+s6332
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/myViewControllerA.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/myViewControllerB.o
+t1281180286
+s34540
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/simple_nav.LinkFileList
+c000000004C5D427A0000000000000263
+t1281180282
+s611
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/simple_navAppDelegate.o
+t1281180286
+s49340
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/main.m
+c000000004C5D38CC000000000000015C
+t1281177804
+s348
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/simple_nav_Prefix.pch
+c000000004C5D38CC00000000000000BD
+t1281177804
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simple_nav_Prefix-cjxhrpudsesywgeaoftdhwhbzmfr/simple_nav_Prefix.pch.gch
+t1281180284
+s15232016
+
+Nsimple_nav-Info.plist
+c000000004C5D38CC000000000000038D
+t1281177804
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302873081#302873082#0(0"0(0#1#0"8616295904#0"0#
+
+CCompileC build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302873085.684667
+e302873086.154343
+r1
+xCompileC
+xbuild/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/main.m302873085#302873086#0(0"0(0#0#59"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/main.m8601299872#2115"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simple_nav_Prefix-cjxhrpudsesywgeaoftdhwhbzmfr/simple_nav_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/main.o0#
+
+CCompileC build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/myViewControllerA.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302873086.154479
+e302873086.299094
+r0
+xCompileC
+xbuild/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/myViewControllerA.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m: In function '-[myViewControllerA init]':
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:16: error: expected ')' before '{' token
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:18: error: expected expression before '}' token
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:18: warning: control reaches end of non-void function
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m: In function '-[myViewControllerA loadView]':
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:41: warning: 'UIView' may not respond to '-setText:'
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:41: warning: (Messages without a matching method signature
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:41: warning: will be assumed to return 'id' and accept
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:41: warning: '...' as arguments.)
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:46: warning: 'UIView' may not respond to '-setText:'
+lSLF07#2@88"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m302873086#302873086#0(1295"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m: In function '-[myViewControllerA init]':/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:16: error: expected ')' before '{' token/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:18: error: expected expression before '}' token/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:18: warning: control reaches end of non-void function/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m: In function '-[myViewControllerA loadView]':/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:41: warning: 'UIView' may not respond to '-setText:'/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:41: warning: (Messages without a matching method signature/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:41: warning: will be assumed to return 'id' and accept/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:41: warning: '...' as arguments.)/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m:46: warning: 'UIView' may not respond to '-setText:'6(4@29"Expected ')' before '{' token302873086#123#122#0(6@80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m302873078#16#0#16#0#19"expected * before *0(4@36"Expected expression before '}' token302873086#245#129#0(6@80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m302873078#18#0#18#0#19"expected * before *0(22@40"Control reaches end of non-void function302873086#374#135#0(6@80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m302873078#18#0#18#0#40"control reaches end of non-void function0(22@39"'UIView' may not respond to '-setText:'302873086#636#134#0(6@80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m302873078#41#0#41#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)302873086#770#140#0(6@80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m302873078#41#0#41#0#0"0(22@39"'UIView' may not respond to '-setText:'302873086#1161#134#0(6@80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m302873078#46#0#46#0#26"'*' may not respond to '*'0(0#0#80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m8606632128#2149"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simple_nav_Prefix-cjxhrpudsesywgeaoftdhwhbzmfr/simple_nav_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerA.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/myViewControllerA.o1#
+
+CCompileC build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/myViewControllerB.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerB.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302873086.296016
+e302873086.380033
+r1
+xCompileC
+xbuild/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/myViewControllerB.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerB.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerB.m302873086#302873086#0(0"0(0#0#80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerB.m8606105568#2149"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simple_nav_Prefix-cjxhrpudsesywgeaoftdhwhbzmfr/simple_nav_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewControllerB.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/myViewControllerB.o0#
+
+CCompileC build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/simple_navAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/simple_navAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302873085.686026
+e302873086.295895
+r1
+xCompileC
+xbuild/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/simple_navAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/simple_navAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/simple_navAppDelegate.m302873085#302873086#0(0"0(0#0#84"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/simple_navAppDelegate.m8615246208#2157"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simple_nav_Prefix-cjxhrpudsesywgeaoftdhwhbzmfr/simple_nav_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/simple_navAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/Objects-normal/i386/simple_navAppDelegate.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewB.xib
+s302873082.130832
+e302873083.412564
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewB.xib
+lSLF07#2@30"CompileXIB Classes/myViewB.xib302873082#302873083#0(0"0(0#0#72"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewB.xib8615529376#617"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/myViewB.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/Classes/myViewB.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/MainWindow.xib
+s302873082.053035
+e302873083.410057
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302873082#302873083#0(0"0(0#0#67"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/MainWindow.xib8600517024#615"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/simple_nav
+r0
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/simple_nav normal i386
+r0
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/Info.plist simple_nav-Info.plist
+s302873082.044788
+e302873082.052911
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/Info.plist
+xsimple_nav-Info.plist
+lSLF07#2@29"Process simple_nav-Info.plist302873082#302873082#0(0"0(0#0#74"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/simple_nav-Info.plist8614409920#530"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility simple_nav-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simple_nav_Prefix-cjxhrpudsesywgeaoftdhwhbzmfr/simple_nav_Prefix.pch.gch simple_nav_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302873083.412703
+e302873085.684408
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simple_nav_Prefix-cjxhrpudsesywgeaoftdhwhbzmfr/simple_nav_Prefix.pch.gch
+xsimple_nav_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile simple_nav_Prefix.pch302873083#302873085#0(0"0(0#0#74"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/simple_nav_Prefix.pch8614776064#1990"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/simple_nav-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/simple_nav.build/Debug-iphonesimulator/simple_nav.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/simple_nav_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simple_nav_Prefix-cjxhrpudsesywgeaoftdhwhbzmfr/simple_nav_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/simple_nav/build/Debug-iphonesimulator/simple_nav.app
+r0
+

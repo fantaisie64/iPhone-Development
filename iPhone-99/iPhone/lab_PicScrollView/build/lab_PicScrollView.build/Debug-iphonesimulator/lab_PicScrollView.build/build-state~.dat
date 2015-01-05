@@ -1,0 +1,209 @@
+Tlab_PicScrollView
+v7
+r0
+t302961300.311132
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/Info.plist lab_PicScrollView-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/lab_PicScrollView.app/Scenary.jpg Classes/Scenary.jpg
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_PicScrollView_Prefix-cuyebsnxgpodkqdnqdevyjdthxxp/lab_PicScrollView_Prefix.pch.gch lab_PicScrollView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/lab_PicScrollViewAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/Scenary.jpg
+c000000004A6BB8D40000000000051116
+t1248573652
+s332054
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.h
+c000000004C5E99A200000000000001CF
+t1281268130
+s463
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m
+c000000004C5E9B0F0000000000000DCE
+t1281268495
+s3534
+i"lab_PicScrollViewAppDelegate.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/MainWindow.xib
+c000000004C5E988A000000000000213A
+t1281267850
+s8506
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app.dSYM
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/Info.plist
+t1281268498
+s637
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/MainWindow.nib
+t1281268498
+s994
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/PkgInfo
+t1281268498
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/Scenary.jpg
+t1281268498
+s332054
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/lab_PicScrollView
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/lab_PicScrollView.LinkFileList
+c000000004C5E9B12000000000000015E
+t1281268498
+s350
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/lab_PicScrollViewAppDelegate.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/main.o
+t1281268500
+s6344
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/lab_PicScrollView_Prefix.pch
+c000000004C5E988A00000000000000CB
+t1281267850
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/main.m
+c000000004C5E988A0000000000000163
+t1281267850
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_PicScrollView_Prefix-cuyebsnxgpodkqdnqdevyjdthxxp/lab_PicScrollView_Prefix.pch.gch
+t1281268499
+s15232016
+
+Nlab_PicScrollView-Info.plist
+c000000004C5E988A000000000000038D
+t1281267850
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302961298#302961298#0(0"0(0#1#0"31525334837231728#0"0#
+
+CCompileC build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/lab_PicScrollViewAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302961300.086268
+e302961300.300101
+r0
+xCompileC
+xbuild/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/lab_PicScrollViewAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m:9:
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.h:12: error: cannot find protocol declaration for 'UIScrollViewDelegte'
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m: In function '-[lab_PicScrollViewAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m:29: warning: class 'lab_PicScrollViewAppDelegate' does not implement the 'UIScrollViewDelegate' protocol
+lSLF07#2@106"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m302961300#302961300#0(687"In file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m:9:/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.h:12: error: cannot find protocol declaration for 'UIScrollViewDelegte'/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m: In function '-[lab_PicScrollViewAppDelegate application:didFinishLaunchingWithOptions:]':/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m:29: warning: class 'lab_PicScrollViewAppDelegate' does not implement the 'UIScrollViewDelegate' protocol2(4@58"Cannot find protocol declaration for 'UIScrollViewDelegte'302961300#124#169#2(7@120"In file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m302961300#18446744073709551615#0#0(6@98"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m302961295#9#0#9#0#0"0(13@160"Cannot find protocol declaration for 'UIScrollViewDelegte' in /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.h302961300#18446744073709551615#0#0(6@98"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.h302960930#12#0#12#0#0"0(6@98"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.h302960930#12#0#12#0#0"0(22@91"Class 'lab_PicScrollViewAppDelegate' does not implement the 'UIScrollViewDelegate' protocol302961300#483#204#0(6@98"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m302961295#29#0#29#0#45"class '*' does not implement the '*' protocol0(0#0#98"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m8603556128#2388"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_PicScrollView_Prefix-cuyebsnxgpodkqdnqdevyjdthxxp/lab_PicScrollView_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/lab_PicScrollViewAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/lab_PicScrollViewAppDelegate.o1#
+
+CCompileC build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302961300.084729
+e302961300.311023
+r1
+xCompileC
+xbuild/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/main.m302961300#302961300#0(0"0(0#0#66"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/main.m8603427648#2332"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_PicScrollView_Prefix-cuyebsnxgpodkqdnqdevyjdthxxp/lab_PicScrollView_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/MainWindow.xib
+s302961298.298947
+e302961298.903310
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302961298#302961298#0(0"0(0#0#74"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/MainWindow.xib8610231776#643"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/lab_PicScrollView.app/Scenary.jpg Classes/Scenary.jpg
+s302961298.321414
+e302961298.357621
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/lab_PicScrollView.app/Scenary.jpg
+xClasses/Scenary.jpg
+lSLF07#2@24"Copy Classes/Scenary.jpg302961298#302961298#0(0"0(0#0#79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/Scenary.jpg8610500512#536"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/Classes/Scenary.jpg /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/lab_PicScrollView
+r0
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/lab_PicScrollView normal i386
+r0
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/Info.plist lab_PicScrollView-Info.plist
+s302961298.256381
+e302961298.298810
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/Info.plist
+xlab_PicScrollView-Info.plist
+lSLF07#2@36"Process lab_PicScrollView-Info.plist302961298#302961298#0(0"0(0#0#88"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/lab_PicScrollView-Info.plist32088624093986912#572"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility lab_PicScrollView-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_PicScrollView_Prefix-cuyebsnxgpodkqdnqdevyjdthxxp/lab_PicScrollView_Prefix.pch.gch lab_PicScrollView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302961298.903614
+e302961300.084365
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_PicScrollView_Prefix-cuyebsnxgpodkqdnqdevyjdthxxp/lab_PicScrollView_Prefix.pch.gch
+xlab_PicScrollView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile lab_PicScrollView_Prefix.pch302961298#302961300#0(0"0(0#0#88"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/lab_PicScrollView_Prefix.pch8610525728#2193"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/lab_PicScrollView-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/lab_PicScrollView.build/Debug-iphonesimulator/lab_PicScrollView.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/lab_PicScrollView_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_PicScrollView_Prefix-cuyebsnxgpodkqdnqdevyjdthxxp/lab_PicScrollView_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_PicScrollView/build/Debug-iphonesimulator/lab_PicScrollView.app
+r0
+

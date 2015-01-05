@@ -1,0 +1,472 @@
+Tlab_FileReadWrite
+v7
+r0
+t317372967.955464
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Info.plist lab_FileReadWrite-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWriteViewController.xib
+cCopyPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Test.plist Test.plist
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-ddkeycnnjvamdsavzhktkcfagdpc/lab_FileReadWrite_Prefix.pch.gch lab_FileReadWrite_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteViewController.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite
+cTouch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.h
+c000000004C5D1585000000000000020B
+t1281168773
+s523
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m
+c000000004C5D15850000000000000AAD
+t1281168773
+s2733
+i"lab_FileReadWriteAppDelegate.h"
+i"lab_FileReadWriteViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.h
+c000000004C5D225200000000000001F0
+t1281172050
+s496
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m
+c000000004C5D25F30000000000000886
+t1281172979
+s2182
+i"lab_FileReadWriteViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/MainWindow.xib
+c000000004C5D15850000000000004EA1
+t1281168773
+s20129
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Test.plist
+c000000004C5D18A800000000000000D5
+t1281169576
+s213
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app
+t1281172984
+s272
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM
+t1281172984
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Info.plist
+t1281172981
+s637
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/MainWindow.nib
+t1281172982
+s1143
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/PkgInfo
+t1281172981
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Test.plist
+t1281172982
+s49
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite
+t1281172984
+s19544
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWriteViewController.nib
+t1281172982
+s2115
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWrite.LinkFileList
+c000000004C5D25F5000000000000021C
+t1281172981
+s540
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteAppDelegate.o
+t1281172984
+s48608
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteViewController.o
+t1281172984
+s41664
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/main.o
+t1281172984
+s6344
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWriteViewController.xib
+c000000004C5D250800000000000060D8
+t1281172744
+s24792
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWrite_Prefix.pch
+c000000004C5D158500000000000000CB
+t1281168773
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/main.m
+c000000004C5D15850000000000000163
+t1281168773
+s355
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.h
+c000000004C5D1585000000000000020B
+t1281168773
+s523
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m
+c000000004C5D15850000000000000AAD
+t1281168773
+s2733
+i"lab_FileReadWriteAppDelegate.h"
+i"lab_FileReadWriteViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.h
+c000000004C5D225200000000000001F0
+t1281172050
+s496
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m
+c000000004D3A8305000000000000086B
+t1295680261
+s2155
+i"lab_FileReadWriteViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/MainWindow.xib
+c000000004C5D15850000000000004EA1
+t1281168773
+s20129
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Test.plist
+c000000004C5D18A800000000000000D5
+t1281169576
+s213
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app
+t1295680041
+s272
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM
+t1295680041
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Info.plist
+t1281172981
+s637
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/MainWindow.nib
+t1281172982
+s1143
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/PkgInfo
+t1281172981
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Test.plist
+t1281172982
+s49
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite
+t1295680041
+s19648
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWriteViewController.nib
+t1281172982
+s2115
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWrite.LinkFileList
+c000000004D3A8227000000000000024F
+t1295680039
+s591
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteAppDelegate.o
+t1295680040
+s48640
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteViewController.o
+t1295680041
+s41568
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/main.o
+t1295680040
+s6380
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWriteViewController.xib
+c000000004C5D250800000000000060D8
+t1281172744
+s24792
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWrite_Prefix.pch
+c000000004C5D158500000000000000CB
+t1281168773
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/main.m
+c000000004C5D15850000000000000163
+t1281168773
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-ddkeycnnjvamdsavzhktkcfagdpc/lab_FileReadWrite_Prefix.pch.gch
+t1295680040
+s15232016
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-dnfgitmtyggfvzeasieclfyfboez/lab_FileReadWrite_Prefix.pch.gch
+t1281172983
+s15232016
+
+Nlab_FileReadWrite-Info.plist
+c000000004C5D1585000000000000038D
+t1281168773
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317372967#317372967#0(0"0(0#1#0"31525334837231728#0"0#
+
+CCompileC build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302865784.084726
+e302865784.232396
+r1
+xCompileC
+xbuild/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m302865784#302865784#0(0"0(0#0#98"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m8608225536#2388"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-dnfgitmtyggfvzeasieclfyfboez/lab_FileReadWrite_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteAppDelegate.o0#
+
+CCompileC build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317372840.630986
+e317372840.955729
+r1
+xCompileC
+xbuild/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m317372840#317372840#0(0"0(0#0#115"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m8601374944#2575"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-ddkeycnnjvamdsavzhktkcfagdpc/lab_FileReadWrite_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteAppDelegate.o0#
+
+CCompileC build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302865784.176143
+e302865784.300918
+r1
+xCompileC
+xbuild/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m302865784#302865784#0(0"0(0#0#101"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m8606016448#2394"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-dnfgitmtyggfvzeasieclfyfboez/lab_FileReadWrite_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteViewController.o0#
+
+CCompileC build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteViewController.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317372840.953705
+e317372841.040258
+r1
+xCompileC
+xbuild/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m317372840#317372841#0(0"0(0#0#118"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m8590402176#2581"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-ddkeycnnjvamdsavzhktkcfagdpc/lab_FileReadWrite_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/Classes/lab_FileReadWriteViewController.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWriteViewController.o0#
+
+CCompileC build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302865784.083044
+e302865784.176003
+r1
+xCompileC
+xbuild/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/main.m302865784#302865784#0(0"0(0#0#66"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/main.m8602565024#2332"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-dnfgitmtyggfvzeasieclfyfboez/lab_FileReadWrite_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/main.o0#
+
+CCompileC build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317372840.629155
+e317372840.953453
+r1
+xCompileC
+xbuild/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/main.m317372840#317372840#0(0"0(0#0#83"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/main.m8603392352#2519"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-ddkeycnnjvamdsavzhktkcfagdpc/lab_FileReadWrite_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/main.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/MainWindow.xib
+s302865781.969849
+e302865782.639003
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302865781#302865782#0(0"0(0#0#74"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/MainWindow.xib8606209280#643"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWriteViewController.xib
+s302865782.004425
+e302865782.679474
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWriteViewController.xib
+lSLF07#2@46"CompileXIB lab_FileReadWriteViewController.xib302865782#302865782#0(0"0(0#0#95"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWriteViewController.xib8606164992#685"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWriteViewController.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWriteViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/MainWindow.xib
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWriteViewController.xib
+r0
+
+CCopyPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Test.plist Test.plist
+s302865782.639131
+e302865782.902577
+r1
+xCopyPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Test.plist
+xTest.plist
+lSLF07#2@15"Copy Test.plist302865782#302865782#0(0"0(0#0#70"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/Test.plist8605608256#437"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Test.plist --outdir /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app0#
+
+CCopyPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Test.plist Test.plist
+r0
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite
+s302865784.379734
+e302865784.403930
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite302865784#302865784#0(0"0(0#0#127"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite8608159328#476"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite
+s317372841.372268
+e317372841.515303
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite317372841#317372841#0(0"0(0#0#144"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite8603006112#527"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app.dSYM0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite normal i386
+s302865784.301038
+e302865784.379610
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite
+xnormal
+xi386
+lSLF07#2@132"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite302865784#302865784#0(0"0(0#0#0"8604857888#1055"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWrite.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite normal i386
+s317372841.040383
+e317372841.372152
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite
+xnormal
+xi386
+lSLF07#2@149"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite317372841#317372841#0(0"0(0#0#0"8603332800#1140"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/Objects-normal/i386/lab_FileReadWrite.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/lab_FileReadWrite0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Info.plist lab_FileReadWrite-Info.plist
+s302865781.963976
+e302865781.969737
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Info.plist
+xlab_FileReadWrite-Info.plist
+lSLF07#2@36"Process lab_FileReadWrite-Info.plist302865781#302865781#0(0"0(0#0#88"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWrite-Info.plist32088624093986912#572"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility lab_FileReadWrite-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app/Info.plist lab_FileReadWrite-Info.plist
+r0
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-ddkeycnnjvamdsavzhktkcfagdpc/lab_FileReadWrite_Prefix.pch.gch lab_FileReadWrite_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317372839.194721
+e317372840.628937
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-ddkeycnnjvamdsavzhktkcfagdpc/lab_FileReadWrite_Prefix.pch.gch
+xlab_FileReadWrite_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile lab_FileReadWrite_Prefix.pch317372839#317372840#0(0"0(0#0#105"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWrite_Prefix.pch7301009462218088448#2363"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWrite_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-ddkeycnnjvamdsavzhktkcfagdpc/lab_FileReadWrite_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-dnfgitmtyggfvzeasieclfyfboez/lab_FileReadWrite_Prefix.pch.gch lab_FileReadWrite_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302865782.902745
+e302865784.082762
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-dnfgitmtyggfvzeasieclfyfboez/lab_FileReadWrite_Prefix.pch.gch
+xlab_FileReadWrite_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile lab_FileReadWrite_Prefix.pch302865782#302865784#0(0"0(0#0#88"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWrite_Prefix.pch8605231616#2193"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/lab_FileReadWrite-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/lab_FileReadWrite.build/Debug-iphonesimulator/lab_FileReadWrite.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/lab_FileReadWrite_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab_FileReadWrite_Prefix-dnfgitmtyggfvzeasieclfyfboez/lab_FileReadWrite_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app
+s302865784.404043
+e302865784.409249
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app
+lSLF07#2@115"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app302865784#302865784#0(0"0(0#0#0"8606639360#330"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app
+s317372841.515408
+e317372841.552213
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app
+lSLF07#2@132"Touch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app317372841#317372841#0(0"0(0#0#0"8603003744#364"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_FileReadWrite/build/Debug-iphonesimulator/lab_FileReadWrite.app0#
+

@@ -1,0 +1,136 @@
+TTestUnitTest
+v7
+r0
+t320687289.305913
+cCheck dependencies
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestUnitTest_Prefix-eiqpdavuzqyhqffetugiioguvuaz/TestUnitTest_Prefix.pch.gch TestUnitTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/TestUnitTest.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/TestUnitTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/Interest.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.h
+c000000004D6D153300000000000000ED
+t1298994483
+s237
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m
+c000000004D6D10E100000000000000B3
+t1298993377
+s179
+i"Interest.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/TestUnitTest.m
+c000000004D6D05C900000000000000EA
+t1298990537
+s234
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/TestUnitTest_Prefix.pch
+c000000004D6D05C900000000000000A6
+t1298990537
+s166
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/Debug/TestUnitTest
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/Interest.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/TestUnitTest.LinkFileList
+c000000004D6D15330000000000000130
+t1298994483
+s304
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/TestUnitTest.o
+t1298994489
+s7020
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/interest.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/interest.h
+c000000004D6D10BB00000000000000CB
+t1298993339
+s203
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/interest.m
+c000000004D6D10BB00000000000000B3
+t1298993339
+s179
+i"interest.h"
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestUnitTest_Prefix-eiqpdavuzqyhqffetugiioguvuaz/TestUnitTest_Prefix.pch.gch
+t1298994488
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320687283#320687283#0(0"0(0#1#0"8628236768#0"0#
+
+CCompileC build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/Interest.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320687289.015957
+e320687289.237363
+r0
+xCompileC
+xbuild/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/Interest.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m:9:
+o/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+lSLF07#2@85"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m320687289#320687289#0(256"In file included from /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m:9:/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token1(4@63"Expected ':', ',', ';', '}' or '__attribute__' before '=' token320687289#103#153#2(7@99"In file included from /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m320687289#18446744073709551615#0#0(6@77"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m320686177#9#0#9#0#0"0(13@144"Expected ':', ',', ';', '}' or '__attribute__' before '=' token in /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.h320687289#18446744073709551615#0#0(6@77"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.h320687283#14#0#14#0#0"0(6@77"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.h320687283#14#0#14#0#19"expected * before *0(0#0#77"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m8628214496#1866"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/Debug -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/Debug/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/DerivedSources/x86_64 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestUnitTest_Prefix-eiqpdavuzqyhqffetugiioguvuaz/TestUnitTest_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/Interest.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/Interest.o1#
+
+CCompileC build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/TestUnitTest.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/TestUnitTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320687289.013719
+e320687289.305750
+r1
+xCompileC
+xbuild/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/TestUnitTest.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/TestUnitTest.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/TestUnitTest.m320687289#320687289#0(0"0(0#0#81"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/TestUnitTest.m8628659808#1874"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/Debug -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/Debug/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/DerivedSources/x86_64 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestUnitTest_Prefix-eiqpdavuzqyhqffetugiioguvuaz/TestUnitTest_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/TestUnitTest.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/TestUnitTest.o0#
+
+CCompileC build/TestUnitTest.build/Debug/TestUnitTest.build/Objects-normal/x86_64/interest.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/interest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/Debug/TestUnitTest normal x86_64
+r0
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestUnitTest_Prefix-eiqpdavuzqyhqffetugiioguvuaz/TestUnitTest_Prefix.pch.gch TestUnitTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320687283.637478
+e320687289.013387
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestUnitTest_Prefix-eiqpdavuzqyhqffetugiioguvuaz/TestUnitTest_Prefix.pch.gch
+xTestUnitTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TestUnitTest_Prefix.pch320687283#320687289#0(0"0(0#0#90"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/TestUnitTest_Prefix.pch8626189376#1731"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/TestUnitTest-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/Debug -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/Debug/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/DerivedSources/x86_64 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/build/TestUnitTest.build/Debug/TestUnitTest.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestUnitTest/TestUnitTest_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestUnitTest_Prefix-eiqpdavuzqyhqffetugiioguvuaz/TestUnitTest_Prefix.pch.gch0#
+

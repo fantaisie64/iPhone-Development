@@ -1,0 +1,238 @@
+TcodeUIViewController
+v7
+r0
+t308938265.957615
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/Info.plist codeUIViewController-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch.gch codeUIViewController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewControllerAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/MyViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController
+cTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.h
+c000000004C5D0F14000000000000015E
+t1281167124
+s350
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m
+c000000004C5D13470000000000000A72
+t1281168199
+s2674
+i"codeUIViewControllerAppDelegate.h"
+i"MyViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib
+c000000004C5D0F140000000000002149
+t1281167124
+s8521
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.h
+c000000004C5D0FAD000000000000011A
+t1281167277
+s282
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m
+c000000004CB9CEBB00000000000008E2
+t1287245499
+s2274
+i"MyViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app
+t1287245465
+s204
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app.dSYM
+t1287245465
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/Info.plist
+t1281168116
+s649
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/MainWindow.nib
+t1281168117
+s997
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/PkgInfo
+t1281168116
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController
+t1287245465
+s18388
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/MyViewController.o
+t1287245465
+s41396
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewController.LinkFileList
+c000000004C5D12F4000000000000022B
+t1281168116
+s555
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewControllerAppDelegate.o
+t1281168201
+s47896
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/main.o
+t1281168119
+s6352
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/codeUIViewController_Prefix.pch
+c000000004C5D0F1400000000000000D1
+t1281167124
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m
+c000000004C5D0F140000000000000166
+t1281167124
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch.gch
+t1281168118
+s15232016
+
+NcodeUIViewController-Info.plist
+c000000004C5D0F14000000000000038D
+t1281167124
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308938265#308938265#0(0"0(0#1#0"8621865120#0"0#
+
+CCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/MyViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308938265.674779
+e308938265.874391
+r1
+xCompileC
+xbuild/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/MyViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m308938265#308938265#0(0"0(0#0#81"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m8621034592#2449"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MyViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewControllerAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302861001.180708
+e302861001.383893
+r1
+xCompileC
+xbuild/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewControllerAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m302861001#302861001#0(0"0(0#0#104"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m8616577600#2487"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/Classes/codeUIViewControllerAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewControllerAppDelegate.o0#
+
+CCompileC build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302860918.936167
+e302860919.180748
+r1
+xCompileC
+xbuild/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m302860918#302860919#0(0"0(0#0#69"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m8616811936#2425"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib
+s302860916.585133
+e302860917.264723
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302860916#302860917#0(0"0(0#0#77"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib8617915872#655"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController
+s308938265.928683
+e308938265.953008
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController
+lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/codeUIViewController.app.dSYM build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController308938265#308938265#0(0"0(0#0#136"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController8613669120#494"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app.dSYM0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController normal i386
+s308938265.874517
+e308938265.928554
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController
+xnormal
+xi386
+lSLF07#2@141"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController308938265#308938265#0(0"0(0#0#0"8621667808#1085"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/Objects-normal/i386/codeUIViewController.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/codeUIViewController0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/Info.plist codeUIViewController-Info.plist
+s302860916.539728
+e302860916.585001
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/Info.plist
+xcodeUIViewController-Info.plist
+lSLF07#2@39"Process codeUIViewController-Info.plist302860916#302860916#0(0"0(0#0#94"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/codeUIViewController-Info.plist27303536605069420#590"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility codeUIViewController-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch.gch codeUIViewController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302860917.265029
+e302860918.935851
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch.gch
+xcodeUIViewController_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile codeUIViewController_Prefix.pch302860917#302860918#0(0"0(0#0#94"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/codeUIViewController_Prefix.pch8617945312#2280"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/codeUIViewController-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/codeUIViewController.build/Debug-iphonesimulator/codeUIViewController.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/codeUIViewController_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/codeUIViewController_Prefix-hiloisqsxkqjzudkykyelkustkwa/codeUIViewController_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app
+s308938265.953130
+e308938265.957563
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app
+lSLF07#2@121"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app308938265#308938265#0(0"0(0#0#0"8621312224#339"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/codeUIViewController/build/Debug-iphonesimulator/codeUIViewController.app0#
+

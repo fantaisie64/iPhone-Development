@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TestNotification' target in the 'TestNotification' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

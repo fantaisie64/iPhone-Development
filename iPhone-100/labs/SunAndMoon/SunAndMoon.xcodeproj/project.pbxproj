@@ -1,0 +1,296 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C44EE18213E975DF008170B3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C44EE18113E975DF008170B3 /* UIKit.framework */; };
+		C44EE18413E975DF008170B3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C44EE18313E975DF008170B3 /* Foundation.framework */; };
+		C44EE18613E975DF008170B3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C44EE18513E975DF008170B3 /* CoreGraphics.framework */; };
+		C44EE18C13E975DF008170B3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C44EE18A13E975DF008170B3 /* InfoPlist.strings */; };
+		C44EE18F13E975DF008170B3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C44EE18E13E975DF008170B3 /* main.m */; };
+		C44EE19213E975DF008170B3 /* SunAndMoonAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C44EE19113E975DF008170B3 /* SunAndMoonAppDelegate.m */; };
+		C44EE19513E975DF008170B3 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = C44EE19313E975DF008170B3 /* MainWindow.xib */; };
+		C44EE19813E975DF008170B3 /* SunAndMoonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C44EE19713E975DF008170B3 /* SunAndMoonViewController.m */; };
+		C44EE19B13E975DF008170B3 /* SunAndMoonViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C44EE19913E975DF008170B3 /* SunAndMoonViewController.xib */; };
+		C44EE1A313E97705008170B3 /* moon.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C44EE1A113E97705008170B3 /* moon.jpeg */; };
+		C44EE1A413E97705008170B3 /* sun.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C44EE1A213E97705008170B3 /* sun.jpeg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C44EE17D13E975DF008170B3 /* SunAndMoon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SunAndMoon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C44EE18113E975DF008170B3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C44EE18313E975DF008170B3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C44EE18513E975DF008170B3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C44EE18913E975DF008170B3 /* SunAndMoon-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SunAndMoon-Info.plist"; sourceTree = "<group>"; };
+		C44EE18B13E975DF008170B3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C44EE18D13E975DF008170B3 /* SunAndMoon-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SunAndMoon-Prefix.pch"; sourceTree = "<group>"; };
+		C44EE18E13E975DF008170B3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C44EE19013E975DF008170B3 /* SunAndMoonAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SunAndMoonAppDelegate.h; sourceTree = "<group>"; };
+		C44EE19113E975DF008170B3 /* SunAndMoonAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SunAndMoonAppDelegate.m; sourceTree = "<group>"; };
+		C44EE19413E975DF008170B3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		C44EE19613E975DF008170B3 /* SunAndMoonViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SunAndMoonViewController.h; sourceTree = "<group>"; };
+		C44EE19713E975DF008170B3 /* SunAndMoonViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SunAndMoonViewController.m; sourceTree = "<group>"; };
+		C44EE19A13E975DF008170B3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SunAndMoonViewController.xib; sourceTree = "<group>"; };
+		C44EE1A113E97705008170B3 /* moon.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moon.jpeg; sourceTree = "<group>"; };
+		C44EE1A213E97705008170B3 /* sun.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sun.jpeg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C44EE17A13E975DF008170B3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C44EE18213E975DF008170B3 /* UIKit.framework in Frameworks */,
+				C44EE18413E975DF008170B3 /* Foundation.framework in Frameworks */,
+				C44EE18613E975DF008170B3 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C44EE17213E975DE008170B3 = {
+			isa = PBXGroup;
+			children = (
+				C44EE18713E975DF008170B3 /* SunAndMoon */,
+				C44EE18013E975DF008170B3 /* Frameworks */,
+				C44EE17E13E975DF008170B3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C44EE17E13E975DF008170B3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C44EE17D13E975DF008170B3 /* SunAndMoon.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C44EE18013E975DF008170B3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C44EE18113E975DF008170B3 /* UIKit.framework */,
+				C44EE18313E975DF008170B3 /* Foundation.framework */,
+				C44EE18513E975DF008170B3 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C44EE18713E975DF008170B3 /* SunAndMoon */ = {
+			isa = PBXGroup;
+			children = (
+				C44EE1A113E97705008170B3 /* moon.jpeg */,
+				C44EE1A213E97705008170B3 /* sun.jpeg */,
+				C44EE19013E975DF008170B3 /* SunAndMoonAppDelegate.h */,
+				C44EE19113E975DF008170B3 /* SunAndMoonAppDelegate.m */,
+				C44EE19313E975DF008170B3 /* MainWindow.xib */,
+				C44EE19613E975DF008170B3 /* SunAndMoonViewController.h */,
+				C44EE19713E975DF008170B3 /* SunAndMoonViewController.m */,
+				C44EE19913E975DF008170B3 /* SunAndMoonViewController.xib */,
+				C44EE18813E975DF008170B3 /* Supporting Files */,
+			);
+			path = SunAndMoon;
+			sourceTree = "<group>";
+		};
+		C44EE18813E975DF008170B3 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C44EE18913E975DF008170B3 /* SunAndMoon-Info.plist */,
+				C44EE18A13E975DF008170B3 /* InfoPlist.strings */,
+				C44EE18D13E975DF008170B3 /* SunAndMoon-Prefix.pch */,
+				C44EE18E13E975DF008170B3 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C44EE17C13E975DF008170B3 /* SunAndMoon */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C44EE19E13E975DF008170B3 /* Build configuration list for PBXNativeTarget "SunAndMoon" */;
+			buildPhases = (
+				C44EE17913E975DF008170B3 /* Sources */,
+				C44EE17A13E975DF008170B3 /* Frameworks */,
+				C44EE17B13E975DF008170B3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SunAndMoon;
+			productName = SunAndMoon;
+			productReference = C44EE17D13E975DF008170B3 /* SunAndMoon.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C44EE17413E975DE008170B3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Berby Huang";
+			};
+			buildConfigurationList = C44EE17713E975DE008170B3 /* Build configuration list for PBXProject "SunAndMoon" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C44EE17213E975DE008170B3;
+			productRefGroup = C44EE17E13E975DF008170B3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C44EE17C13E975DF008170B3 /* SunAndMoon */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C44EE17B13E975DF008170B3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C44EE18C13E975DF008170B3 /* InfoPlist.strings in Resources */,
+				C44EE19513E975DF008170B3 /* MainWindow.xib in Resources */,
+				C44EE19B13E975DF008170B3 /* SunAndMoonViewController.xib in Resources */,
+				C44EE1A313E97705008170B3 /* moon.jpeg in Resources */,
+				C44EE1A413E97705008170B3 /* sun.jpeg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C44EE17913E975DF008170B3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C44EE18F13E975DF008170B3 /* main.m in Sources */,
+				C44EE19213E975DF008170B3 /* SunAndMoonAppDelegate.m in Sources */,
+				C44EE19813E975DF008170B3 /* SunAndMoonViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C44EE18A13E975DF008170B3 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C44EE18B13E975DF008170B3 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C44EE19313E975DF008170B3 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C44EE19413E975DF008170B3 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		C44EE19913E975DF008170B3 /* SunAndMoonViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C44EE19A13E975DF008170B3 /* en */,
+			);
+			name = SunAndMoonViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C44EE19C13E975DF008170B3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C44EE19D13E975DF008170B3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		C44EE19F13E975DF008170B3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SunAndMoon/SunAndMoon-Prefix.pch";
+				INFOPLIST_FILE = "SunAndMoon/SunAndMoon-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C44EE1A013E975DF008170B3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SunAndMoon/SunAndMoon-Prefix.pch";
+				INFOPLIST_FILE = "SunAndMoon/SunAndMoon-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C44EE17713E975DE008170B3 /* Build configuration list for PBXProject "SunAndMoon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C44EE19C13E975DF008170B3 /* Debug */,
+				C44EE19D13E975DF008170B3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C44EE19E13E975DF008170B3 /* Build configuration list for PBXNativeTarget "SunAndMoon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C44EE19F13E975DF008170B3 /* Debug */,
+				C44EE1A013E975DF008170B3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C44EE17413E975DE008170B3 /* Project object */;
+}

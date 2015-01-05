@@ -1,0 +1,289 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		684A270213E850C90025E096 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 684A270113E850C90025E096 /* UIKit.framework */; };
+		684A270413E850C90025E096 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 684A270313E850C90025E096 /* Foundation.framework */; };
+		684A270613E850C90025E096 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 684A270513E850C90025E096 /* CoreGraphics.framework */; };
+		684A270C13E850C90025E096 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 684A270A13E850C90025E096 /* InfoPlist.strings */; };
+		684A270E13E850C90025E096 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 684A270D13E850C90025E096 /* main.m */; };
+		684A271213E850C90025E096 /* ViewAndResponderAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 684A271113E850C90025E096 /* ViewAndResponderAppDelegate.m */; };
+		684A271513E850C90025E096 /* ViewAndResponderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 684A271413E850C90025E096 /* ViewAndResponderViewController.m */; };
+		684A271813E850C90025E096 /* ViewAndResponderViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 684A271613E850C90025E096 /* ViewAndResponderViewController.xib */; };
+		684A272313E8522D0025E096 /* MyButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 684A272213E8522D0025E096 /* MyButton.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		684A26FD13E850C90025E096 /* ViewAndResponder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewAndResponder.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		684A270113E850C90025E096 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		684A270313E850C90025E096 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		684A270513E850C90025E096 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		684A270913E850C90025E096 /* ViewAndResponder-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ViewAndResponder-Info.plist"; sourceTree = "<group>"; };
+		684A270B13E850C90025E096 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		684A270D13E850C90025E096 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		684A270F13E850C90025E096 /* ViewAndResponder-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ViewAndResponder-Prefix.pch"; sourceTree = "<group>"; };
+		684A271013E850C90025E096 /* ViewAndResponderAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewAndResponderAppDelegate.h; sourceTree = "<group>"; };
+		684A271113E850C90025E096 /* ViewAndResponderAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewAndResponderAppDelegate.m; sourceTree = "<group>"; };
+		684A271313E850C90025E096 /* ViewAndResponderViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewAndResponderViewController.h; sourceTree = "<group>"; };
+		684A271413E850C90025E096 /* ViewAndResponderViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewAndResponderViewController.m; sourceTree = "<group>"; };
+		684A271713E850C90025E096 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewAndResponderViewController.xib; sourceTree = "<group>"; };
+		684A272113E8522D0025E096 /* MyButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyButton.h; sourceTree = "<group>"; };
+		684A272213E8522D0025E096 /* MyButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyButton.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		684A26FA13E850C90025E096 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				684A270213E850C90025E096 /* UIKit.framework in Frameworks */,
+				684A270413E850C90025E096 /* Foundation.framework in Frameworks */,
+				684A270613E850C90025E096 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		684A26F213E850C70025E096 = {
+			isa = PBXGroup;
+			children = (
+				684A270713E850C90025E096 /* ViewAndResponder */,
+				684A270013E850C90025E096 /* Frameworks */,
+				684A26FE13E850C90025E096 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		684A26FE13E850C90025E096 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				684A26FD13E850C90025E096 /* ViewAndResponder.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		684A270013E850C90025E096 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				684A270113E850C90025E096 /* UIKit.framework */,
+				684A270313E850C90025E096 /* Foundation.framework */,
+				684A270513E850C90025E096 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		684A270713E850C90025E096 /* ViewAndResponder */ = {
+			isa = PBXGroup;
+			children = (
+				684A271013E850C90025E096 /* ViewAndResponderAppDelegate.h */,
+				684A271113E850C90025E096 /* ViewAndResponderAppDelegate.m */,
+				684A271313E850C90025E096 /* ViewAndResponderViewController.h */,
+				684A271413E850C90025E096 /* ViewAndResponderViewController.m */,
+				684A271613E850C90025E096 /* ViewAndResponderViewController.xib */,
+				684A272113E8522D0025E096 /* MyButton.h */,
+				684A272213E8522D0025E096 /* MyButton.m */,
+				684A270813E850C90025E096 /* Supporting Files */,
+			);
+			path = ViewAndResponder;
+			sourceTree = "<group>";
+		};
+		684A270813E850C90025E096 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				684A270913E850C90025E096 /* ViewAndResponder-Info.plist */,
+				684A270A13E850C90025E096 /* InfoPlist.strings */,
+				684A270D13E850C90025E096 /* main.m */,
+				684A270F13E850C90025E096 /* ViewAndResponder-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		684A26FC13E850C90025E096 /* ViewAndResponder */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 684A271B13E850C90025E096 /* Build configuration list for PBXNativeTarget "ViewAndResponder" */;
+			buildPhases = (
+				684A26F913E850C90025E096 /* Sources */,
+				684A26FA13E850C90025E096 /* Frameworks */,
+				684A26FB13E850C90025E096 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ViewAndResponder;
+			productName = ViewAndResponder;
+			productReference = 684A26FD13E850C90025E096 /* ViewAndResponder.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		684A26F413E850C70025E096 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 684A26F713E850C70025E096 /* Build configuration list for PBXProject "ViewAndResponder" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 684A26F213E850C70025E096;
+			productRefGroup = 684A26FE13E850C90025E096 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				684A26FC13E850C90025E096 /* ViewAndResponder */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		684A26FB13E850C90025E096 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				684A270C13E850C90025E096 /* InfoPlist.strings in Resources */,
+				684A271813E850C90025E096 /* ViewAndResponderViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		684A26F913E850C90025E096 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				684A270E13E850C90025E096 /* main.m in Sources */,
+				684A271213E850C90025E096 /* ViewAndResponderAppDelegate.m in Sources */,
+				684A271513E850C90025E096 /* ViewAndResponderViewController.m in Sources */,
+				684A272313E8522D0025E096 /* MyButton.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		684A270A13E850C90025E096 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				684A270B13E850C90025E096 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		684A271613E850C90025E096 /* ViewAndResponderViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				684A271713E850C90025E096 /* en */,
+			);
+			name = ViewAndResponderViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		684A271913E850C90025E096 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		684A271A13E850C90025E096 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		684A271C13E850C90025E096 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ViewAndResponder/ViewAndResponder-Prefix.pch";
+				INFOPLIST_FILE = "ViewAndResponder/ViewAndResponder-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		684A271D13E850C90025E096 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ViewAndResponder/ViewAndResponder-Prefix.pch";
+				INFOPLIST_FILE = "ViewAndResponder/ViewAndResponder-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		684A26F713E850C70025E096 /* Build configuration list for PBXProject "ViewAndResponder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				684A271913E850C90025E096 /* Debug */,
+				684A271A13E850C90025E096 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		684A271B13E850C90025E096 /* Build configuration list for PBXNativeTarget "ViewAndResponder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				684A271C13E850C90025E096 /* Debug */,
+				684A271D13E850C90025E096 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 684A26F413E850C70025E096 /* Project object */;
+}

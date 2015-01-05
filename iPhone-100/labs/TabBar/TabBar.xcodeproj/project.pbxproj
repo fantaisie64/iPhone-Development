@@ -1,0 +1,295 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68182B41133B7F6400C7EA1F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68182B40133B7F6400C7EA1F /* UIKit.framework */; };
+		68182B43133B7F6400C7EA1F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68182B42133B7F6400C7EA1F /* Foundation.framework */; };
+		68182B45133B7F6400C7EA1F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68182B44133B7F6400C7EA1F /* CoreGraphics.framework */; };
+		68182B4B133B7F6400C7EA1F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68182B49133B7F6400C7EA1F /* InfoPlist.strings */; };
+		68182B4E133B7F6400C7EA1F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182B4D133B7F6400C7EA1F /* main.m */; };
+		68182B51133B7F6400C7EA1F /* TabBarAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182B50133B7F6400C7EA1F /* TabBarAppDelegate.m */; };
+		68182B54133B7F6400C7EA1F /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68182B52133B7F6400C7EA1F /* MainWindow.xib */; };
+		68182B5F133B8EB000C7EA1F /* MyViewB.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68182B5A133B8EB000C7EA1F /* MyViewB.xib */; };
+		68182B60133B8EB000C7EA1F /* MyViewControllerA.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182B5C133B8EB000C7EA1F /* MyViewControllerA.m */; };
+		68182B61133B8EB000C7EA1F /* MyViewControllerB.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182B5E133B8EB000C7EA1F /* MyViewControllerB.m */; };
+		68182B6E133B93C200C7EA1F /* MyViewControllerC.m in Sources */ = {isa = PBXBuildFile; fileRef = 68182B6D133B93C100C7EA1F /* MyViewControllerC.m */; };
+		68182B70133B943C00C7EA1F /* OneForAll.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68182B6F133B943C00C7EA1F /* OneForAll.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		68182B3C133B7F6400C7EA1F /* TabBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68182B40133B7F6400C7EA1F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68182B42133B7F6400C7EA1F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68182B44133B7F6400C7EA1F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		68182B48133B7F6400C7EA1F /* TabBar-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TabBar-Info.plist"; sourceTree = "<group>"; };
+		68182B4A133B7F6400C7EA1F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		68182B4C133B7F6400C7EA1F /* TabBar-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TabBar-Prefix.pch"; sourceTree = "<group>"; };
+		68182B4D133B7F6400C7EA1F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68182B4F133B7F6400C7EA1F /* TabBarAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TabBarAppDelegate.h; sourceTree = "<group>"; };
+		68182B50133B7F6400C7EA1F /* TabBarAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabBarAppDelegate.m; sourceTree = "<group>"; };
+		68182B53133B7F6400C7EA1F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		68182B5A133B8EB000C7EA1F /* MyViewB.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyViewB.xib; sourceTree = "<group>"; };
+		68182B5B133B8EB000C7EA1F /* MyViewControllerA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewControllerA.h; sourceTree = "<group>"; };
+		68182B5C133B8EB000C7EA1F /* MyViewControllerA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewControllerA.m; sourceTree = "<group>"; };
+		68182B5D133B8EB000C7EA1F /* MyViewControllerB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewControllerB.h; sourceTree = "<group>"; };
+		68182B5E133B8EB000C7EA1F /* MyViewControllerB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewControllerB.m; sourceTree = "<group>"; };
+		68182B6C133B93C100C7EA1F /* MyViewControllerC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewControllerC.h; sourceTree = "<group>"; };
+		68182B6D133B93C100C7EA1F /* MyViewControllerC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewControllerC.m; sourceTree = "<group>"; };
+		68182B6F133B943C00C7EA1F /* OneForAll.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OneForAll.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68182B39133B7F6400C7EA1F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68182B41133B7F6400C7EA1F /* UIKit.framework in Frameworks */,
+				68182B43133B7F6400C7EA1F /* Foundation.framework in Frameworks */,
+				68182B45133B7F6400C7EA1F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68182B31133B7F6400C7EA1F = {
+			isa = PBXGroup;
+			children = (
+				68182B46133B7F6400C7EA1F /* TabBar */,
+				68182B3F133B7F6400C7EA1F /* Frameworks */,
+				68182B3D133B7F6400C7EA1F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68182B3D133B7F6400C7EA1F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68182B3C133B7F6400C7EA1F /* TabBar.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68182B3F133B7F6400C7EA1F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68182B40133B7F6400C7EA1F /* UIKit.framework */,
+				68182B42133B7F6400C7EA1F /* Foundation.framework */,
+				68182B44133B7F6400C7EA1F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68182B46133B7F6400C7EA1F /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				68182B5A133B8EB000C7EA1F /* MyViewB.xib */,
+				68182B5B133B8EB000C7EA1F /* MyViewControllerA.h */,
+				68182B5C133B8EB000C7EA1F /* MyViewControllerA.m */,
+				68182B5D133B8EB000C7EA1F /* MyViewControllerB.h */,
+				68182B5E133B8EB000C7EA1F /* MyViewControllerB.m */,
+				68182B6C133B93C100C7EA1F /* MyViewControllerC.h */,
+				68182B6D133B93C100C7EA1F /* MyViewControllerC.m */,
+				68182B6F133B943C00C7EA1F /* OneForAll.xib */,
+				68182B4F133B7F6400C7EA1F /* TabBarAppDelegate.h */,
+				68182B50133B7F6400C7EA1F /* TabBarAppDelegate.m */,
+				68182B52133B7F6400C7EA1F /* MainWindow.xib */,
+				68182B47133B7F6400C7EA1F /* Supporting Files */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		68182B47133B7F6400C7EA1F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68182B48133B7F6400C7EA1F /* TabBar-Info.plist */,
+				68182B49133B7F6400C7EA1F /* InfoPlist.strings */,
+				68182B4C133B7F6400C7EA1F /* TabBar-Prefix.pch */,
+				68182B4D133B7F6400C7EA1F /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68182B3B133B7F6400C7EA1F /* TabBar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68182B57133B7F6400C7EA1F /* Build configuration list for PBXNativeTarget "TabBar" */;
+			buildPhases = (
+				68182B38133B7F6400C7EA1F /* Sources */,
+				68182B39133B7F6400C7EA1F /* Frameworks */,
+				68182B3A133B7F6400C7EA1F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TabBar;
+			productName = TabBar;
+			productReference = 68182B3C133B7F6400C7EA1F /* TabBar.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68182B33133B7F6400C7EA1F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68182B36133B7F6400C7EA1F /* Build configuration list for PBXProject "TabBar" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68182B31133B7F6400C7EA1F;
+			productRefGroup = 68182B3D133B7F6400C7EA1F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68182B3B133B7F6400C7EA1F /* TabBar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68182B3A133B7F6400C7EA1F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68182B4B133B7F6400C7EA1F /* InfoPlist.strings in Resources */,
+				68182B54133B7F6400C7EA1F /* MainWindow.xib in Resources */,
+				68182B5F133B8EB000C7EA1F /* MyViewB.xib in Resources */,
+				68182B70133B943C00C7EA1F /* OneForAll.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68182B38133B7F6400C7EA1F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68182B4E133B7F6400C7EA1F /* main.m in Sources */,
+				68182B51133B7F6400C7EA1F /* TabBarAppDelegate.m in Sources */,
+				68182B60133B8EB000C7EA1F /* MyViewControllerA.m in Sources */,
+				68182B61133B8EB000C7EA1F /* MyViewControllerB.m in Sources */,
+				68182B6E133B93C200C7EA1F /* MyViewControllerC.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		68182B49133B7F6400C7EA1F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68182B4A133B7F6400C7EA1F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68182B52133B7F6400C7EA1F /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68182B53133B7F6400C7EA1F /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		68182B55133B7F6400C7EA1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		68182B56133B7F6400C7EA1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		68182B58133B7F6400C7EA1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TabBar/TabBar-Prefix.pch";
+				INFOPLIST_FILE = "TabBar/TabBar-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68182B59133B7F6400C7EA1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TabBar/TabBar-Prefix.pch";
+				INFOPLIST_FILE = "TabBar/TabBar-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68182B36133B7F6400C7EA1F /* Build configuration list for PBXProject "TabBar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68182B55133B7F6400C7EA1F /* Debug */,
+				68182B56133B7F6400C7EA1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68182B57133B7F6400C7EA1F /* Build configuration list for PBXNativeTarget "TabBar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68182B58133B7F6400C7EA1F /* Debug */,
+				68182B59133B7F6400C7EA1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68182B33133B7F6400C7EA1F /* Project object */;
+}

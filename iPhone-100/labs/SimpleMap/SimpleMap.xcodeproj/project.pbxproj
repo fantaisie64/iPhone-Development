@@ -1,0 +1,290 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68977B821340D89700350010 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68977B811340D89700350010 /* UIKit.framework */; };
+		68977B841340D89700350010 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68977B831340D89700350010 /* Foundation.framework */; };
+		68977B861340D89700350010 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68977B851340D89700350010 /* CoreGraphics.framework */; };
+		68977B8C1340D89700350010 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68977B8A1340D89700350010 /* InfoPlist.strings */; };
+		68977B8F1340D89700350010 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68977B8E1340D89700350010 /* main.m */; };
+		68977B921340D89700350010 /* SimpleMapAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68977B911340D89700350010 /* SimpleMapAppDelegate.m */; };
+		68977B951340D89700350010 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68977B931340D89700350010 /* MainWindow.xib */; };
+		68977B981340D89700350010 /* SimpleMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68977B971340D89700350010 /* SimpleMapViewController.m */; };
+		68977B9B1340D89700350010 /* SimpleMapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68977B991340D89700350010 /* SimpleMapViewController.xib */; };
+		68977BA31340DB8200350010 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68977BA21340DB8200350010 /* MapKit.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		68977B7D1340D89700350010 /* SimpleMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68977B811340D89700350010 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68977B831340D89700350010 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68977B851340D89700350010 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		68977B891340D89700350010 /* SimpleMap-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SimpleMap-Info.plist"; sourceTree = "<group>"; };
+		68977B8B1340D89700350010 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		68977B8D1340D89700350010 /* SimpleMap-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SimpleMap-Prefix.pch"; sourceTree = "<group>"; };
+		68977B8E1340D89700350010 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68977B901340D89700350010 /* SimpleMapAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimpleMapAppDelegate.h; sourceTree = "<group>"; };
+		68977B911340D89700350010 /* SimpleMapAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleMapAppDelegate.m; sourceTree = "<group>"; };
+		68977B941340D89700350010 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		68977B961340D89700350010 /* SimpleMapViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimpleMapViewController.h; sourceTree = "<group>"; };
+		68977B971340D89700350010 /* SimpleMapViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleMapViewController.m; sourceTree = "<group>"; };
+		68977B9A1340D89700350010 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SimpleMapViewController.xib; sourceTree = "<group>"; };
+		68977BA21340DB8200350010 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68977B7A1340D89600350010 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68977BA31340DB8200350010 /* MapKit.framework in Frameworks */,
+				68977B821340D89700350010 /* UIKit.framework in Frameworks */,
+				68977B841340D89700350010 /* Foundation.framework in Frameworks */,
+				68977B861340D89700350010 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68977B721340D89600350010 = {
+			isa = PBXGroup;
+			children = (
+				68977B871340D89700350010 /* SimpleMap */,
+				68977B801340D89700350010 /* Frameworks */,
+				68977B7E1340D89700350010 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68977B7E1340D89700350010 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68977B7D1340D89700350010 /* SimpleMap.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68977B801340D89700350010 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68977BA21340DB8200350010 /* MapKit.framework */,
+				68977B811340D89700350010 /* UIKit.framework */,
+				68977B831340D89700350010 /* Foundation.framework */,
+				68977B851340D89700350010 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68977B871340D89700350010 /* SimpleMap */ = {
+			isa = PBXGroup;
+			children = (
+				68977B901340D89700350010 /* SimpleMapAppDelegate.h */,
+				68977B911340D89700350010 /* SimpleMapAppDelegate.m */,
+				68977B931340D89700350010 /* MainWindow.xib */,
+				68977B961340D89700350010 /* SimpleMapViewController.h */,
+				68977B971340D89700350010 /* SimpleMapViewController.m */,
+				68977B991340D89700350010 /* SimpleMapViewController.xib */,
+				68977B881340D89700350010 /* Supporting Files */,
+			);
+			path = SimpleMap;
+			sourceTree = "<group>";
+		};
+		68977B881340D89700350010 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68977B891340D89700350010 /* SimpleMap-Info.plist */,
+				68977B8A1340D89700350010 /* InfoPlist.strings */,
+				68977B8D1340D89700350010 /* SimpleMap-Prefix.pch */,
+				68977B8E1340D89700350010 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68977B7C1340D89600350010 /* SimpleMap */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68977B9E1340D89700350010 /* Build configuration list for PBXNativeTarget "SimpleMap" */;
+			buildPhases = (
+				68977B791340D89600350010 /* Sources */,
+				68977B7A1340D89600350010 /* Frameworks */,
+				68977B7B1340D89600350010 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SimpleMap;
+			productName = SimpleMap;
+			productReference = 68977B7D1340D89700350010 /* SimpleMap.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68977B741340D89600350010 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68977B771340D89600350010 /* Build configuration list for PBXProject "SimpleMap" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68977B721340D89600350010;
+			productRefGroup = 68977B7E1340D89700350010 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68977B7C1340D89600350010 /* SimpleMap */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68977B7B1340D89600350010 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68977B8C1340D89700350010 /* InfoPlist.strings in Resources */,
+				68977B951340D89700350010 /* MainWindow.xib in Resources */,
+				68977B9B1340D89700350010 /* SimpleMapViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68977B791340D89600350010 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68977B8F1340D89700350010 /* main.m in Sources */,
+				68977B921340D89700350010 /* SimpleMapAppDelegate.m in Sources */,
+				68977B981340D89700350010 /* SimpleMapViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		68977B8A1340D89700350010 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68977B8B1340D89700350010 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68977B931340D89700350010 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68977B941340D89700350010 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		68977B991340D89700350010 /* SimpleMapViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68977B9A1340D89700350010 /* en */,
+			);
+			name = SimpleMapViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		68977B9C1340D89700350010 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		68977B9D1340D89700350010 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		68977B9F1340D89700350010 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimpleMap/SimpleMap-Prefix.pch";
+				INFOPLIST_FILE = "SimpleMap/SimpleMap-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68977BA01340D89700350010 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimpleMap/SimpleMap-Prefix.pch";
+				INFOPLIST_FILE = "SimpleMap/SimpleMap-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68977B771340D89600350010 /* Build configuration list for PBXProject "SimpleMap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68977B9C1340D89700350010 /* Debug */,
+				68977B9D1340D89700350010 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68977B9E1340D89700350010 /* Build configuration list for PBXNativeTarget "SimpleMap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68977B9F1340D89700350010 /* Debug */,
+				68977BA01340D89700350010 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68977B741340D89600350010 /* Project object */;
+}

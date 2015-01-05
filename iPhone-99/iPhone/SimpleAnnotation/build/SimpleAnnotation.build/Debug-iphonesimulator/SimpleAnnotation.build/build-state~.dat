@@ -1,0 +1,310 @@
+TSimpleAnnotation
+v7
+r0
+t310805620.309480
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/Info.plist SimpleAnnotation-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/SimpleAnnotationViewController.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnnotation_Prefix-fyitydfdpplizafimzuslvykswto/SimpleAnnotation_Prefix.pch.gch SimpleAnnotation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotationAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotationViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/MyAnnotation.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/MyAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/untitled.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/MyAnnotation.h
+c000000004CD641A300000000000001EE
+t1289109923
+s494
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/MyAnnotation.m
+c000000004CD6472C00000000000000EC
+t1289111340
+s236
+i"MyAnnotation.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationAppDelegate.h
+c000000004CD635700000000000000206
+t1289106800
+s518
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationAppDelegate.m
+c000000004CD635700000000000000AA9
+t1289106800
+s2729
+i"SimpleAnnotationAppDelegate.h"
+i"SimpleAnnotationViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationViewController.h
+c000000004CD63B3E0000000000000182
+t1289108286
+s386
+i<UIKit/UIKit.h>
+i<mapkit/mapkit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationViewController.m
+c000000004CD64CF100000000000009F8
+t1289112817
+s2552
+i"SimpleAnnotationViewController.h"
+i"MyAnnotation.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.h
+c000000004CD640B900000000000000D0
+t1289109689
+s208
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m
+c000000004CD640B900000000000000B8
+t1289109689
+s184
+i"untitled.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/MainWindow.xib
+c000000004CD635700000000000004E95
+t1289106800
+s20117
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/SimpleAnnotationViewController.xib
+c000000004CD63E5D0000000000004AC2
+t1289109085
+s19138
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/SimpleAnnotation_Prefix.pch
+c000000004CD6357000000000000000C9
+t1289106800
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app.dSYM
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/Info.plist
+t1289112817
+s633
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/MainWindow.nib
+t1289112818
+s1141
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/PkgInfo
+t1289112817
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/SimpleAnnotation
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/SimpleAnnotationViewController.nib
+t1289112818
+s1679
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/MyAnnotation.o
+t1289112820
+s12044
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotation.LinkFileList
+c000000004CD64CF1000000000000035D
+t1289112817
+s861
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotationAppDelegate.o
+t1289112820
+s49480
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotationViewController.o
+t1289112820
+s43520
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/main.o
+t1289112820
+s6344
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/main.m
+c000000004CD635700000000000000163
+t1289106800
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnnotation_Prefix-fyitydfdpplizafimzuslvykswto/SimpleAnnotation_Prefix.pch.gch
+t1289112819
+s15232016
+
+NSimpleAnnotation-Info.plist
+c000000004CD63570000000000000038D
+t1289106800
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310805617#310805617#0(0"0(0#1#0"8614726336#0"0#
+
+CCompileC build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/MyAnnotation.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/MyAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310805620.129428
+e310805620.247040
+r1
+xCompileC
+xbuild/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/MyAnnotation.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/MyAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/MyAnnotation.m310805620#310805620#0(0"0(0#0#81"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/MyAnnotation.m8615769344#2325"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnnotation_Prefix-fyitydfdpplizafimzuslvykswto/SimpleAnnotation_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/MyAnnotation.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/MyAnnotation.o0#
+
+CCompileC build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotationAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310805619.996721
+e310805620.129301
+r1
+xCompileC
+xbuild/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotationAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationAppDelegate.m310805619#310805620#0(0"0(0#0#96"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationAppDelegate.m8603884800#2355"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnnotation_Prefix-fyitydfdpplizafimzuslvykswto/SimpleAnnotation_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotationAppDelegate.o0#
+
+CCompileC build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotationViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310805620.073789
+e310805620.215723
+r1
+xCompileC
+xbuild/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotationViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationViewController.m310805620#310805620#0(0"0(0#0#99"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationViewController.m8618214464#2361"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnnotation_Prefix-fyitydfdpplizafimzuslvykswto/SimpleAnnotation_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/SimpleAnnotationViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/SimpleAnnotationViewController.o0#
+
+CCompileC build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310805619.995371
+e310805620.073658
+r1
+xCompileC
+xbuild/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/main.m310805619#310805620#0(0"0(0#0#65"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/main.m8612875584#2301"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnnotation_Prefix-fyitydfdpplizafimzuslvykswto/SimpleAnnotation_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/main.o0#
+
+CCompileC build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/untitled.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310805620.215859
+e310805620.309384
+r0
+xCompileC
+xbuild/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/untitled.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m:9:21: error: untitled.h: No such file or directory
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m:14: warning: cannot find interface declaration for 'untitled'
+lSLF07#2@85"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m310805620#310805620#0(269"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m:9:21: error: untitled.h: No such file or directory/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m:14: warning: cannot find interface declaration for 'untitled'2(4@37"Untitled.h: No such file or directory310805620#0#129#0(6@77"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m310802489#9#0#9#0#28"*: No such file or directory0(22@48"Cannot find interface declaration for 'untitled'310805620#129#140#0(6@77"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m310802489#14#0#14#0#0"0(0#0#77"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m8618244448#2317"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnnotation_Prefix-fyitydfdpplizafimzuslvykswto/SimpleAnnotation_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/Classes/untitled.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/Objects-normal/i386/untitled.o1#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/MainWindow.xib
+s310805617.859559
+e310805618.501294
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib310805617#310805618#0(0"0(0#0#73"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/MainWindow.xib8615299488#639"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/SimpleAnnotationViewController.xib
+s310805617.861085
+e310805618.598418
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/SimpleAnnotationViewController.xib
+lSLF07#2@45"CompileXIB SimpleAnnotationViewController.xib310805617#310805618#0(0"0(0#0#93"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/SimpleAnnotationViewController.xib8614631296#679"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/SimpleAnnotationViewController.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/SimpleAnnotationViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/SimpleAnnotation
+r0
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/SimpleAnnotation normal i386
+r0
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/Info.plist SimpleAnnotation-Info.plist
+s310805617.831693
+e310805617.859444
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/Info.plist
+xSimpleAnnotation-Info.plist
+lSLF07#2@35"Process SimpleAnnotation-Info.plist310805617#310805617#0(0"0(0#0#86"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/SimpleAnnotation-Info.plist8618216672#566"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleAnnotation-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnnotation_Prefix-fyitydfdpplizafimzuslvykswto/SimpleAnnotation_Prefix.pch.gch SimpleAnnotation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310805618.598565
+e310805619.995122
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnnotation_Prefix-fyitydfdpplizafimzuslvykswto/SimpleAnnotation_Prefix.pch.gch
+xSimpleAnnotation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile SimpleAnnotation_Prefix.pch310805618#310805619#0(0"0(0#0#86"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/SimpleAnnotation_Prefix.pch8618622688#2164"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/SimpleAnnotation-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/SimpleAnnotation.build/Debug-iphonesimulator/SimpleAnnotation.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/SimpleAnnotation_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnnotation_Prefix-fyitydfdpplizafimzuslvykswto/SimpleAnnotation_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleAnnotation/build/Debug-iphonesimulator/SimpleAnnotation.app
+r0
+

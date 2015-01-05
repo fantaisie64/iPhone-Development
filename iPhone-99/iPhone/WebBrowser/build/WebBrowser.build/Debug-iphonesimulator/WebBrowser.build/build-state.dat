@@ -1,0 +1,256 @@
+TWebBrowser
+v7
+r0
+t309280803.290527
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/Info.plist WebBrowser-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/WebBrowserViewController.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowser_Prefix-bxiysxfufnwdkjebjbgzaukxdxsx/WebBrowser_Prefix.pch.gch WebBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowserAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowserViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser
+cTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserAppDelegate.h
+c000000004CBF040200000000000001E3
+t1287586818
+s483
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserAppDelegate.m
+c000000004CBF04020000000000000A8C
+t1287586818
+s2700
+i"WebBrowserAppDelegate.h"
+i"WebBrowserViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserViewController.h
+c000000004CBF04380000000000000218
+t1287586872
+s536
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserViewController.m
+c000000004CCD144B0000000000000C23
+t1288508491
+s3107
+i"WebBrowserViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/MainWindow.xib
+c000000004CBF04020000000000004E4D
+t1287586818
+s20045
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/WebBrowserViewController.xib
+c000000004CBF06330000000000007457
+t1287587379
+s29783
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/WebBrowser_Prefix.pch
+c000000004CBF040200000000000000BD
+t1287586818
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app
+t1287587466
+s238
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app.dSYM
+t1287587466
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/Info.plist
+t1287587461
+s603
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/MainWindow.nib
+t1287587463
+s1129
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/PkgInfo
+t1287587461
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser
+t1287587466
+s23716
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowserViewController.nib
+t1287587463
+s2648
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowser.LinkFileList
+c000000004CBF068500000000000001CF
+t1287587461
+s463
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowserAppDelegate.o
+t1287587466
+s48756
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowserViewController.o
+t1287587466
+s47360
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/main.o
+t1287587466
+s6332
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/main.m
+c000000004CBF0402000000000000015E
+t1287586818
+s350
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowser_Prefix-bxiysxfufnwdkjebjbgzaukxdxsx/WebBrowser_Prefix.pch.gch
+t1287587465
+s15232016
+
+NWebBrowser-Info.plist
+c000000004CBF0402000000000000038D
+t1287586818
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309280803#309280803#0(0"0(0#1#0"8605525536#0"0#
+
+CCompileC build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowserAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309280265.959285
+e309280266.314873
+r1
+xCompileC
+xbuild/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowserAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserAppDelegate.m309280265#309280266#0(0"0(0#0#84"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserAppDelegate.m8605177312#2157"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowser_Prefix-bxiysxfufnwdkjebjbgzaukxdxsx/WebBrowser_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowserAppDelegate.o0#
+
+CCompileC build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowserViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309280266.136674
+e309280266.389430
+r1
+xCompileC
+xbuild/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowserViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserViewController.m309280266#309280266#0(0"0(0#0#87"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserViewController.m8604084320#2163"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowser_Prefix-bxiysxfufnwdkjebjbgzaukxdxsx/WebBrowser_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/Classes/WebBrowserViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowserViewController.o0#
+
+CCompileC build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309280265.957560
+e309280266.136539
+r1
+xCompileC
+xbuild/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/main.m309280265#309280266#0(0"0(0#0#59"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/main.m8605399008#2115"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowser_Prefix-bxiysxfufnwdkjebjbgzaukxdxsx/WebBrowser_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/MainWindow.xib
+s309280261.803160
+e309280263.753343
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309280261#309280263#0(0"0(0#0#67"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/MainWindow.xib8603714400#615"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/WebBrowserViewController.xib
+s309280261.804160
+e309280263.959728
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/WebBrowserViewController.xib
+lSLF07#2@39"CompileXIB WebBrowserViewController.xib309280261#309280263#0(0"0(0#0#81"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/WebBrowserViewController.xib8603644704#643"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowserViewController.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/WebBrowserViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser
+s309280266.451648
+e309280266.512150
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/WebBrowser.app.dSYM build/Debug-iphonesimulator/WebBrowser.app/WebBrowser309280266#309280266#0(0"0(0#0#106"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser8604359232#434"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app.dSYM0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser normal i386
+s309280266.389548
+e309280266.451518
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser
+xnormal
+xi386
+lSLF07#2@111"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser309280266#309280266#0(0"0(0#0#0"8605334592#985"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/Objects-normal/i386/WebBrowser.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/WebBrowser0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/Info.plist WebBrowser-Info.plist
+s309280261.798546
+e309280261.803054
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/Info.plist
+xWebBrowser-Info.plist
+lSLF07#2@29"Process WebBrowser-Info.plist309280261#309280261#0(0"0(0#0#74"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/WebBrowser-Info.plist31244212045480032#530"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WebBrowser-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowser_Prefix-bxiysxfufnwdkjebjbgzaukxdxsx/WebBrowser_Prefix.pch.gch WebBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309280263.959897
+e309280265.957389
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowser_Prefix-bxiysxfufnwdkjebjbgzaukxdxsx/WebBrowser_Prefix.pch.gch
+xWebBrowser_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile WebBrowser_Prefix.pch309280263#309280265#0(0"0(0#0#74"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/WebBrowser_Prefix.pch8605433408#1990"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/WebBrowser-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/WebBrowser.build/Debug-iphonesimulator/WebBrowser.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/WebBrowser_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowser_Prefix-bxiysxfufnwdkjebjbgzaukxdxsx/WebBrowser_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app
+s309280266.512262
+e309280266.548718
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app
+lSLF07#2@101"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app309280266#309280266#0(0"0(0#0#0"8604080416#309"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/WebBrowser/build/Debug-iphonesimulator/WebBrowser.app0#
+

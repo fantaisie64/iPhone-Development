@@ -1,0 +1,14 @@
+<car> 
+    <item> 
+        <price> 40 </price> 
+        <year> 1960 </year>
+    </item>
+    <item> 
+        <price> 60 </price> 
+        <year> 1930 </year>
+    </item>
+    <item> 
+        <price> 80 </price> 
+        <year> 1980 </year>
+    </item>
+</car>

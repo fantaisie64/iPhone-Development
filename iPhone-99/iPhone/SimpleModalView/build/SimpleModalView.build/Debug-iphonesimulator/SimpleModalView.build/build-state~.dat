@@ -1,0 +1,307 @@
+TSimpleModalView
+v7
+r0
+t302929510.010602
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/Info.plist SimpleModalView-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/SimpleModalViewViewController.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalView.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleModalView_Prefix-hbryadwojaocpjewgnparhfufxjd/SimpleModalView_Prefix.pch.gch SimpleModalView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalViewAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalViewViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/MyModalViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView
+cTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalView.xib
+c000000004C5E195F00000000000053BE
+t1281235295
+s21438
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalViewController.h
+c000000004C5E144D0000000000000229
+t1281233997
+s553
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalViewController.m
+c000000004C5E1EC500000000000006F7
+t1281236677
+s1783
+i"MyModalViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewAppDelegate.h
+c000000004C5E140500000000000001FF
+t1281233925
+s511
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewAppDelegate.m
+c000000004C5E14050000000000000AA3
+t1281233925
+s2723
+i"SimpleModalViewAppDelegate.h"
+i"SimpleModalViewViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.h
+c000000004C5E193A000000000000014B
+t1281235258
+s331
+i<UIKit/UIKit.h>
+i"MyModalViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m
+c000000004C5E1EDF0000000000000798
+t1281236703
+s1944
+i"SimpleModalViewViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/MainWindow.xib
+c000000004C5E14050000000000004E89
+t1281233925
+s20105
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/SimpleModalViewViewController.xib
+c000000004C5E1EAE0000000000005089
+t1281236654
+s20617
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/SimpleModalView_Prefix.pch
+c000000004C5E140500000000000000C7
+t1281233925
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app
+t1281236710
+s272
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app.dSYM
+t1281236709
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/Info.plist
+t1281236705
+s629
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/MainWindow.nib
+t1281236706
+s1139
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/MyModalView.nib
+t1281236706
+s1755
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/PkgInfo
+t1281236705
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView
+t1281236709
+s19708
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalViewViewController.nib
+t1281236706
+s1833
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/MyModalViewController.o
+t1281236709
+s36996
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalView.LinkFileList
+c000000004C5E1EE100000000000002B4
+t1281236705
+s692
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalViewAppDelegate.o
+t1281236709
+s48280
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalViewViewController.o
+t1281236709
+s37628
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/main.o
+t1281236708
+s6340
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/main.m
+c000000004C5E14050000000000000161
+t1281233925
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleModalView_Prefix-hbryadwojaocpjewgnparhfufxjd/SimpleModalView_Prefix.pch.gch
+t1281236708
+s15232016
+
+NSimpleModalView-Info.plist
+c000000004C5E1405000000000000038D
+t1281233925
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302929505#302929505#0(0"0(0#1#0"8613727232#0"0#
+
+CCompileC build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/MyModalViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302929509.041028
+e302929509.387512
+r1
+xCompileC
+xbuild/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/MyModalViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalViewController.m302929509#302929509#0(0"0(0#0#89"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalViewController.m8614379424#2312"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleModalView_Prefix-hbryadwojaocpjewgnparhfufxjd/SimpleModalView_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/MyModalViewController.o0#
+
+CCompileC build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalViewAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302929508.673206
+e302929509.040900
+r1
+xCompileC
+xbuild/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalViewAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewAppDelegate.m302929508#302929509#0(0"0(0#0#94"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewAppDelegate.m8616471040#2322"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleModalView_Prefix-hbryadwojaocpjewgnparhfufxjd/SimpleModalView_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalViewAppDelegate.o0#
+
+CCompileC build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalViewViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302929508.968598
+e302929509.099958
+r1
+xCompileC
+xbuild/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalViewViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m: In function '-[SimpleModalViewViewController getString]':
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m:16: warning: class 'SimpleModalViewViewController' does not implement the 'SendTextDelegate' protocol
+lSLF07#2@105"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m302929508#302929509#0(357"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m: In function '-[SimpleModalViewViewController getString]':/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m:16: warning: class 'SimpleModalViewViewController' does not implement the 'SendTextDelegate' protocol1(22@88"Class 'SimpleModalViewViewController' does not implement the 'SendTextDelegate' protocol302929509#157#200#0(6@97"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m302929503#16#0#16#0#45"class '*' does not implement the '*' protocol0(0#0#97"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m8615242496#2328"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleModalView_Prefix-hbryadwojaocpjewgnparhfufxjd/SimpleModalView_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/SimpleModalViewViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalViewViewController.o0#
+
+CCompileC build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302929508.671835
+e302929508.968422
+r1
+xCompileC
+xbuild/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/main.m302929508#302929508#0(0"0(0#0#64"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/main.m8608986208#2270"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleModalView_Prefix-hbryadwojaocpjewgnparhfufxjd/SimpleModalView_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalView.xib
+s302929506.060961
+e302929506.797080
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalView.xib
+lSLF07#2@34"CompileXIB Classes/MyModalView.xib302929506#302929506#0(0"0(0#0#81"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalView.xib8608367328#645"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/MyModalView.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/Classes/MyModalView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/MainWindow.xib
+s302929505.314715
+e302929506.060842
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302929505#302929506#0(0"0(0#0#72"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/MainWindow.xib8614216544#635"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/SimpleModalViewViewController.xib
+s302929505.335349
+e302929506.073616
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/SimpleModalViewViewController.xib
+lSLF07#2@44"CompileXIB SimpleModalViewViewController.xib302929505#302929506#0(0"0(0#0#91"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/SimpleModalViewViewController.xib8614117024#673"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalViewViewController.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/SimpleModalViewViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView
+s302929509.834246
+e302929510.004525
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/SimpleModalView.app.dSYM build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView302929509#302929510#0(0"0(0#0#121"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView8614527488#464"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app.dSYM0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView normal i386
+s302929509.387627
+e302929509.834082
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView
+xnormal
+xi386
+lSLF07#2@126"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView302929509#302929509#0(0"0(0#0#0"8616476384#1035"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/Objects-normal/i386/SimpleModalView.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/SimpleModalView0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/Info.plist SimpleModalView-Info.plist
+s302929505.309951
+e302929505.314600
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/Info.plist
+xSimpleModalView-Info.plist
+lSLF07#2@34"Process SimpleModalView-Info.plist302929505#302929505#0(0"0(0#0#84"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/SimpleModalView-Info.plist8615342560#560"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleModalView-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleModalView_Prefix-hbryadwojaocpjewgnparhfufxjd/SimpleModalView_Prefix.pch.gch SimpleModalView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302929506.797228
+e302929508.671668
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleModalView_Prefix-hbryadwojaocpjewgnparhfufxjd/SimpleModalView_Prefix.pch.gch
+xSimpleModalView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SimpleModalView_Prefix.pch302929506#302929508#0(0"0(0#0#84"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/SimpleModalView_Prefix.pch8601439744#2135"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/SimpleModalView-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/SimpleModalView.build/Debug-iphonesimulator/SimpleModalView.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/SimpleModalView_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleModalView_Prefix-hbryadwojaocpjewgnparhfufxjd/SimpleModalView_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app
+s302929510.004640
+e302929510.010549
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app
+lSLF07#2@111"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app302929510#302929510#0(0"0(0#0#0"8617149728#324"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleModalView/build/Debug-iphonesimulator/SimpleModalView.app0#
+

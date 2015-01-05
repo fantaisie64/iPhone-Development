@@ -1,0 +1,51 @@
+Tlab_ViewSizing
+v7
+r1
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/MainWindow.xib
+c000000004C6A9C140000000000004E7D
+t1282055188
+s20093
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug/lab_ViewSizing.app
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug/lab_ViewSizing.app/Contents/Info.plist
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug/lab_ViewSizing.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug/lab_ViewSizing.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug/lab_ViewSizing.app/Contents/Resources/lab_ViewSizingViewController.nib
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib
+c000000004D3C10BB000000000000720B
+t1295782075
+s29195
+
+Nlab_ViewSizing-Info.plist
+c000000004C6A9C14000000000000038D
+t1282055188
+s909
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/MainWindow.xib
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/lab_ViewSizingViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug/lab_ViewSizing.app/Contents/Info.plist lab_ViewSizing-Info.plist
+r0
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/lab_ViewSizing/build/Debug/lab_ViewSizing.app
+r0
+

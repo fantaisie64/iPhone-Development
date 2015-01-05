@@ -1,0 +1,314 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C4636E2B13FF840B002B5BB0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4636E2A13FF840B002B5BB0 /* UIKit.framework */; };
+		C4636E2D13FF840B002B5BB0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4636E2C13FF840B002B5BB0 /* Foundation.framework */; };
+		C4636E2F13FF840B002B5BB0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4636E2E13FF840B002B5BB0 /* CoreGraphics.framework */; };
+		C4636E3513FF840C002B5BB0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C4636E3313FF840C002B5BB0 /* InfoPlist.strings */; };
+		C4636E3813FF840C002B5BB0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C4636E3713FF840C002B5BB0 /* main.m */; };
+		C4636E3B13FF840C002B5BB0 /* SweetMemoAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C4636E3A13FF840C002B5BB0 /* SweetMemoAppDelegate.m */; };
+		C4636E3E13FF840C002B5BB0 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4636E3C13FF840C002B5BB0 /* MainWindow.xib */; };
+		C4636E4113FF840C002B5BB0 /* SweetMemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4636E4013FF840C002B5BB0 /* SweetMemoViewController.m */; };
+		C4636E4413FF840C002B5BB0 /* SweetMemoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4636E4213FF840C002B5BB0 /* SweetMemoViewController.xib */; };
+		C4636E5713FF850F002B5BB0 /* DisplayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4636E5513FF850F002B5BB0 /* DisplayViewController.m */; };
+		C4636E5813FF850F002B5BB0 /* DisplayViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4636E5613FF850F002B5BB0 /* DisplayViewController.xib */; };
+		C4636E5C13FF8527002B5BB0 /* TextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4636E5A13FF8527002B5BB0 /* TextViewController.m */; };
+		C4636E5D13FF8527002B5BB0 /* TextViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4636E5B13FF8527002B5BB0 /* TextViewController.xib */; };
+		C4636E6713FFD027002B5BB0 /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C4636E6613FFD027002B5BB0 /* images.jpeg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C4636E2613FF840B002B5BB0 /* SweetMemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SweetMemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4636E2A13FF840B002B5BB0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C4636E2C13FF840B002B5BB0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C4636E2E13FF840B002B5BB0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C4636E3213FF840B002B5BB0 /* SweetMemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SweetMemo-Info.plist"; sourceTree = "<group>"; };
+		C4636E3413FF840C002B5BB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C4636E3613FF840C002B5BB0 /* SweetMemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SweetMemo-Prefix.pch"; sourceTree = "<group>"; };
+		C4636E3713FF840C002B5BB0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C4636E3913FF840C002B5BB0 /* SweetMemoAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SweetMemoAppDelegate.h; sourceTree = "<group>"; };
+		C4636E3A13FF840C002B5BB0 /* SweetMemoAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SweetMemoAppDelegate.m; sourceTree = "<group>"; };
+		C4636E3D13FF840C002B5BB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		C4636E3F13FF840C002B5BB0 /* SweetMemoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SweetMemoViewController.h; sourceTree = "<group>"; };
+		C4636E4013FF840C002B5BB0 /* SweetMemoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SweetMemoViewController.m; sourceTree = "<group>"; };
+		C4636E4313FF840C002B5BB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SweetMemoViewController.xib; sourceTree = "<group>"; };
+		C4636E5413FF850F002B5BB0 /* DisplayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DisplayViewController.h; sourceTree = "<group>"; };
+		C4636E5513FF850F002B5BB0 /* DisplayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DisplayViewController.m; sourceTree = "<group>"; };
+		C4636E5613FF850F002B5BB0 /* DisplayViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DisplayViewController.xib; sourceTree = "<group>"; };
+		C4636E5913FF8527002B5BB0 /* TextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextViewController.h; sourceTree = "<group>"; };
+		C4636E5A13FF8527002B5BB0 /* TextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextViewController.m; sourceTree = "<group>"; };
+		C4636E5B13FF8527002B5BB0 /* TextViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TextViewController.xib; sourceTree = "<group>"; };
+		C4636E6313FF89A3002B5BB0 /* AutoPassing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AutoPassing.h; sourceTree = "<group>"; };
+		C4636E6613FFD027002B5BB0 /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C4636E2313FF840B002B5BB0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4636E2B13FF840B002B5BB0 /* UIKit.framework in Frameworks */,
+				C4636E2D13FF840B002B5BB0 /* Foundation.framework in Frameworks */,
+				C4636E2F13FF840B002B5BB0 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C4636E1B13FF840B002B5BB0 = {
+			isa = PBXGroup;
+			children = (
+				C4636E3013FF840B002B5BB0 /* SweetMemo */,
+				C4636E2913FF840B002B5BB0 /* Frameworks */,
+				C4636E2713FF840B002B5BB0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C4636E2713FF840B002B5BB0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C4636E2613FF840B002B5BB0 /* SweetMemo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C4636E2913FF840B002B5BB0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C4636E2A13FF840B002B5BB0 /* UIKit.framework */,
+				C4636E2C13FF840B002B5BB0 /* Foundation.framework */,
+				C4636E2E13FF840B002B5BB0 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C4636E3013FF840B002B5BB0 /* SweetMemo */ = {
+			isa = PBXGroup;
+			children = (
+				C4636E6613FFD027002B5BB0 /* images.jpeg */,
+				C4636E3913FF840C002B5BB0 /* SweetMemoAppDelegate.h */,
+				C4636E3A13FF840C002B5BB0 /* SweetMemoAppDelegate.m */,
+				C4636E3C13FF840C002B5BB0 /* MainWindow.xib */,
+				C4636E3F13FF840C002B5BB0 /* SweetMemoViewController.h */,
+				C4636E4013FF840C002B5BB0 /* SweetMemoViewController.m */,
+				C4636E4213FF840C002B5BB0 /* SweetMemoViewController.xib */,
+				C4636E3113FF840B002B5BB0 /* Supporting Files */,
+				C4636E5413FF850F002B5BB0 /* DisplayViewController.h */,
+				C4636E5513FF850F002B5BB0 /* DisplayViewController.m */,
+				C4636E5613FF850F002B5BB0 /* DisplayViewController.xib */,
+				C4636E5913FF8527002B5BB0 /* TextViewController.h */,
+				C4636E5A13FF8527002B5BB0 /* TextViewController.m */,
+				C4636E5B13FF8527002B5BB0 /* TextViewController.xib */,
+				C4636E6313FF89A3002B5BB0 /* AutoPassing.h */,
+			);
+			path = SweetMemo;
+			sourceTree = "<group>";
+		};
+		C4636E3113FF840B002B5BB0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C4636E3213FF840B002B5BB0 /* SweetMemo-Info.plist */,
+				C4636E3313FF840C002B5BB0 /* InfoPlist.strings */,
+				C4636E3613FF840C002B5BB0 /* SweetMemo-Prefix.pch */,
+				C4636E3713FF840C002B5BB0 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C4636E2513FF840B002B5BB0 /* SweetMemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C4636E4713FF840C002B5BB0 /* Build configuration list for PBXNativeTarget "SweetMemo" */;
+			buildPhases = (
+				C4636E2213FF840B002B5BB0 /* Sources */,
+				C4636E2313FF840B002B5BB0 /* Frameworks */,
+				C4636E2413FF840B002B5BB0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SweetMemo;
+			productName = SweetMemo;
+			productReference = C4636E2613FF840B002B5BB0 /* SweetMemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C4636E1D13FF840B002B5BB0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Berby Huang";
+			};
+			buildConfigurationList = C4636E2013FF840B002B5BB0 /* Build configuration list for PBXProject "SweetMemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C4636E1B13FF840B002B5BB0;
+			productRefGroup = C4636E2713FF840B002B5BB0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C4636E2513FF840B002B5BB0 /* SweetMemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C4636E2413FF840B002B5BB0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4636E3513FF840C002B5BB0 /* InfoPlist.strings in Resources */,
+				C4636E3E13FF840C002B5BB0 /* MainWindow.xib in Resources */,
+				C4636E4413FF840C002B5BB0 /* SweetMemoViewController.xib in Resources */,
+				C4636E5813FF850F002B5BB0 /* DisplayViewController.xib in Resources */,
+				C4636E5D13FF8527002B5BB0 /* TextViewController.xib in Resources */,
+				C4636E6713FFD027002B5BB0 /* images.jpeg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C4636E2213FF840B002B5BB0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4636E3813FF840C002B5BB0 /* main.m in Sources */,
+				C4636E3B13FF840C002B5BB0 /* SweetMemoAppDelegate.m in Sources */,
+				C4636E4113FF840C002B5BB0 /* SweetMemoViewController.m in Sources */,
+				C4636E5713FF850F002B5BB0 /* DisplayViewController.m in Sources */,
+				C4636E5C13FF8527002B5BB0 /* TextViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C4636E3313FF840C002B5BB0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C4636E3413FF840C002B5BB0 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C4636E3C13FF840C002B5BB0 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C4636E3D13FF840C002B5BB0 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		C4636E4213FF840C002B5BB0 /* SweetMemoViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C4636E4313FF840C002B5BB0 /* en */,
+			);
+			name = SweetMemoViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C4636E4513FF840C002B5BB0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C4636E4613FF840C002B5BB0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		C4636E4813FF840C002B5BB0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SweetMemo/SweetMemo-Prefix.pch";
+				INFOPLIST_FILE = "SweetMemo/SweetMemo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C4636E4913FF840C002B5BB0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SweetMemo/SweetMemo-Prefix.pch";
+				INFOPLIST_FILE = "SweetMemo/SweetMemo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C4636E2013FF840B002B5BB0 /* Build configuration list for PBXProject "SweetMemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C4636E4513FF840C002B5BB0 /* Debug */,
+				C4636E4613FF840C002B5BB0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C4636E4713FF840C002B5BB0 /* Build configuration list for PBXNativeTarget "SweetMemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C4636E4813FF840C002B5BB0 /* Debug */,
+				C4636E4913FF840C002B5BB0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C4636E1D13FF840B002B5BB0 /* Project object */;
+}

@@ -1,0 +1,305 @@
+TToDoList
+v7
+r0
+t302947915.582226
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist ToDoList-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch.gch ToDoList_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib
+c000000004C5E195F00000000000053BE
+t1281235295
+s21438
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h
+c000000004C5E66C800000000000002C6
+t1281255112
+s710
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m
+c000000004C5E62B500000000000009EC
+t1281254069
+s2540
+i"MyModalViewController.h"
+i"SimpleModalViewViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h
+c000000004C5E631B0000000000000157
+t1281254171
+s343
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m
+c000000004C5E66BA00000000000014B8
+t1281255098
+s5304
+i"RootViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.h
+c000000004C5E2CA800000000000001C6
+t1281240232
+s454
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m
+c000000004C5E2CA80000000000000A91
+t1281240232
+s2705
+i"ToDoListAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib
+c000000004C5E34BB0000000000006056
+t1281242299
+s24662
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib
+c000000004C5E2CA80000000000004453
+t1281240232
+s17491
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/ToDoList_Prefix.pch
+c000000004C5E2CA80000000000000142
+t1281240232
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app.dSYM
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist
+t1281255112
+s595
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/MainWindow.nib
+t1281255113
+s1546
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/MyModalView.nib
+t1281255113
+s1755
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/PkgInfo
+t1281255112
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/RootViewController.nib
+t1281255113
+s979
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList.LinkFileList
+c000000004C5E66C8000000000000024E
+t1281255112
+s590
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o
+t1281255115
+s6328
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m
+c000000004C5E2CA8000000000000015A
+t1281240232
+s346
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch.gch
+t1281255114
+s15232016
+
+NToDoList-Info.plist
+c000000004C5E2CA8000000000000038D
+t1281240232
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302947912#302947912#0(0"0(0#1#0"8602167584#0"0#
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302947915.355072
+e302947915.582101
+r0
+xCompileC
+xbuild/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m:9:
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h:29: error: stray '\303' in program
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h:29: error: stray '\237' in program
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m:10:42: error: SimpleModalViewViewController.h: No such file or directory
+lSLF07#2@90"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m302947915#302947915#0(500"In file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m:9:/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h:29: error: stray '\303' in program/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h:29: error: stray '\237' in program/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m:10:42: error: SimpleModalViewViewController.h: No such file or directory3(4@23"Stray '\303' in program302947915#108#118#2(7@104"In file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m302947915#18446744073709551615#0#0(6@82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m302946869#9#0#9#0#0"0(13@109"Stray '\303' in program in /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h302947915#18446744073709551615#0#0(6@82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h302947912#29#0#29#0#0"0(6@82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h302947912#29#0#29#0#20"stray '*' in program0(4@23"Stray '\237' in program302947915#226#118#2(7@104"In file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m302947915#18446744073709551615#0#0(6@82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m302946869#9#0#9#0#0"0(13@109"Stray '\237' in program in /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h302947915#18446744073709551615#0#0(6@82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h302947912#29#0#29#0#0"0(6@82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h302947912#29#0#29#0#20"stray '*' in program0(4@58"SimpleModalViewViewController.h: No such file or directory302947915#344#156#0(6@82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m302946869#10#0#10#0#28"*: No such file or directory0(0#0#82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m8604773248#2095"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o1#
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302947915.353077
+e302947915.445973
+r0
+xCompileC
+xbuild/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:9:
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h:11: error: cannot find protocol declaration for 'SendTextDelegate'
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:95: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:97: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:99: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m: At top level:
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:190: warning: incomplete implementation of class 'RootViewController'
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:190: warning: method definition for '-addRow' not found
+lSLF07#2@87"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m302947915#302947915#0(1648"In file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:9:/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h:11: error: cannot find protocol declaration for 'SendTextDelegate'/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:95: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:97: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:99: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m: At top level:/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:190: warning: incomplete implementation of class 'RootViewController'/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m:190: warning: method definition for '-addRow' not found7(4@55"Cannot find protocol declaration for 'SendTextDelegate'302947915#105#147#2(7@101"In file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m302947915#18446744073709551615#0#0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m302947898#9#0#9#0#0"0(13@138"Cannot find protocol declaration for 'SendTextDelegate' in /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h302947915#18446744073709551615#0#0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h302946971#11#0#11#0#0"0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h302946971#11#0#11#0#0"0(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)302947915#403#288#0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m302947898#95#0#95#0#33"'*' is deprecated (declared at *)0(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)302947915#691#288#0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m302947898#97#0#97#0#33"'*' is deprecated (declared at *)0(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)302947915#979#288#0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m302947898#99#0#99#0#33"'*' is deprecated (declared at *)0(23@13"At top level:302947915#1267#95#0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m302947898#0#0#0#0#0"0(22@55"Incomplete implementation of class 'RootViewController'302947915#1362#150#0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m302947898#190#0#190#0#38"incomplete implementation of class '*'0(22@41"Method definition for '-addRow' not found302947915#1512#136#0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m302947898#190#0#190#0#35"method definition for '*' not found0(0#0#79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m8605300416#2089"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o1#
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302947914.899828
+e302947915.354965
+r0
+xCompileC
+xbuild/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m:10:
+o/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h:11: error: cannot find protocol declaration for 'SendTextDelegate'
+lSLF07#2@88"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m302947914#302947915#0(254"In file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m:10:/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h:11: error: cannot find protocol declaration for 'SendTextDelegate'1(4@55"Cannot find protocol declaration for 'SendTextDelegate'302947915#107#147#2(7@102"In file included from /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m302947915#18446744073709551615#0#0(6@80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m302933032#10#0#10#0#0"0(13@138"Cannot find protocol declaration for 'SendTextDelegate' in /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h302947915#18446744073709551615#0#0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h302946971#11#0#11#0#0"0(6@79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h302946971#11#0#11#0#0"0(0#0#80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m8605298880#2091"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o1#
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302947914.898447
+e302947915.352951
+r1
+xCompileC
+xbuild/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m302947914#302947915#0(0"0(0#0#57"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m8610017216#2053"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib
+s302947913.176585
+e302947913.798262
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib
+lSLF07#2@34"CompileXIB Classes/MyModalView.xib302947913#302947913#0(0"0(0#0#74"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib8607920032#617"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/MyModalView.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib
+s302947912.311274
+e302947913.212192
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302947912#302947913#0(0"0(0#0#65"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib8607982816#607"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib
+s302947912.345538
+e302947913.176473
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib302947912#302947913#0(0"0(0#0#73"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib32370056117878832#623"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/RootViewController.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList
+r0
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList normal i386
+r0
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist ToDoList-Info.plist
+s302947912.306642
+e302947912.311170
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist
+xToDoList-Info.plist
+lSLF07#2@27"Process ToDoList-Info.plist302947912#302947912#0(0"0(0#0#70"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/ToDoList-Info.plist8590265376#518"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ToDoList-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch.gch ToDoList_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302947913.798446
+e302947914.898242
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch.gch
+xToDoList_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile ToDoList_Prefix.pch302947913#302947914#0(0"0(0#0#70"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/ToDoList_Prefix.pch8604524800#1932"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/ToDoList_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app
+r0
+

@@ -1,0 +1,288 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68971AA5134224070006F157 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68971AA4134224070006F157 /* UIKit.framework */; };
+		68971AA7134224070006F157 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68971AA6134224070006F157 /* Foundation.framework */; };
+		68971AA9134224070006F157 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68971AA8134224070006F157 /* CoreGraphics.framework */; };
+		68971AAF134224070006F157 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68971AAD134224070006F157 /* InfoPlist.strings */; };
+		68971AB2134224070006F157 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68971AB1134224070006F157 /* main.m */; };
+		68971AB5134224070006F157 /* WebGetPostAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68971AB4134224070006F157 /* WebGetPostAppDelegate.m */; };
+		68971AB8134224070006F157 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68971AB6134224070006F157 /* MainWindow.xib */; };
+		68971ABB134224070006F157 /* WebGetPostViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68971ABA134224070006F157 /* WebGetPostViewController.m */; };
+		68971ABE134224070006F157 /* WebGetPostViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68971ABC134224070006F157 /* WebGetPostViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		68971AA0134224070006F157 /* WebGetPost.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebGetPost.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68971AA4134224070006F157 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68971AA6134224070006F157 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68971AA8134224070006F157 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		68971AAC134224070006F157 /* WebGetPost-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WebGetPost-Info.plist"; sourceTree = "<group>"; };
+		68971AAE134224070006F157 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		68971AB0134224070006F157 /* WebGetPost-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WebGetPost-Prefix.pch"; sourceTree = "<group>"; };
+		68971AB1134224070006F157 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68971AB3134224070006F157 /* WebGetPostAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebGetPostAppDelegate.h; sourceTree = "<group>"; };
+		68971AB4134224070006F157 /* WebGetPostAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebGetPostAppDelegate.m; sourceTree = "<group>"; };
+		68971AB7134224070006F157 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		68971AB9134224070006F157 /* WebGetPostViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebGetPostViewController.h; sourceTree = "<group>"; };
+		68971ABA134224070006F157 /* WebGetPostViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebGetPostViewController.m; sourceTree = "<group>"; };
+		68971ABD134224070006F157 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/WebGetPostViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68971A9D134224070006F157 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68971AA5134224070006F157 /* UIKit.framework in Frameworks */,
+				68971AA7134224070006F157 /* Foundation.framework in Frameworks */,
+				68971AA9134224070006F157 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68971A95134224070006F157 = {
+			isa = PBXGroup;
+			children = (
+				68971AAA134224070006F157 /* WebGetPost */,
+				68971AA3134224070006F157 /* Frameworks */,
+				68971AA1134224070006F157 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68971AA1134224070006F157 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68971AA0134224070006F157 /* WebGetPost.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68971AA3134224070006F157 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68971AA4134224070006F157 /* UIKit.framework */,
+				68971AA6134224070006F157 /* Foundation.framework */,
+				68971AA8134224070006F157 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68971AAA134224070006F157 /* WebGetPost */ = {
+			isa = PBXGroup;
+			children = (
+				68971AB3134224070006F157 /* WebGetPostAppDelegate.h */,
+				68971AB4134224070006F157 /* WebGetPostAppDelegate.m */,
+				68971AB6134224070006F157 /* MainWindow.xib */,
+				68971AB9134224070006F157 /* WebGetPostViewController.h */,
+				68971ABA134224070006F157 /* WebGetPostViewController.m */,
+				68971ABC134224070006F157 /* WebGetPostViewController.xib */,
+				68971AAB134224070006F157 /* Supporting Files */,
+			);
+			path = WebGetPost;
+			sourceTree = "<group>";
+		};
+		68971AAB134224070006F157 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68971AAC134224070006F157 /* WebGetPost-Info.plist */,
+				68971AAD134224070006F157 /* InfoPlist.strings */,
+				68971AB0134224070006F157 /* WebGetPost-Prefix.pch */,
+				68971AB1134224070006F157 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68971A9F134224070006F157 /* WebGetPost */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68971AC1134224070006F157 /* Build configuration list for PBXNativeTarget "WebGetPost" */;
+			buildPhases = (
+				68971A9C134224070006F157 /* Sources */,
+				68971A9D134224070006F157 /* Frameworks */,
+				68971A9E134224070006F157 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WebGetPost;
+			productName = WebGetPost;
+			productReference = 68971AA0134224070006F157 /* WebGetPost.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68971A97134224070006F157 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68971A9A134224070006F157 /* Build configuration list for PBXProject "WebGetPost" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68971A95134224070006F157;
+			productRefGroup = 68971AA1134224070006F157 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68971A9F134224070006F157 /* WebGetPost */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68971A9E134224070006F157 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68971AAF134224070006F157 /* InfoPlist.strings in Resources */,
+				68971AB8134224070006F157 /* MainWindow.xib in Resources */,
+				68971ABE134224070006F157 /* WebGetPostViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68971A9C134224070006F157 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68971AB2134224070006F157 /* main.m in Sources */,
+				68971AB5134224070006F157 /* WebGetPostAppDelegate.m in Sources */,
+				68971ABB134224070006F157 /* WebGetPostViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		68971AAD134224070006F157 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68971AAE134224070006F157 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68971AB6134224070006F157 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68971AB7134224070006F157 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		68971ABC134224070006F157 /* WebGetPostViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68971ABD134224070006F157 /* en */,
+			);
+			name = WebGetPostViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		68971ABF134224070006F157 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		68971AC0134224070006F157 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		68971AC2134224070006F157 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WebGetPost/WebGetPost-Prefix.pch";
+				INFOPLIST_FILE = "WebGetPost/WebGetPost-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68971AC3134224070006F157 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WebGetPost/WebGetPost-Prefix.pch";
+				INFOPLIST_FILE = "WebGetPost/WebGetPost-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68971A9A134224070006F157 /* Build configuration list for PBXProject "WebGetPost" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68971ABF134224070006F157 /* Debug */,
+				68971AC0134224070006F157 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68971AC1134224070006F157 /* Build configuration list for PBXNativeTarget "WebGetPost" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68971AC2134224070006F157 /* Debug */,
+				68971AC3134224070006F157 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68971A97134224070006F157 /* Project object */;
+}

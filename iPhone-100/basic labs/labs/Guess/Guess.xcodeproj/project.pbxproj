@@ -1,0 +1,227 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6832E28C1344D3EF003FB94D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6832E28B1344D3EF003FB94D /* Foundation.framework */; };
+		6832E28F1344D3EF003FB94D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6832E28E1344D3EF003FB94D /* main.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		6832E2851344D3EF003FB94D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		6832E2871344D3EF003FB94D /* Guess */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Guess; sourceTree = BUILT_PRODUCTS_DIR; };
+		6832E28B1344D3EF003FB94D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		6832E28E1344D3EF003FB94D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6832E2911344D3EF003FB94D /* Guess-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Guess-Prefix.pch"; sourceTree = "<group>"; };
+		6832E2921344D3EF003FB94D /* Guess.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Guess.1; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6832E2841344D3EF003FB94D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6832E28C1344D3EF003FB94D /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6832E27C1344D3EF003FB94D = {
+			isa = PBXGroup;
+			children = (
+				6832E28D1344D3EF003FB94D /* Guess */,
+				6832E28A1344D3EF003FB94D /* Frameworks */,
+				6832E2881344D3EF003FB94D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6832E2881344D3EF003FB94D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6832E2871344D3EF003FB94D /* Guess */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6832E28A1344D3EF003FB94D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6832E28B1344D3EF003FB94D /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6832E28D1344D3EF003FB94D /* Guess */ = {
+			isa = PBXGroup;
+			children = (
+				6832E28E1344D3EF003FB94D /* main.m */,
+				6832E2921344D3EF003FB94D /* Guess.1 */,
+				6832E2901344D3EF003FB94D /* Supporting Files */,
+			);
+			path = Guess;
+			sourceTree = "<group>";
+		};
+		6832E2901344D3EF003FB94D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6832E2911344D3EF003FB94D /* Guess-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6832E2861344D3EF003FB94D /* Guess */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6832E2951344D3EF003FB94D /* Build configuration list for PBXNativeTarget "Guess" */;
+			buildPhases = (
+				6832E2831344D3EF003FB94D /* Sources */,
+				6832E2841344D3EF003FB94D /* Frameworks */,
+				6832E2851344D3EF003FB94D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Guess;
+			productName = Guess;
+			productReference = 6832E2871344D3EF003FB94D /* Guess */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6832E27E1344D3EF003FB94D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 6832E2811344D3EF003FB94D /* Build configuration list for PBXProject "Guess" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6832E27C1344D3EF003FB94D;
+			productRefGroup = 6832E2881344D3EF003FB94D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6832E2861344D3EF003FB94D /* Guess */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6832E2831344D3EF003FB94D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6832E28F1344D3EF003FB94D /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		6832E2931344D3EF003FB94D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		6832E2941344D3EF003FB94D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		6832E2961344D3EF003FB94D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Guess/Guess-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		6832E2971344D3EF003FB94D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Guess/Guess-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6832E2811344D3EF003FB94D /* Build configuration list for PBXProject "Guess" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6832E2931344D3EF003FB94D /* Debug */,
+				6832E2941344D3EF003FB94D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6832E2951344D3EF003FB94D /* Build configuration list for PBXNativeTarget "Guess" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6832E2961344D3EF003FB94D /* Debug */,
+				6832E2971344D3EF003FB94D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6832E27E1344D3EF003FB94D /* Project object */;
+}

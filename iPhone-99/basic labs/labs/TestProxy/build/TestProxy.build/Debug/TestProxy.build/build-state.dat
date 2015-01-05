@@ -1,0 +1,158 @@
+TTestProxy
+v7
+r0
+t320774569.455633
+cCheck dependencies
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProxy_Prefix-gdowfdawjjibycaphefgzsuvtubb/TestProxy_Prefix.pch.gch TestProxy_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/TestProxy.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/MyProxy.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/MyProxy.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug/TestProxy normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/Agent.h
+c000000004D6E614C00000000000000D3
+t1299079500
+s211
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/Agent.m
+c000000004D6E625C00000000000000DC
+t1299079772
+s220
+i"Agent.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/MyProxy.h
+c000000004D6E614C0000000000000103
+t1299079500
+s259
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/MyProxy.m
+c000000004D6E676100000000000001E1
+t1299081057
+s481
+i"MyProxy.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m
+c000000004D6E695000000000000001F0
+t1299081552
+s496
+i<Foundation/Foundation.h>
+i"MyProxy.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy_Prefix.pch
+c000000004D6E5C9A00000000000000A0
+t1299078298
+s160
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug/TestProxy
+t1299081769
+s11048
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/Agent.o
+t1299080704
+s6844
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/MyProxy.o
+t1299081058
+s10432
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/TestProxy.LinkFileList
+c000000004D6E669A000000000000011A
+t1299080858
+s282
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/TestProxy.o
+t1299081769
+s8280
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProxy_Prefix-gdowfdawjjibycaphefgzsuvtubb/TestProxy_Prefix.pch.gch
+t1299078864
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320774568#320774568#0(0"0(0#1#0"8621315680#0"0#
+
+CCompileC build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/Agent.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/Agent.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320773504.087739
+e320773504.611527
+r1
+xCompileC
+xbuild/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/Agent.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/Agent.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/Agent.m320773504#320773504#0(0"0(0#0#71"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/Agent.m8627621280#1767"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/DerivedSources/x86_64 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProxy_Prefix-gdowfdawjjibycaphefgzsuvtubb/TestProxy_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/Agent.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/Agent.o0#
+
+CCompileC build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/MyProxy.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/MyProxy.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320773858.036548
+e320773858.472929
+r1
+xCompileC
+xbuild/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/MyProxy.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/MyProxy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/MyProxy.m320773858#320773858#0(0"0(0#0#73"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/MyProxy.m8624036608#1771"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/DerivedSources/x86_64 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProxy_Prefix-gdowfdawjjibycaphefgzsuvtubb/TestProxy_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/MyProxy.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/MyProxy.o0#
+
+CCompileC build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/TestProxy.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320774568.933123
+e320774569.372159
+r1
+xCompileC
+xbuild/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/TestProxy.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m: In function 'main':
+o/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m:12: warning: 'MyProxy' may not respond to '-addObject:'
+o/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m:12: warning: (Messages without a matching method signature
+o/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m:12: warning: will be assumed to return 'id' and accept
+o/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m:12: warning: '...' as arguments.)
+lSLF07#2@83"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m320774568#320774569#0(605"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m: In function 'main':/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m:12: warning: 'MyProxy' may not respond to '-addObject:'/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m:12: warning: (Messages without a matching method signature/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m:12: warning: will be assumed to return 'id' and accept/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m:12: warning: '...' as arguments.)2(22@42"'MyProxy' may not respond to '-addObject:'320774569#97#132#0(6@75"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m320774352#12#0#12#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)320774569#229#135#0(6@75"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m320774352#12#0#12#0#0"0(0#0#75"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m8614222016#1775"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/DerivedSources/x86_64 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProxy_Prefix-gdowfdawjjibycaphefgzsuvtubb/TestProxy_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/TestProxy.o0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug/TestProxy normal x86_64
+s320774569.372267
+e320774569.455537
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug/TestProxy
+xnormal
+xx86_64
+lSLF07#2@90"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug/TestProxy320774569#320774569#0(0"0(0#0#0"8627779712#653"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug -filelist /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/Objects-normal/x86_64/TestProxy.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug/TestProxy0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProxy_Prefix-gdowfdawjjibycaphefgzsuvtubb/TestProxy_Prefix.pch.gch TestProxy_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320771660.438956
+e320771664.586814
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProxy_Prefix-gdowfdawjjibycaphefgzsuvtubb/TestProxy_Prefix.pch.gch
+xTestProxy_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TestProxy_Prefix.pch320771660#320771664#0(0"0(0#0#84"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy_Prefix.pch8624370976#1644"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/TestProxy-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/Debug/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/DerivedSources/x86_64 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/build/TestProxy.build/Debug/TestProxy.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-test/TestProxy/TestProxy_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProxy_Prefix-gdowfdawjjibycaphefgzsuvtubb/TestProxy_Prefix.pch.gch0#
+

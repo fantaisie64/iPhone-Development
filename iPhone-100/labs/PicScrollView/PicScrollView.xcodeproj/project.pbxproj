@@ -1,0 +1,272 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68B4AED1133CE8B4003B6F69 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68B4AED0133CE8B4003B6F69 /* UIKit.framework */; };
+		68B4AED3133CE8B4003B6F69 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68B4AED2133CE8B4003B6F69 /* Foundation.framework */; };
+		68B4AED5133CE8B4003B6F69 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68B4AED4133CE8B4003B6F69 /* CoreGraphics.framework */; };
+		68B4AEDB133CE8B4003B6F69 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68B4AED9133CE8B4003B6F69 /* InfoPlist.strings */; };
+		68B4AEDE133CE8B4003B6F69 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68B4AEDD133CE8B4003B6F69 /* main.m */; };
+		68B4AEE1133CE8B4003B6F69 /* PicScrollViewAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68B4AEE0133CE8B4003B6F69 /* PicScrollViewAppDelegate.m */; };
+		68B4AEE4133CE8B4003B6F69 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68B4AEE2133CE8B4003B6F69 /* MainWindow.xib */; };
+		68B4AEEB133CEBB6003B6F69 /* Scenary.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68B4AEEA133CEBB6003B6F69 /* Scenary.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		68B4AECC133CE8B4003B6F69 /* PicScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PicScrollView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68B4AED0133CE8B4003B6F69 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68B4AED2133CE8B4003B6F69 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68B4AED4133CE8B4003B6F69 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		68B4AED8133CE8B4003B6F69 /* PicScrollView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PicScrollView-Info.plist"; sourceTree = "<group>"; };
+		68B4AEDA133CE8B4003B6F69 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		68B4AEDC133CE8B4003B6F69 /* PicScrollView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PicScrollView-Prefix.pch"; sourceTree = "<group>"; };
+		68B4AEDD133CE8B4003B6F69 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68B4AEDF133CE8B4003B6F69 /* PicScrollViewAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PicScrollViewAppDelegate.h; sourceTree = "<group>"; };
+		68B4AEE0133CE8B4003B6F69 /* PicScrollViewAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PicScrollViewAppDelegate.m; sourceTree = "<group>"; };
+		68B4AEE3133CE8B4003B6F69 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		68B4AEEA133CEBB6003B6F69 /* Scenary.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Scenary.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68B4AEC9133CE8B4003B6F69 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68B4AED1133CE8B4003B6F69 /* UIKit.framework in Frameworks */,
+				68B4AED3133CE8B4003B6F69 /* Foundation.framework in Frameworks */,
+				68B4AED5133CE8B4003B6F69 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68B4AEC1133CE8B4003B6F69 = {
+			isa = PBXGroup;
+			children = (
+				68B4AED6133CE8B4003B6F69 /* PicScrollView */,
+				68B4AECF133CE8B4003B6F69 /* Frameworks */,
+				68B4AECD133CE8B4003B6F69 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68B4AECD133CE8B4003B6F69 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68B4AECC133CE8B4003B6F69 /* PicScrollView.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68B4AECF133CE8B4003B6F69 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68B4AED0133CE8B4003B6F69 /* UIKit.framework */,
+				68B4AED2133CE8B4003B6F69 /* Foundation.framework */,
+				68B4AED4133CE8B4003B6F69 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68B4AED6133CE8B4003B6F69 /* PicScrollView */ = {
+			isa = PBXGroup;
+			children = (
+				68B4AEDF133CE8B4003B6F69 /* PicScrollViewAppDelegate.h */,
+				68B4AEE0133CE8B4003B6F69 /* PicScrollViewAppDelegate.m */,
+				68B4AEEA133CEBB6003B6F69 /* Scenary.jpg */,
+				68B4AEE2133CE8B4003B6F69 /* MainWindow.xib */,
+				68B4AED7133CE8B4003B6F69 /* Supporting Files */,
+			);
+			path = PicScrollView;
+			sourceTree = "<group>";
+		};
+		68B4AED7133CE8B4003B6F69 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68B4AED8133CE8B4003B6F69 /* PicScrollView-Info.plist */,
+				68B4AED9133CE8B4003B6F69 /* InfoPlist.strings */,
+				68B4AEDC133CE8B4003B6F69 /* PicScrollView-Prefix.pch */,
+				68B4AEDD133CE8B4003B6F69 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68B4AECB133CE8B4003B6F69 /* PicScrollView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68B4AEE7133CE8B4003B6F69 /* Build configuration list for PBXNativeTarget "PicScrollView" */;
+			buildPhases = (
+				68B4AEC8133CE8B4003B6F69 /* Sources */,
+				68B4AEC9133CE8B4003B6F69 /* Frameworks */,
+				68B4AECA133CE8B4003B6F69 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PicScrollView;
+			productName = PicScrollView;
+			productReference = 68B4AECC133CE8B4003B6F69 /* PicScrollView.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68B4AEC3133CE8B4003B6F69 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68B4AEC6133CE8B4003B6F69 /* Build configuration list for PBXProject "PicScrollView" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68B4AEC1133CE8B4003B6F69;
+			productRefGroup = 68B4AECD133CE8B4003B6F69 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68B4AECB133CE8B4003B6F69 /* PicScrollView */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68B4AECA133CE8B4003B6F69 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68B4AEDB133CE8B4003B6F69 /* InfoPlist.strings in Resources */,
+				68B4AEE4133CE8B4003B6F69 /* MainWindow.xib in Resources */,
+				68B4AEEB133CEBB6003B6F69 /* Scenary.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68B4AEC8133CE8B4003B6F69 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68B4AEDE133CE8B4003B6F69 /* main.m in Sources */,
+				68B4AEE1133CE8B4003B6F69 /* PicScrollViewAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		68B4AED9133CE8B4003B6F69 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68B4AEDA133CE8B4003B6F69 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68B4AEE2133CE8B4003B6F69 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68B4AEE3133CE8B4003B6F69 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		68B4AEE5133CE8B4003B6F69 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		68B4AEE6133CE8B4003B6F69 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		68B4AEE8133CE8B4003B6F69 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PicScrollView/PicScrollView-Prefix.pch";
+				INFOPLIST_FILE = "PicScrollView/PicScrollView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68B4AEE9133CE8B4003B6F69 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PicScrollView/PicScrollView-Prefix.pch";
+				INFOPLIST_FILE = "PicScrollView/PicScrollView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68B4AEC6133CE8B4003B6F69 /* Build configuration list for PBXProject "PicScrollView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68B4AEE5133CE8B4003B6F69 /* Debug */,
+				68B4AEE6133CE8B4003B6F69 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68B4AEE7133CE8B4003B6F69 /* Build configuration list for PBXNativeTarget "PicScrollView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68B4AEE8133CE8B4003B6F69 /* Debug */,
+				68B4AEE9133CE8B4003B6F69 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68B4AEC3133CE8B4003B6F69 /* Project object */;
+}

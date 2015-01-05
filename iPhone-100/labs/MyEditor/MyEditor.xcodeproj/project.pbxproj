@@ -1,0 +1,288 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C45C3CAB13FC0F4D007F2732 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C45C3CAA13FC0F4D007F2732 /* UIKit.framework */; };
+		C45C3CAD13FC0F4D007F2732 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C45C3CAC13FC0F4D007F2732 /* Foundation.framework */; };
+		C45C3CAF13FC0F4D007F2732 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C45C3CAE13FC0F4D007F2732 /* CoreGraphics.framework */; };
+		C45C3CB513FC0F4D007F2732 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C45C3CB313FC0F4D007F2732 /* InfoPlist.strings */; };
+		C45C3CB813FC0F4D007F2732 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C45C3CB713FC0F4D007F2732 /* main.m */; };
+		C45C3CBB13FC0F4D007F2732 /* MyEditorAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C45C3CBA13FC0F4D007F2732 /* MyEditorAppDelegate.m */; };
+		C45C3CBE13FC0F4E007F2732 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = C45C3CBC13FC0F4E007F2732 /* MainWindow.xib */; };
+		C45C3CC113FC0F4E007F2732 /* MyEditorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C45C3CC013FC0F4E007F2732 /* MyEditorViewController.m */; };
+		C45C3CC413FC0F4E007F2732 /* MyEditorViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C45C3CC213FC0F4E007F2732 /* MyEditorViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C45C3CA613FC0F4D007F2732 /* MyEditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyEditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C45C3CAA13FC0F4D007F2732 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C45C3CAC13FC0F4D007F2732 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C45C3CAE13FC0F4D007F2732 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C45C3CB213FC0F4D007F2732 /* MyEditor-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyEditor-Info.plist"; sourceTree = "<group>"; };
+		C45C3CB413FC0F4D007F2732 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C45C3CB613FC0F4D007F2732 /* MyEditor-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyEditor-Prefix.pch"; sourceTree = "<group>"; };
+		C45C3CB713FC0F4D007F2732 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C45C3CB913FC0F4D007F2732 /* MyEditorAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyEditorAppDelegate.h; sourceTree = "<group>"; };
+		C45C3CBA13FC0F4D007F2732 /* MyEditorAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyEditorAppDelegate.m; sourceTree = "<group>"; };
+		C45C3CBD13FC0F4E007F2732 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		C45C3CBF13FC0F4E007F2732 /* MyEditorViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyEditorViewController.h; sourceTree = "<group>"; };
+		C45C3CC013FC0F4E007F2732 /* MyEditorViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyEditorViewController.m; sourceTree = "<group>"; };
+		C45C3CC313FC0F4E007F2732 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MyEditorViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C45C3CA313FC0F4D007F2732 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C45C3CAB13FC0F4D007F2732 /* UIKit.framework in Frameworks */,
+				C45C3CAD13FC0F4D007F2732 /* Foundation.framework in Frameworks */,
+				C45C3CAF13FC0F4D007F2732 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C45C3C9B13FC0F4B007F2732 = {
+			isa = PBXGroup;
+			children = (
+				C45C3CB013FC0F4D007F2732 /* MyEditor */,
+				C45C3CA913FC0F4D007F2732 /* Frameworks */,
+				C45C3CA713FC0F4D007F2732 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C45C3CA713FC0F4D007F2732 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C45C3CA613FC0F4D007F2732 /* MyEditor.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C45C3CA913FC0F4D007F2732 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C45C3CAA13FC0F4D007F2732 /* UIKit.framework */,
+				C45C3CAC13FC0F4D007F2732 /* Foundation.framework */,
+				C45C3CAE13FC0F4D007F2732 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C45C3CB013FC0F4D007F2732 /* MyEditor */ = {
+			isa = PBXGroup;
+			children = (
+				C45C3CB913FC0F4D007F2732 /* MyEditorAppDelegate.h */,
+				C45C3CBA13FC0F4D007F2732 /* MyEditorAppDelegate.m */,
+				C45C3CBC13FC0F4E007F2732 /* MainWindow.xib */,
+				C45C3CBF13FC0F4E007F2732 /* MyEditorViewController.h */,
+				C45C3CC013FC0F4E007F2732 /* MyEditorViewController.m */,
+				C45C3CC213FC0F4E007F2732 /* MyEditorViewController.xib */,
+				C45C3CB113FC0F4D007F2732 /* Supporting Files */,
+			);
+			path = MyEditor;
+			sourceTree = "<group>";
+		};
+		C45C3CB113FC0F4D007F2732 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C45C3CB213FC0F4D007F2732 /* MyEditor-Info.plist */,
+				C45C3CB313FC0F4D007F2732 /* InfoPlist.strings */,
+				C45C3CB613FC0F4D007F2732 /* MyEditor-Prefix.pch */,
+				C45C3CB713FC0F4D007F2732 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C45C3CA513FC0F4D007F2732 /* MyEditor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C45C3CC713FC0F4E007F2732 /* Build configuration list for PBXNativeTarget "MyEditor" */;
+			buildPhases = (
+				C45C3CA213FC0F4D007F2732 /* Sources */,
+				C45C3CA313FC0F4D007F2732 /* Frameworks */,
+				C45C3CA413FC0F4D007F2732 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyEditor;
+			productName = MyEditor;
+			productReference = C45C3CA613FC0F4D007F2732 /* MyEditor.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C45C3C9D13FC0F4B007F2732 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Berby Huang";
+			};
+			buildConfigurationList = C45C3CA013FC0F4B007F2732 /* Build configuration list for PBXProject "MyEditor" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C45C3C9B13FC0F4B007F2732;
+			productRefGroup = C45C3CA713FC0F4D007F2732 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C45C3CA513FC0F4D007F2732 /* MyEditor */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C45C3CA413FC0F4D007F2732 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C45C3CB513FC0F4D007F2732 /* InfoPlist.strings in Resources */,
+				C45C3CBE13FC0F4E007F2732 /* MainWindow.xib in Resources */,
+				C45C3CC413FC0F4E007F2732 /* MyEditorViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C45C3CA213FC0F4D007F2732 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C45C3CB813FC0F4D007F2732 /* main.m in Sources */,
+				C45C3CBB13FC0F4D007F2732 /* MyEditorAppDelegate.m in Sources */,
+				C45C3CC113FC0F4E007F2732 /* MyEditorViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C45C3CB313FC0F4D007F2732 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C45C3CB413FC0F4D007F2732 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C45C3CBC13FC0F4E007F2732 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C45C3CBD13FC0F4E007F2732 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		C45C3CC213FC0F4E007F2732 /* MyEditorViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C45C3CC313FC0F4E007F2732 /* en */,
+			);
+			name = MyEditorViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C45C3CC513FC0F4E007F2732 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C45C3CC613FC0F4E007F2732 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		C45C3CC813FC0F4E007F2732 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MyEditor/MyEditor-Prefix.pch";
+				INFOPLIST_FILE = "MyEditor/MyEditor-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C45C3CC913FC0F4E007F2732 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MyEditor/MyEditor-Prefix.pch";
+				INFOPLIST_FILE = "MyEditor/MyEditor-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C45C3CA013FC0F4B007F2732 /* Build configuration list for PBXProject "MyEditor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C45C3CC513FC0F4E007F2732 /* Debug */,
+				C45C3CC613FC0F4E007F2732 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C45C3CC713FC0F4E007F2732 /* Build configuration list for PBXNativeTarget "MyEditor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C45C3CC813FC0F4E007F2732 /* Debug */,
+				C45C3CC913FC0F4E007F2732 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C45C3C9D13FC0F4B007F2732 /* Project object */;
+}

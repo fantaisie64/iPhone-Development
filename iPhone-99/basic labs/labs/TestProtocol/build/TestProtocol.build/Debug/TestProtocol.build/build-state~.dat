@@ -1,0 +1,156 @@
+TTestProtocol
+v7
+r0
+t318785666.883698
+cCheck dependencies
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProtocol_Prefix-gbmbogheelfquzawlrmfzayasesx/TestProtocol_Prefix.pch.gch TestProtocol_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/TestProtocol.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/TestProtocol.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/Account.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/Account.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/ATM.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/ATM.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug/TestProtocol" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/ATM.h
+c000000004D5010FC00000000000000E0
+t1297092860
+s224
+i<Foundation/Foundation.h>
+i"Account.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/ATM.m
+c000000004D5010FC0000000000000207
+t1297092860
+s519
+i"ATM.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/Account.h
+c000000004D500A290000000000000221
+t1297091113
+s545
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/Account.m
+c000000004D500A3A00000000000001CD
+t1297091130
+s461
+i"Account.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/TestProtocol.m
+c000000004D5010FC00000000000001CD
+t1297092860
+s461
+i<Foundation/Foundation.h>
+i"Account.h"
+i"ATM.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/TestProtocol_Prefix.pch
+c000000004D50008000000000000000A6
+t1297088640
+s166
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug/TestProtocol
+t1297092866
+s16248
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/ATM.o
+t1297092866
+s11160
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/Account.o
+t1297092866
+s12168
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/TestProtocol.LinkFileList
+c000000004D5010FC00000000000001EA
+t1297092860
+s490
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/TestProtocol.o
+t1297092866
+s8040
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProtocol_Prefix-gbmbogheelfquzawlrmfzayasesx/TestProtocol_Prefix.pch.gch
+t1297092865
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318785660#318785660#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/ATM.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/ATM.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318785666.099608
+e318785666.318226
+r1
+xCompileC
+xbuild/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/ATM.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/ATM.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/ATM.m318785666#318785666#0(0"0(0#0#86"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/ATM.m8608688416#2032"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProtocol_Prefix-gbmbogheelfquzawlrmfzayasesx/TestProtocol_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/ATM.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/ATM.o"0#
+
+CCompileC build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/Account.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/Account.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318785665.745556
+e318785666.119482
+r1
+xCompileC
+xbuild/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/Account.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/Account.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/Account.m318785665#318785666#0(0"0(0#0#90"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/Account.m8607897664#2040"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProtocol_Prefix-gbmbogheelfquzawlrmfzayasesx/TestProtocol_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/Account.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/Account.o"0#
+
+CCompileC build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/TestProtocol.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/TestProtocol.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318785665.743429
+e318785666.099407
+r1
+xCompileC
+xbuild/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/TestProtocol.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/TestProtocol.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/TestProtocol.m318785665#318785666#0(0"0(0#0#95"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/TestProtocol.m7301513068492712960#2050"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/DerivedSources" -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProtocol_Prefix-gbmbogheelfquzawlrmfzayasesx/TestProtocol_Prefix.pch -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/TestProtocol.m" -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/TestProtocol.o"0#
+
+CLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug/TestProtocol" normal x86_64
+s318785666.318426
+e318785666.883578
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug/TestProtocol
+xnormal
+xx86_64
+lSLF07#2@110"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug/TestProtocol318785666#318785666#0(0"0(0#0#0"8609269568#760"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug" -filelist "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/Objects-normal/x86_64/TestProtocol.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug/TestProtocol"0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProtocol_Prefix-gbmbogheelfquzawlrmfzayasesx/TestProtocol_Prefix.pch.gch TestProtocol_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318785660.382912
+e318785665.743075
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProtocol_Prefix-gbmbogheelfquzawlrmfzayasesx/TestProtocol_Prefix.pch.gch
+xTestProtocol_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TestProtocol_Prefix.pch318785660#318785665#0(0"0(0#0#104"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/TestProtocol_Prefix.pch7165073554177815552#1891"    cd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-generated-files.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-own-target-headers.hmap" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-all-target-headers.hmap" -iquote "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/TestProtocol-project-headers.hmap" "-F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/Debug/include" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/DerivedSources/x86_64" "-I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/build/TestProtocol.build/Debug/TestProtocol.build/DerivedSources" -c "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/basic labs/labs/TestProtocol/TestProtocol_Prefix.pch" -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProtocol_Prefix-gbmbogheelfquzawlrmfzayasesx/TestProtocol_Prefix.pch.gch0#
+

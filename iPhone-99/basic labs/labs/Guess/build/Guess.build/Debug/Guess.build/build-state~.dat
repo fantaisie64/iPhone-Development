@@ -1,0 +1,93 @@
+TGuess
+v7
+r0
+t315928586.027846
+cCheck dependencies
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Guess_Prefix-eygmjgvprlgzspeumkyqfxgylnvw/Guess_Prefix.pch.gch Guess_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Guess.build/Debug/Guess.build/Objects-normal/x86_64/Guess.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/Guess.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug/Guess normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C56F5A300000000000000EE
+t1280767395
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C11730A0000000000B37440
+t1276211978
+s11760704
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/Guess.m
+c000000004D24788200000000000001E6
+t1294235778
+s486
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/Guess_Prefix.pch
+c000000004D2475220000000000000098
+t1294234914
+s152
+i<Foundation/Foundation.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug/Guess
+t1294235785
+s9496
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Objects-normal/x86_64/Guess.LinkFileList
+c000000004D2478830000000000000083
+t1294235779
+s131
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Objects-normal/x86_64/Guess.o
+t1294235785
+s7508
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Guess_Prefix-eygmjgvprlgzspeumkyqfxgylnvw/Guess_Prefix.pch.gch
+t1294235784
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315928578#315928579#0(0"0(0#1#0"8616564128#0"0#
+
+CCompileC build/Guess.build/Debug/Guess.build/Objects-normal/x86_64/Guess.o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/Guess.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315928585.249356
+e315928585.590568
+r1
+xCompileC
+xbuild/Guess.build/Debug/Guess.build/Objects-normal/x86_64/Guess.o
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/Guess.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/Guess.m315928585#315928585#0(0"0(0#0#72"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/Guess.m8614642176#1698"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Guess-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Guess-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Guess-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Guess-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/DerivedSources/x86_64 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Guess_Prefix-eygmjgvprlgzspeumkyqfxgylnvw/Guess_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/Guess.m -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Objects-normal/x86_64/Guess.o0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug/Guess normal x86_64
+s315928585.590682
+e315928586.027791
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug/Guess
+xnormal
+xx86_64
+lSLF07#2@87"Link /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug/Guess315928585#315928586#0(0"0(0#0#0"8610289248#642"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug -filelist /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Objects-normal/x86_64/Guess.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug/Guess0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Guess_Prefix-eygmjgvprlgzspeumkyqfxgylnvw/Guess_Prefix.pch.gch Guess_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315928579.242999
+e315928585.249067
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Guess_Prefix-eygmjgvprlgzspeumkyqfxgylnvw/Guess_Prefix.pch.gch
+xGuess_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Guess_Prefix.pch315928579#315928585#0(0"0(0#0#81"/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/Guess_Prefix.pch8614928448#1578"    cd /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Guess-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Guess-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Guess-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/Guess-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Debug/include -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/DerivedSources/x86_64 -I/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/build/Guess.build/Debug/Guess.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/Guess/Guess_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Guess_Prefix-eygmjgvprlgzspeumkyqfxgylnvw/Guess_Prefix.pch.gch0#
+

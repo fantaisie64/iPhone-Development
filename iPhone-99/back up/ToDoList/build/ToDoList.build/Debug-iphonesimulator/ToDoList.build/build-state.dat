@@ -1,0 +1,471 @@
+TToDoList
+v7
+r0
+t313936696.170440
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist ToDoList-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch.gch ToDoList_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList
+cTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib
+c000000004C5E69BC0000000000005C96
+t1281255868
+s23702
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.h
+c000000004C5E671C00000000000002C4
+t1281255196
+s708
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m
+c000000004C601CB200000000000009CE
+t1281367218
+s2510
+i"MyModalViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.h
+c000000004C5E66F90000000000000179
+t1281255161
+s377
+i<UIKit/UIKit.h>
+i"MyModalViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m
+c000000004CEA8B920000000000001AD3
+t1290439570
+s6867
+i"RootViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.h
+c000000004C5E2CA800000000000001C6
+t1281240232
+s454
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m
+c000000004C5E2CA80000000000000A91
+t1281240232
+s2705
+i"ToDoListAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib
+c000000004C5E34BB0000000000006056
+t1281242299
+s24662
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib
+c000000004C5E2CA80000000000004453
+t1281240232
+s17491
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/ToDoList_Prefix.pch
+c000000004C5E2CA80000000000000142
+t1281240232
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app
+t1292163005
+s272
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app.dSYM
+t1292163005
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist
+t1281255112
+s595
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/MainWindow.nib
+t1281255113
+s1546
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/MyModalView.nib
+t1281255874
+s1995
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/PkgInfo
+t1281255112
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/RootViewController.nib
+t1281255113
+s979
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList
+t1292163004
+s26984
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o
+t1281367444
+s44824
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o
+t1292163004
+s52920
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList.LinkFileList
+c000000004C5E66C8000000000000024E
+t1281255112
+s590
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o
+t1281255197
+s49468
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o
+t1281255115
+s6328
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m
+c000000004C5E2CA8000000000000015A
+t1281240232
+s346
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/MyModalView.xib
+c000000004C5E69BC0000000000005C96
+t1281255868
+s23702
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/MyModalViewController.h
+c000000004C5E671C00000000000002C4
+t1281255196
+s708
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/MyModalViewController.m
+c000000004C601CB200000000000009CE
+t1281367218
+s2510
+i"MyModalViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/RootViewController.h
+c000000004C5E66F90000000000000179
+t1281255161
+s377
+i<UIKit/UIKit.h>
+i"MyModalViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/RootViewController.m
+c000000004CEA8B920000000000001AD3
+t1290439570
+s6867
+i"RootViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/ToDoListAppDelegate.h
+c000000004C5E2CA800000000000001C6
+t1281240232
+s454
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/ToDoListAppDelegate.m
+c000000004C5E2CA80000000000000A91
+t1281240232
+s2705
+i"ToDoListAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/MainWindow.xib
+c000000004C5E34BB0000000000006056
+t1281242299
+s24662
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/RootViewController.xib
+c000000004C5E2CA80000000000004453
+t1281240232
+s17491
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/ToDoList_Prefix.pch
+c000000004C5E2CA80000000000000142
+t1281240232
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app
+t1292163005
+s272
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app.dSYM
+t1292163005
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist
+t1281255112
+s595
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app/MainWindow.nib
+t1281255113
+s1546
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app/MyModalView.nib
+t1281255874
+s1995
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app/PkgInfo
+t1281255112
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app/RootViewController.nib
+t1281255113
+s979
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList
+t1292163004
+s26984
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o
+t1281367444
+s44824
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o
+t1292163004
+s52920
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList.LinkFileList
+c000000004C5E66C8000000000000024E
+t1281255112
+s590
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o
+t1281255197
+s49468
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o
+t1281255115
+s6328
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/main.m
+c000000004C5E2CA8000000000000015A
+t1281240232
+s346
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch.gch
+t1281255114
+s15232016
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-hcmqzymrnxsqqdcohcdssyhaqfnv/ToDoList_Prefix.pch.gch
+t2
+s0
+
+NToDoList-Info.plist
+c000000004C5E2CA8000000000000038D
+t1281240232
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313936696#313936696#0(0"0(0#1#0"8600201696#0"0#
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/MyModalViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303060244.560268
+e303060244.732868
+r1
+xCompileC
+xbuild/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m303060244#303060244#0(0"0(0#0#82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m8601859136#2095"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/MyModalViewController.o0#
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313855803.381308
+e313855804.636114
+r1
+xCompileC
+xbuild/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m313855803#313855804#0(0"0(0#0#79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m7307761437599099904#2089"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/RootViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/ToDoListAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302947997.838252
+e302947997.967479
+r1
+xCompileC
+xbuild/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m302947997#302947997#0(0"0(0#0#80"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m8609740480#2091"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/ToDoListAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoListAppDelegate.o0#
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302947914.898447
+e302947915.352951
+r1
+xCompileC
+xbuild/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m302947914#302947915#0(0"0(0#0#57"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m8610017216#2053"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/Classes/MyModalView.xib"
+r0
+
+CCompileXIB "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/RootViewController.xib"
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib
+s302948674.383003
+e302948674.973178
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib
+lSLF07#2@34"CompileXIB Classes/MyModalView.xib302948674#302948674#0(0"0(0#0#74"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib8608517472#617"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/MyModalView.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/Classes/MyModalView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib
+s302947912.311274
+e302947913.212192
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302947912#302947913#0(0"0(0#0#65"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib8607982816#607"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib
+s302947912.345538
+e302947913.176473
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib302947912#302947913#0(0"0(0#0#73"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib32370056117878832#623"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/RootViewController.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app.dSYM" "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList"
+r0
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList
+s313855805.000758
+e313855805.144513
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/ToDoList.app.dSYM build/Debug-iphonesimulator/ToDoList.app/ToDoList313855805#313855805#0(0"0(0#0#100"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList8603331072#422"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app.dSYM0#
+
+CLd "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList" normal i386
+r0
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList normal i386
+s313855804.636301
+e313855805.000543
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList
+xnormal
+xi386
+lSLF07#2@105"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList313855804#313855805#0(0"0(0#0#0"8601906624#965"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/ToDoList0#
+
+CProcessInfoPlistFile "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist" ToDoList-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist ToDoList-Info.plist
+s302947912.306642
+e302947912.311170
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist
+xToDoList-Info.plist
+lSLF07#2@27"Process ToDoList-Info.plist302947912#302947912#0(0"0(0#0#70"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/ToDoList-Info.plist8590265376#518"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ToDoList-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch.gch ToDoList_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302947913.798446
+e302947914.898242
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch.gch
+xToDoList_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile ToDoList_Prefix.pch302947913#302947914#0(0"0(0#0#70"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/ToDoList_Prefix.pch8604524800#1932"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/ToDoList.build/Debug-iphonesimulator/ToDoList.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/ToDoList_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-fwfttyupiegxijcfphvjcnwzhzgm/ToDoList_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDoList_Prefix-hcmqzymrnxsqqdcohcdssyhaqfnv/ToDoList_Prefix.pch.gch ToDoList_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/back up/ToDoList/build/Debug-iphonesimulator/ToDoList.app"
+r0
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app
+s313855805.144619
+e313855805.172006
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app
+lSLF07#2@97"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app313855805#313855805#0(0"0(0#0#0"8598787648#303"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/ToDoList/build/Debug-iphonesimulator/ToDoList.app0#
+

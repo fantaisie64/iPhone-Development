@@ -1,0 +1,51 @@
+TSimplePopover
+v7
+r1
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/MainWindow.xib
+c000000004CBBCB650000000000004D45
+t1287375717
+s19781
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/SimplePopoverViewController.xib
+c000000004CBBD4580000000000005946
+t1287378008
+s22854
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/build/Release/SimplePopover.app
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/build/Release/SimplePopover.app/Contents/Info.plist
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/build/Release/SimplePopover.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/build/Release/SimplePopover.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/build/Release/SimplePopover.app/Contents/Resources/SimplePopoverViewController.nib
+t2
+s0
+
+NSimplePopover-Info.plist
+c000000004CBBCB6500000000000004D6
+t1287375717
+s1238
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/MainWindow.xib
+r0
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/SimplePopoverViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/build/Release/SimplePopover.app/Contents/Info.plist SimplePopover-Info.plist
+r0
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-workspace/iPhone-99/iPhone/SimplePopover/build/Release/SimplePopover.app
+r0
+

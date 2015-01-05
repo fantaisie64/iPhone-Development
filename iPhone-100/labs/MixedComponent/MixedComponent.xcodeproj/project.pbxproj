@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68A8E469138D4D0B0024DA5C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68A8E468138D4D0B0024DA5C /* UIKit.framework */; };
+		68A8E46B138D4D0B0024DA5C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68A8E46A138D4D0B0024DA5C /* Foundation.framework */; };
+		68A8E46D138D4D0B0024DA5C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68A8E46C138D4D0B0024DA5C /* CoreGraphics.framework */; };
+		68A8E473138D4D0C0024DA5C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68A8E471138D4D0C0024DA5C /* InfoPlist.strings */; };
+		68A8E476138D4D0C0024DA5C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68A8E475138D4D0C0024DA5C /* main.m */; };
+		68A8E479138D4D0C0024DA5C /* MixedComponentAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68A8E478138D4D0C0024DA5C /* MixedComponentAppDelegate.m */; };
+		68A8E47C138D4D0C0024DA5C /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68A8E47A138D4D0C0024DA5C /* MainWindow.xib */; };
+		68A8E47F138D4D0C0024DA5C /* MixedComponentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68A8E47E138D4D0C0024DA5C /* MixedComponentViewController.m */; };
+		68A8E482138D4D0C0024DA5C /* MixedComponentViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68A8E480138D4D0C0024DA5C /* MixedComponentViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		68A8E464138D4D0B0024DA5C /* MixedComponent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MixedComponent.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68A8E468138D4D0B0024DA5C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68A8E46A138D4D0B0024DA5C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68A8E46C138D4D0B0024DA5C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		68A8E470138D4D0C0024DA5C /* MixedComponent-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MixedComponent-Info.plist"; sourceTree = "<group>"; };
+		68A8E472138D4D0C0024DA5C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		68A8E474138D4D0C0024DA5C /* MixedComponent-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MixedComponent-Prefix.pch"; sourceTree = "<group>"; };
+		68A8E475138D4D0C0024DA5C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68A8E477138D4D0C0024DA5C /* MixedComponentAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MixedComponentAppDelegate.h; sourceTree = "<group>"; };
+		68A8E478138D4D0C0024DA5C /* MixedComponentAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MixedComponentAppDelegate.m; sourceTree = "<group>"; };
+		68A8E47B138D4D0C0024DA5C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		68A8E47D138D4D0C0024DA5C /* MixedComponentViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MixedComponentViewController.h; sourceTree = "<group>"; };
+		68A8E47E138D4D0C0024DA5C /* MixedComponentViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MixedComponentViewController.m; sourceTree = "<group>"; };
+		68A8E481138D4D0C0024DA5C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MixedComponentViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68A8E461138D4D0B0024DA5C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68A8E469138D4D0B0024DA5C /* UIKit.framework in Frameworks */,
+				68A8E46B138D4D0B0024DA5C /* Foundation.framework in Frameworks */,
+				68A8E46D138D4D0B0024DA5C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68A8E459138D4D0B0024DA5C = {
+			isa = PBXGroup;
+			children = (
+				68A8E46E138D4D0B0024DA5C /* MixedComponent */,
+				68A8E467138D4D0B0024DA5C /* Frameworks */,
+				68A8E465138D4D0B0024DA5C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68A8E465138D4D0B0024DA5C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68A8E464138D4D0B0024DA5C /* MixedComponent.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68A8E467138D4D0B0024DA5C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68A8E468138D4D0B0024DA5C /* UIKit.framework */,
+				68A8E46A138D4D0B0024DA5C /* Foundation.framework */,
+				68A8E46C138D4D0B0024DA5C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68A8E46E138D4D0B0024DA5C /* MixedComponent */ = {
+			isa = PBXGroup;
+			children = (
+				68A8E477138D4D0C0024DA5C /* MixedComponentAppDelegate.h */,
+				68A8E478138D4D0C0024DA5C /* MixedComponentAppDelegate.m */,
+				68A8E47A138D4D0C0024DA5C /* MainWindow.xib */,
+				68A8E47D138D4D0C0024DA5C /* MixedComponentViewController.h */,
+				68A8E47E138D4D0C0024DA5C /* MixedComponentViewController.m */,
+				68A8E480138D4D0C0024DA5C /* MixedComponentViewController.xib */,
+				68A8E46F138D4D0C0024DA5C /* Supporting Files */,
+			);
+			path = MixedComponent;
+			sourceTree = "<group>";
+		};
+		68A8E46F138D4D0C0024DA5C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68A8E470138D4D0C0024DA5C /* MixedComponent-Info.plist */,
+				68A8E471138D4D0C0024DA5C /* InfoPlist.strings */,
+				68A8E474138D4D0C0024DA5C /* MixedComponent-Prefix.pch */,
+				68A8E475138D4D0C0024DA5C /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68A8E463138D4D0B0024DA5C /* MixedComponent */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68A8E485138D4D0C0024DA5C /* Build configuration list for PBXNativeTarget "MixedComponent" */;
+			buildPhases = (
+				68A8E460138D4D0B0024DA5C /* Sources */,
+				68A8E461138D4D0B0024DA5C /* Frameworks */,
+				68A8E462138D4D0B0024DA5C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MixedComponent;
+			productName = MixedComponent;
+			productReference = 68A8E464138D4D0B0024DA5C /* MixedComponent.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68A8E45B138D4D0B0024DA5C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68A8E45E138D4D0B0024DA5C /* Build configuration list for PBXProject "MixedComponent" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68A8E459138D4D0B0024DA5C;
+			productRefGroup = 68A8E465138D4D0B0024DA5C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68A8E463138D4D0B0024DA5C /* MixedComponent */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68A8E462138D4D0B0024DA5C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68A8E473138D4D0C0024DA5C /* InfoPlist.strings in Resources */,
+				68A8E47C138D4D0C0024DA5C /* MainWindow.xib in Resources */,
+				68A8E482138D4D0C0024DA5C /* MixedComponentViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68A8E460138D4D0B0024DA5C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68A8E476138D4D0C0024DA5C /* main.m in Sources */,
+				68A8E479138D4D0C0024DA5C /* MixedComponentAppDelegate.m in Sources */,
+				68A8E47F138D4D0C0024DA5C /* MixedComponentViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		68A8E471138D4D0C0024DA5C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68A8E472138D4D0C0024DA5C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68A8E47A138D4D0C0024DA5C /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68A8E47B138D4D0C0024DA5C /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		68A8E480138D4D0C0024DA5C /* MixedComponentViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68A8E481138D4D0C0024DA5C /* en */,
+			);
+			name = MixedComponentViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		68A8E483138D4D0C0024DA5C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		68A8E484138D4D0C0024DA5C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		68A8E486138D4D0C0024DA5C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MixedComponent/MixedComponent-Prefix.pch";
+				INFOPLIST_FILE = "MixedComponent/MixedComponent-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68A8E487138D4D0C0024DA5C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MixedComponent/MixedComponent-Prefix.pch";
+				INFOPLIST_FILE = "MixedComponent/MixedComponent-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68A8E45E138D4D0B0024DA5C /* Build configuration list for PBXProject "MixedComponent" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68A8E483138D4D0C0024DA5C /* Debug */,
+				68A8E484138D4D0C0024DA5C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68A8E485138D4D0C0024DA5C /* Build configuration list for PBXNativeTarget "MixedComponent" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68A8E486138D4D0C0024DA5C /* Debug */,
+				68A8E487138D4D0C0024DA5C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68A8E45B138D4D0B0024DA5C /* Project object */;
+}

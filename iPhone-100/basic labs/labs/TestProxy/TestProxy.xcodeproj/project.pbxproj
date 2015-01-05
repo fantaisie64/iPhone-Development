@@ -1,0 +1,235 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68081B5B13489CD000DDD77B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68081B5A13489CD000DDD77B /* Foundation.framework */; };
+		68081B5E13489CD100DDD77B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68081B5D13489CD100DDD77B /* main.m */; };
+		68081B6913489EF800DDD77B /* MyProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 68081B6813489EF800DDD77B /* MyProxy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		68081B5413489CD000DDD77B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		68081B5613489CD000DDD77B /* TestProxy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TestProxy; sourceTree = BUILT_PRODUCTS_DIR; };
+		68081B5A13489CD000DDD77B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68081B5D13489CD100DDD77B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68081B6013489CD100DDD77B /* TestProxy-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestProxy-Prefix.pch"; sourceTree = "<group>"; };
+		68081B6113489CD100DDD77B /* TestProxy.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = TestProxy.1; sourceTree = "<group>"; };
+		68081B6713489EF800DDD77B /* MyProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyProxy.h; sourceTree = "<group>"; };
+		68081B6813489EF800DDD77B /* MyProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyProxy.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68081B5313489CD000DDD77B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68081B5B13489CD000DDD77B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68081B4B13489CD000DDD77B = {
+			isa = PBXGroup;
+			children = (
+				68081B5C13489CD100DDD77B /* TestProxy */,
+				68081B5913489CD000DDD77B /* Frameworks */,
+				68081B5713489CD000DDD77B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68081B5713489CD000DDD77B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68081B5613489CD000DDD77B /* TestProxy */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68081B5913489CD000DDD77B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68081B5A13489CD000DDD77B /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68081B5C13489CD100DDD77B /* TestProxy */ = {
+			isa = PBXGroup;
+			children = (
+				68081B5D13489CD100DDD77B /* main.m */,
+				68081B6713489EF800DDD77B /* MyProxy.h */,
+				68081B6813489EF800DDD77B /* MyProxy.m */,
+				68081B6113489CD100DDD77B /* TestProxy.1 */,
+				68081B5F13489CD100DDD77B /* Supporting Files */,
+			);
+			path = TestProxy;
+			sourceTree = "<group>";
+		};
+		68081B5F13489CD100DDD77B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68081B6013489CD100DDD77B /* TestProxy-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68081B5513489CD000DDD77B /* TestProxy */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68081B6413489CD100DDD77B /* Build configuration list for PBXNativeTarget "TestProxy" */;
+			buildPhases = (
+				68081B5213489CD000DDD77B /* Sources */,
+				68081B5313489CD000DDD77B /* Frameworks */,
+				68081B5413489CD000DDD77B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TestProxy;
+			productName = TestProxy;
+			productReference = 68081B5613489CD000DDD77B /* TestProxy */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68081B4D13489CD000DDD77B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68081B5013489CD000DDD77B /* Build configuration list for PBXProject "TestProxy" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68081B4B13489CD000DDD77B;
+			productRefGroup = 68081B5713489CD000DDD77B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68081B5513489CD000DDD77B /* TestProxy */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68081B5213489CD000DDD77B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68081B5E13489CD100DDD77B /* main.m in Sources */,
+				68081B6913489EF800DDD77B /* MyProxy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		68081B6213489CD100DDD77B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		68081B6313489CD100DDD77B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		68081B6513489CD100DDD77B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TestProxy/TestProxy-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		68081B6613489CD100DDD77B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TestProxy/TestProxy-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68081B5013489CD000DDD77B /* Build configuration list for PBXProject "TestProxy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68081B6213489CD100DDD77B /* Debug */,
+				68081B6313489CD100DDD77B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68081B6413489CD100DDD77B /* Build configuration list for PBXNativeTarget "TestProxy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68081B6513489CD100DDD77B /* Debug */,
+				68081B6613489CD100DDD77B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68081B4D13489CD000DDD77B /* Project object */;
+}

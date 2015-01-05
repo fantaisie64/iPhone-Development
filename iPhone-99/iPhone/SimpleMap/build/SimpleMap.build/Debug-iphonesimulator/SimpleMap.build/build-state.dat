@@ -1,0 +1,267 @@
+TSimpleMap
+v7
+r0
+t310566235.822675
+cCheck dependencies
+cProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/Info.plist SimpleMap-Info.plist
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/MainWindow.xib
+cCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/SimpleMapViewController.xib
+cProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleMap_Prefix-aiwtpibvgqzzxiavyoeuxugvnqcm/SimpleMap_Prefix.pch.gch SimpleMap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMapAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMapViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap normal i386
+cGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap
+cTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C56F55F0000000000000132
+t1280767327
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapAppDelegate.h
+c000000004CC9842B00000000000001DD
+t1288274987
+s477
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapAppDelegate.m
+c000000004CC9842B0000000000000A87
+t1288274987
+s2695
+i"SimpleMapAppDelegate.h"
+i"SimpleMapViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapViewController.h
+c000000004CD1585F000000000000019D
+t1288788063
+s413
+i<UIKit/UIKit.h>
+i<mapkit/mapkit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapViewController.m
+c000000004CD2A5DA00000000000007E6
+t1288873434
+s2022
+i"SimpleMapViewController.h"
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/MainWindow.xib
+c000000004CC9842B0000000000004E41
+t1288274987
+s20033
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/SimpleMapViewController.xib
+c000000004CC98BC10000000000004EAF
+t1288276929
+s20143
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/SimpleMap_Prefix.pch
+c000000004CC9842B00000000000000BB
+t1288274987
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app
+t1288873435
+s238
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app.dSYM
+t1288873435
+s102
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/Info.plist
+t1288275731
+s599
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/MainWindow.nib
+t1288275731
+s1127
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/PkgInfo
+t1288275731
+s8
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap
+t1288873435
+s18092
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMapViewController.nib
+t1288277003
+s1796
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMap.LinkFileList
+c000000004CC9871300000000000001C4
+t1288275731
+s452
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMapAppDelegate.o
+t1288873435
+s49300
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMapViewController.o
+t1288873435
+s42644
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/main.o
+t1288275733
+s6328
+
+N/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/main.m
+c000000004CC9842B000000000000015D
+t1288274987
+s349
+i<UIKit/UIKit.h>
+
+N/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleMap_Prefix-aiwtpibvgqzzxiavyoeuxugvnqcm/SimpleMap_Prefix.pch.gch
+t1288275733
+s15232016
+
+NSimpleMap-Info.plist
+c000000004CC9842B000000000000038D
+t1288274987
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310566235#310566235#0(0"0(0#1#0"8613135936#0"0#
+
+CCompileC build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMapAppDelegate.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310566235.356830
+e310566235.647883
+r1
+xCompileC
+xbuild/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMapAppDelegate.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapAppDelegate.m310566235#310566235#0(0"0(0#0#82"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapAppDelegate.m8614891296#2124"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleMap_Prefix-aiwtpibvgqzzxiavyoeuxugvnqcm/SimpleMap_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapAppDelegate.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMapAppDelegate.o0#
+
+CCompileC build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMapViewController.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310566235.358639
+e310566235.719048
+r1
+xCompileC
+xbuild/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMapViewController.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapViewController.m310566235#310566235#0(0"0(0#0#85"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapViewController.m8612700032#2130"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleMap_Prefix-aiwtpibvgqzzxiavyoeuxugvnqcm/SimpleMap_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/Classes/SimpleMapViewController.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMapViewController.o0#
+
+CCompileC build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/main.o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309968533.161815
+e309968533.503885
+r1
+xCompileC
+xbuild/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/main.o
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/main.m309968533#309968533#0(0"0(0#0#58"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/main.m8613099072#2084"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/DerivedSources -include /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleMap_Prefix-aiwtpibvgqzzxiavyoeuxugvnqcm/SimpleMap_Prefix.pch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/main.m -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/MainWindow.xib
+s309968531.228899
+e309968531.858270
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309968531#309968531#0(0"0(0#0#66"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/MainWindow.xib8613669504#611"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/MainWindow.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/SimpleMapViewController.xib
+s309969802.769325
+e309969803.353440
+r1
+xCompileXIB
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/SimpleMapViewController.xib
+lSLF07#2@38"CompileXIB SimpleMapViewController.xib309969802#309969803#0(0"0(0#0#79"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/SimpleMapViewController.xib8617174144#637"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMapViewController.nib /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/SimpleMapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app.dSYM /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap
+s310566235.788711
+e310566235.818377
+r1
+xGenerateDSYMFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app.dSYM
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/SimpleMap.app.dSYM build/Debug-iphonesimulator/SimpleMap.app/SimpleMap310566235#310566235#0(0"0(0#0#103"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap8614942976#428"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app.dSYM0#
+
+CLd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap normal i386
+s310566235.719164
+e310566235.788590
+r1
+xLd
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap
+xnormal
+xi386
+lSLF07#2@108"Link /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap310566235#310566235#0(0"0(0#0#0"8616035744#993"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator -filelist /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/Objects-normal/i386/SimpleMap.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/SimpleMap0#
+
+CProcessInfoPlistFile /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/Info.plist SimpleMap-Info.plist
+s309968531.208633
+e309968531.228787
+r1
+xProcessInfoPlistFile
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/Info.plist
+xSimpleMap-Info.plist
+lSLF07#2@28"Process SimpleMap-Info.plist309968531#309968531#0(0"0(0#0#72"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/SimpleMap-Info.plist8614923264#524"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleMap-Info.plist -genpkginfo /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app/Info.plist0#
+
+CProcessPCH /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleMap_Prefix-aiwtpibvgqzzxiavyoeuxugvnqcm/SimpleMap_Prefix.pch.gch SimpleMap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309968531.926256
+e309968533.161500
+r1
+xProcessPCH
+x/var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleMap_Prefix-aiwtpibvgqzzxiavyoeuxugvnqcm/SimpleMap_Prefix.pch.gch
+xSimpleMap_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SimpleMap_Prefix.pch309968531#309968533#0(0"0(0#0#72"/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/SimpleMap_Prefix.pch8616487904#1961"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-generated-files.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-own-target-headers.hmap -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-all-target-headers.hmap -iquote /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/SimpleMap-project-headers.hmap -F/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/include -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/DerivedSources/i386 -I/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/SimpleMap.build/Debug-iphonesimulator/SimpleMap.build/DerivedSources -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/SimpleMap_Prefix.pch -o /var/folders/TY/TYzkBTKlF2mu89RPTdImPk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleMap_Prefix-aiwtpibvgqzzxiavyoeuxugvnqcm/SimpleMap_Prefix.pch.gch0#
+
+CTouch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app
+s310566235.818481
+e310566235.822628
+r1
+xTouch
+x/Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app
+lSLF07#2@99"Touch /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app310566235#310566235#0(0"0(0#0#0"8614417344#306"    cd /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FANTAISIE/Desktop/iPhone-99/iPhone/SimpleMap/build/Debug-iphonesimulator/SimpleMap.app0#
+

@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		68A8E3F3138975B10024DA5C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68A8E3F2138975B10024DA5C /* UIKit.framework */; };
+		68A8E3F5138975B10024DA5C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68A8E3F4138975B10024DA5C /* Foundation.framework */; };
+		68A8E3F7138975B10024DA5C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68A8E3F6138975B10024DA5C /* CoreGraphics.framework */; };
+		68A8E3FD138975B10024DA5C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68A8E3FB138975B10024DA5C /* InfoPlist.strings */; };
+		68A8E400138975B10024DA5C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68A8E3FF138975B10024DA5C /* main.m */; };
+		68A8E403138975B10024DA5C /* SimplePickerViewAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 68A8E402138975B10024DA5C /* SimplePickerViewAppDelegate.m */; };
+		68A8E406138975B10024DA5C /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68A8E404138975B10024DA5C /* MainWindow.xib */; };
+		68A8E409138975B10024DA5C /* SimplePickerViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68A8E408138975B10024DA5C /* SimplePickerViewViewController.m */; };
+		68A8E40C138975B10024DA5C /* SimplePickerViewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68A8E40A138975B10024DA5C /* SimplePickerViewViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		68A8E3EE138975B10024DA5C /* SimplePickerView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimplePickerView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		68A8E3F2138975B10024DA5C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		68A8E3F4138975B10024DA5C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		68A8E3F6138975B10024DA5C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		68A8E3FA138975B10024DA5C /* SimplePickerView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SimplePickerView-Info.plist"; sourceTree = "<group>"; };
+		68A8E3FC138975B10024DA5C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		68A8E3FE138975B10024DA5C /* SimplePickerView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SimplePickerView-Prefix.pch"; sourceTree = "<group>"; };
+		68A8E3FF138975B10024DA5C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		68A8E401138975B10024DA5C /* SimplePickerViewAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimplePickerViewAppDelegate.h; sourceTree = "<group>"; };
+		68A8E402138975B10024DA5C /* SimplePickerViewAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimplePickerViewAppDelegate.m; sourceTree = "<group>"; };
+		68A8E405138975B10024DA5C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		68A8E407138975B10024DA5C /* SimplePickerViewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimplePickerViewViewController.h; sourceTree = "<group>"; };
+		68A8E408138975B10024DA5C /* SimplePickerViewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimplePickerViewViewController.m; sourceTree = "<group>"; };
+		68A8E40B138975B10024DA5C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SimplePickerViewViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		68A8E3EB138975B10024DA5C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68A8E3F3138975B10024DA5C /* UIKit.framework in Frameworks */,
+				68A8E3F5138975B10024DA5C /* Foundation.framework in Frameworks */,
+				68A8E3F7138975B10024DA5C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		68A8E3E3138975B10024DA5C = {
+			isa = PBXGroup;
+			children = (
+				68A8E3F8138975B10024DA5C /* SimplePickerView */,
+				68A8E3F1138975B10024DA5C /* Frameworks */,
+				68A8E3EF138975B10024DA5C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		68A8E3EF138975B10024DA5C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				68A8E3EE138975B10024DA5C /* SimplePickerView.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		68A8E3F1138975B10024DA5C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				68A8E3F2138975B10024DA5C /* UIKit.framework */,
+				68A8E3F4138975B10024DA5C /* Foundation.framework */,
+				68A8E3F6138975B10024DA5C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		68A8E3F8138975B10024DA5C /* SimplePickerView */ = {
+			isa = PBXGroup;
+			children = (
+				68A8E401138975B10024DA5C /* SimplePickerViewAppDelegate.h */,
+				68A8E402138975B10024DA5C /* SimplePickerViewAppDelegate.m */,
+				68A8E404138975B10024DA5C /* MainWindow.xib */,
+				68A8E407138975B10024DA5C /* SimplePickerViewViewController.h */,
+				68A8E408138975B10024DA5C /* SimplePickerViewViewController.m */,
+				68A8E40A138975B10024DA5C /* SimplePickerViewViewController.xib */,
+				68A8E3F9138975B10024DA5C /* Supporting Files */,
+			);
+			path = SimplePickerView;
+			sourceTree = "<group>";
+		};
+		68A8E3F9138975B10024DA5C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				68A8E3FA138975B10024DA5C /* SimplePickerView-Info.plist */,
+				68A8E3FB138975B10024DA5C /* InfoPlist.strings */,
+				68A8E3FE138975B10024DA5C /* SimplePickerView-Prefix.pch */,
+				68A8E3FF138975B10024DA5C /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		68A8E3ED138975B10024DA5C /* SimplePickerView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 68A8E40F138975B10024DA5C /* Build configuration list for PBXNativeTarget "SimplePickerView" */;
+			buildPhases = (
+				68A8E3EA138975B10024DA5C /* Sources */,
+				68A8E3EB138975B10024DA5C /* Frameworks */,
+				68A8E3EC138975B10024DA5C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SimplePickerView;
+			productName = SimplePickerView;
+			productReference = 68A8E3EE138975B10024DA5C /* SimplePickerView.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		68A8E3E5138975B10024DA5C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = NTU;
+			};
+			buildConfigurationList = 68A8E3E8138975B10024DA5C /* Build configuration list for PBXProject "SimplePickerView" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 68A8E3E3138975B10024DA5C;
+			productRefGroup = 68A8E3EF138975B10024DA5C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				68A8E3ED138975B10024DA5C /* SimplePickerView */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		68A8E3EC138975B10024DA5C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68A8E3FD138975B10024DA5C /* InfoPlist.strings in Resources */,
+				68A8E406138975B10024DA5C /* MainWindow.xib in Resources */,
+				68A8E40C138975B10024DA5C /* SimplePickerViewViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		68A8E3EA138975B10024DA5C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				68A8E400138975B10024DA5C /* main.m in Sources */,
+				68A8E403138975B10024DA5C /* SimplePickerViewAppDelegate.m in Sources */,
+				68A8E409138975B10024DA5C /* SimplePickerViewViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		68A8E3FB138975B10024DA5C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68A8E3FC138975B10024DA5C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		68A8E404138975B10024DA5C /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68A8E405138975B10024DA5C /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		68A8E40A138975B10024DA5C /* SimplePickerViewViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				68A8E40B138975B10024DA5C /* en */,
+			);
+			name = SimplePickerViewViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		68A8E40D138975B10024DA5C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		68A8E40E138975B10024DA5C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		68A8E410138975B10024DA5C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimplePickerView/SimplePickerView-Prefix.pch";
+				INFOPLIST_FILE = "SimplePickerView/SimplePickerView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		68A8E411138975B10024DA5C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimplePickerView/SimplePickerView-Prefix.pch";
+				INFOPLIST_FILE = "SimplePickerView/SimplePickerView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		68A8E3E8138975B10024DA5C /* Build configuration list for PBXProject "SimplePickerView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68A8E40D138975B10024DA5C /* Debug */,
+				68A8E40E138975B10024DA5C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		68A8E40F138975B10024DA5C /* Build configuration list for PBXNativeTarget "SimplePickerView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				68A8E410138975B10024DA5C /* Debug */,
+				68A8E411138975B10024DA5C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 68A8E3E5138975B10024DA5C /* Project object */;
+}

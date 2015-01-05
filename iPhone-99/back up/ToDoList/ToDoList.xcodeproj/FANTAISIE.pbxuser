@@ -1,0 +1,214 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ToDoListAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 406}}";
+			sepNavSelRange = "{362, 84}";
+			sepNavVisRange = "{0, 454}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ToDoListAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1183}}";
+			sepNavSelRange = "{2626, 31}";
+			sepNavVisRange = "{0, 706}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ToDoList */ = {
+		activeExec = 0;
+		executables = (
+			68B8910F120E6428006DED3E /* ToDoList */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 406}}";
+			sepNavSelRange = "{189, 0}";
+			sepNavVisRange = "{0, 377}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{6070, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{6121, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{6171, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6867}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {964, 3185}}";
+			sepNavSelRange = "{1701, 0}";
+			sepNavVisRange = "{345, 1184}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68B8910F120E6428006DED3E /* ToDoList */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ToDoList */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ToDoList */,
+		);
+		codeSenseManager = 68B89125120E642C006DED3E /* Code sense */;
+		executables = (
+			68B8910F120E6428006DED3E /* ToDoList */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					703,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318706567;
+			PBXWorkspaceStateSaveDate = 318706567;
+		};
+		perUserProjectItems = {
+			68A0FF4912B64AA400E37E1C /* PBXTextBookmark */ = 68A0FF4912B64AA400E37E1C /* PBXTextBookmark */;
+			68A0FF4A12B64AA400E37E1C /* PBXTextBookmark */ = 68A0FF4A12B64AA400E37E1C /* PBXTextBookmark */;
+			68FC6CA112FF13A8006934AD /* PBXTextBookmark */ = 68FC6CA112FF13A8006934AD /* PBXTextBookmark */;
+			68FC6CA212FF13A8006934AD /* PBXTextBookmark */ = 68FC6CA212FF13A8006934AD /* PBXTextBookmark */;
+			68FC6CA312FF13A8006934AD /* PBXTextBookmark */ = 68FC6CA312FF13A8006934AD /* PBXTextBookmark */;
+			68FC6CA412FF13A8006934AD /* PBXTextBookmark */ = 68FC6CA412FF13A8006934AD /* PBXTextBookmark */;
+			68FC6CA512FF13A8006934AD /* PBXTextBookmark */ = 68FC6CA512FF13A8006934AD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68B89124120E642C006DED3E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	68A0FF4912B64AA400E37E1C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68B89127120E647D006DED3E /* MyModalViewController.h */;
+		name = "MyModalViewController.h: 11";
+		rLen = 0;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 708;
+		vrLoc = 0;
+	};
+	68A0FF4A12B64AA400E37E1C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68B89128120E647D006DED3E /* MyModalViewController.m */;
+		name = "MyModalViewController.m: 47";
+		rLen = 78;
+		rLoc = 1428;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 0;
+	};
+	68B8910F120E6428006DED3E /* ToDoList */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ToDoList;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68B89124120E642C006DED3E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68B89125120E642C006DED3E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68B89127120E647D006DED3E /* MyModalViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 420}}";
+			sepNavSelRange = "{186, 0}";
+			sepNavVisRange = "{0, 708}";
+		};
+	};
+	68B89128120E647D006DED3E /* MyModalViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1183}}";
+			sepNavSelRange = "{1428, 78}";
+			sepNavVisRange = "{0, 808}";
+		};
+	};
+	68FC6CA112FF13A8006934AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ToDoListAppDelegate.m */;
+		name = "ToDoListAppDelegate.m: 83";
+		rLen = 31;
+		rLoc = 2626;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 0;
+	};
+	68FC6CA212FF13A8006934AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ToDoListAppDelegate.h */;
+		name = "ToDoListAppDelegate.h: 18";
+		rLen = 84;
+		rLoc = 362;
+		rType = 0;
+		vrLen = 454;
+		vrLoc = 0;
+	};
+	68FC6CA312FF13A8006934AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 54";
+		rLen = 0;
+		rLoc = 1701;
+		rType = 0;
+		vrLen = 1184;
+		vrLoc = 345;
+	};
+	68FC6CA412FF13A8006934AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 14";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	68FC6CA512FF13A8006934AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 11";
+		rLen = 0;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+}
